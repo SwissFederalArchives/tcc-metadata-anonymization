@@ -1,0 +1,4119 @@
+Ortschaftsname,PLZ,Zusatzziffer,Gemeindename,BFS-Nr,Kantonskürzel,Sprache
+Aeugst am Albis,8914,0,Aeugst am Albis,1,ZH,de
+Aeugstertal,8914,2,Aeugst am Albis,1,ZH,de
+Zwillikon,8909,0,Affoltern am Albis,2,ZH,de
+Affoltern am Albis,8910,0,Affoltern am Albis,2,ZH,de
+Bonstetten,8906,0,Bonstetten,3,ZH,de
+Hausen am Albis,8915,0,Hausen am Albis,4,ZH,de
+Ebertswil,8925,0,Hausen am Albis,4,ZH,de
+Hedingen,8908,0,Hedingen,5,ZH,de
+Kappel am Albis,8926,0,Kappel am Albis,6,ZH,de
+Hauptikon,8926,2,Kappel am Albis,6,ZH,de
+Uerzlikon,8926,3,Kappel am Albis,6,ZH,de
+Knonau,8934,0,Knonau,7,ZH,de
+Maschwanden,8933,0,Maschwanden,8,ZH,de
+Mettmenstetten,8932,0,Mettmenstetten,9,ZH,de
+Obfelden,8912,0,Obfelden,10,ZH,de
+Ottenbach,8913,0,Ottenbach,11,ZH,de
+Rifferswil,8911,0,Rifferswil,12,ZH,de
+Stallikon,8143,0,Stallikon,13,ZH,de
+Uetliberg,8143,2,Stallikon,13,ZH,de
+Wettswil,8907,0,Wettswil am Albis,14,ZH,de
+Adlikon b. Andelfingen,8452,0,Adlikon,21,ZH,de
+Benken ZH,8463,0,Benken (ZH),22,ZH,de
+Berg am Irchel,8415,0,Berg am Irchel,23,ZH,de
+Gräslikon,8415,1,Berg am Irchel,23,ZH,de
+Buch am Irchel,8414,0,Buch am Irchel,24,ZH,de
+Dachsen,8447,0,Dachsen,25,ZH,de
+Dorf,8458,0,Dorf,26,ZH,de
+Feuerthalen,8245,0,Feuerthalen,27,ZH,de
+Langwiesen,8246,0,Feuerthalen,27,ZH,de
+Flaach,8416,0,Flaach,28,ZH,de
+Flurlingen,8247,0,Flurlingen,29,ZH,de
+Andelfingen,8450,0,Andelfingen,30,ZH,de
+Henggart,8444,0,Henggart,31,ZH,de
+Humlikon,8457,0,Humlikon,32,ZH,de
+Kleinandelfingen,8451,0,Kleinandelfingen,33,ZH,de
+Alten,8453,0,Kleinandelfingen,33,ZH,de
+Oerlingen,8461,0,Kleinandelfingen,33,ZH,de
+Nohl,8212,4,Laufen-Uhwiesen,34,ZH,de
+Uhwiesen,8248,0,Laufen-Uhwiesen,34,ZH,de
+Marthalen,8460,0,Marthalen,35,ZH,de
+Ellikon am Rhein,8464,0,Marthalen,35,ZH,de
+Ossingen,8475,0,Ossingen,37,ZH,de
+Rheinau,8462,0,Rheinau,38,ZH,de
+Thalheim an der Thur,8478,0,Thalheim an der Thur,39,ZH,de
+Rudolfingen,8465,0,Trüllikon,40,ZH,de
+Wildensbuch,8465,1,Trüllikon,40,ZH,de
+Trüllikon,8466,0,Trüllikon,40,ZH,de
+Truttikon,8467,0,Truttikon,41,ZH,de
+Volken,8459,0,Volken,43,ZH,de
+Bachenbülach,8184,0,Bachenbülach,51,ZH,de
+Bassersdorf,8303,0,Bassersdorf,52,ZH,de
+Bülach,8180,0,Bülach,53,ZH,de
+Dietlikon,8305,0,Dietlikon,54,ZH,de
+Eglisau,8193,0,Eglisau,55,ZH,de
+Embrach,8424,0,Embrach,56,ZH,de
+Freienstein,8427,2,Freienstein-Teufen,57,ZH,de
+Teufen ZH,8428,0,Freienstein-Teufen,57,ZH,de
+Glattfelden,8192,0,Glattfelden,58,ZH,de
+Zweidlen,8192,1,Glattfelden,58,ZH,de
+Hochfelden,8182,0,Hochfelden,59,ZH,de
+Höri,8181,0,Höri,60,ZH,de
+Hüntwangen,8194,0,Hüntwangen,61,ZH,de
+Kloten,8302,0,Kloten,62,ZH,de
+Lufingen,8426,0,Lufingen,63,ZH,de
+Nürensdorf,8309,0,Nürensdorf,64,ZH,de
+Oberembrach,8425,0,Oberembrach,65,ZH,de
+Glattbrugg,8152,0,Opfikon,66,ZH,de
+Opfikon,8152,1,Opfikon,66,ZH,de
+Glattpark (Opfikon),8152,2,Opfikon,66,ZH,de
+Rafz,8197,0,Rafz,67,ZH,de
+Rorbas,8427,3,Rorbas,68,ZH,de
+Wallisellen,8304,0,Wallisellen,69,ZH,de
+Wasterkingen,8195,0,Wasterkingen,70,ZH,de
+Wil ZH,8196,0,Wil (ZH),71,ZH,de
+Winkel,8185,0,Winkel,72,ZH,de
+Bachs,8164,0,Bachs,81,ZH,de
+Boppelsen,8113,0,Boppelsen,82,ZH,de
+Buchs ZH,8107,0,Buchs (ZH),83,ZH,de
+Dällikon,8108,0,Dällikon,84,ZH,de
+Dänikon ZH,8114,0,Dänikon,85,ZH,de
+Dielsdorf,8157,0,Dielsdorf,86,ZH,de
+Hüttikon,8115,0,Hüttikon,87,ZH,de
+Neerach,8173,0,Neerach,88,ZH,de
+Niederglatt ZH,8172,0,Niederglatt,89,ZH,de
+Niederhasli,8155,0,Niederhasli,90,ZH,de
+Nassenwil,8155,1,Niederhasli,90,ZH,de
+Oberhasli,8156,0,Niederhasli,90,ZH,de
+Niederweningen,8166,0,Niederweningen,91,ZH,de
+Oberglatt ZH,8154,0,Oberglatt,92,ZH,de
+Oberweningen,8165,2,Oberweningen,93,ZH,de
+Otelfingen,8112,0,Otelfingen,94,ZH,de
+Regensberg,8158,0,Regensberg,95,ZH,de
+Regensdorf,8105,0,Regensdorf,96,ZH,de
+Watt,8105,2,Regensdorf,96,ZH,de
+Adlikon b. Regensdorf,8106,2,Regensdorf,96,ZH,de
+Rümlang,8153,0,Rümlang,97,ZH,de
+Schleinikon,8165,3,Schleinikon,98,ZH,de
+Schöfflisdorf,8165,0,Schöfflisdorf,99,ZH,de
+Stadel b. Niederglatt,8174,0,Stadel,100,ZH,de
+Windlach,8175,0,Stadel,100,ZH,de
+Steinmaur,8162,0,Steinmaur,101,ZH,de
+Sünikon,8162,1,Steinmaur,101,ZH,de
+Weiach,8187,0,Weiach,102,ZH,de
+Bäretswil,8344,0,Bäretswil,111,ZH,de
+Adetswil,8345,0,Bäretswil,111,ZH,de
+Bubikon,8608,0,Bubikon,112,ZH,de
+Wolfhausen,8633,0,Bubikon,112,ZH,de
+Tann,8632,0,Dürnten,113,ZH,de
+Dürnten,8635,0,Dürnten,113,ZH,de
+Steg im Tösstal,8496,0,Fischenthal,114,ZH,de
+Fischenthal,8497,0,Fischenthal,114,ZH,de
+Gibswil,8498,0,Fischenthal,114,ZH,de
+Bertschikon (Gossau ZH),8614,0,Gossau (ZH),115,ZH,de
+Grüt (Gossau ZH),8624,0,Gossau (ZH),115,ZH,de
+Gossau ZH,8625,0,Gossau (ZH),115,ZH,de
+Ottikon (Gossau ZH),8626,0,Gossau (ZH),115,ZH,de
+Grüningen,8627,0,Grüningen,116,ZH,de
+Hinwil,8340,0,Hinwil,117,ZH,de
+Wernetshausen,8342,0,Hinwil,117,ZH,de
+Rüti ZH,8630,0,Rüti (ZH),118,ZH,de
+Aathal-Seegräben,8607,0,Seegräben,119,ZH,de
+Wald ZH,8636,0,Wald (ZH),120,ZH,de
+Laupen ZH,8637,0,Wald (ZH),120,ZH,de
+Wetzikon ZH,8620,0,Wetzikon (ZH),121,ZH,de
+Wetzikon ZH,8623,0,Wetzikon (ZH),121,ZH,de
+Adliswil,8134,0,Adliswil,131,ZH,de
+Kilchberg ZH,8802,0,Kilchberg (ZH),135,ZH,de
+Langnau am Albis,8135,0,Langnau am Albis,136,ZH,de
+Oberrieden,8942,0,Oberrieden,137,ZH,de
+Richterswil,8805,0,Richterswil,138,ZH,de
+Samstagern,8833,0,Richterswil,138,ZH,de
+Rüschlikon,8803,0,Rüschlikon,139,ZH,de
+Gattikon,8136,0,Thalwil,141,ZH,de
+Thalwil,8800,0,Thalwil,141,ZH,de
+Erlenbach ZH,8703,0,Erlenbach (ZH),151,ZH,de
+Herrliberg,8704,0,Herrliberg,152,ZH,de
+Hombrechtikon,8634,0,Hombrechtikon,153,ZH,de
+Feldbach,8714,0,Hombrechtikon,153,ZH,de
+Forch,8127,0,Küsnacht (ZH),154,ZH,de
+Küsnacht ZH,8700,0,Küsnacht (ZH),154,ZH,de
+Männedorf,8708,0,Männedorf,155,ZH,de
+Meilen,8706,0,Meilen,156,ZH,de
+Oetwil am See,8618,0,Oetwil am See,157,ZH,de
+Stäfa,8712,0,Stäfa,158,ZH,de
+Uerikon,8713,0,Stäfa,158,ZH,de
+Uetikon am See,8707,0,Uetikon am See,159,ZH,de
+Zumikon,8126,0,Zumikon,160,ZH,de
+Zollikerberg,8125,0,Zollikon,161,ZH,de
+Zollikon,8702,0,Zollikon,161,ZH,de
+Fehraltorf,8320,0,Fehraltorf,172,ZH,de
+Hittnau,8335,0,Hittnau,173,ZH,de
+Kemptthal,8310,0,Lindau,176,ZH,de
+Grafstal,8310,1,Lindau,176,ZH,de
+Winterberg ZH,8312,0,Lindau,176,ZH,de
+Lindau,8315,0,Lindau,176,ZH,de
+Tagelswangen,8317,0,Lindau,176,ZH,de
+Pfäffikon ZH,8330,0,Pfäffikon,177,ZH,de
+Auslikon,8331,0,Pfäffikon,177,ZH,de
+Madetswil,8322,0,Russikon,178,ZH,de
+Gündisau,8322,2,Russikon,178,ZH,de
+Russikon,8332,0,Russikon,178,ZH,de
+Rumlikon,8332,2,Russikon,178,ZH,de
+Weisslingen,8484,0,Weisslingen,180,ZH,de
+Neschwil,8484,2,Weisslingen,180,ZH,de
+Theilingen,8484,3,Weisslingen,180,ZH,de
+Wila,8492,0,Wila,181,ZH,de
+Wildberg,8489,0,Wildberg,182,ZH,de
+Schalchen,8489,1,Wildberg,182,ZH,de
+Ehrikon,8489,2,Wildberg,182,ZH,de
+Gockhausen,8044,1,Dübendorf,191,ZH,de
+Dübendorf,8600,0,Dübendorf,191,ZH,de
+Egg b. Zürich,8132,0,Egg,192,ZH,de
+Hinteregg,8132,2,Egg,192,ZH,de
+Esslingen,8133,0,Egg,192,ZH,de
+Fällanden,8117,0,Fällanden,193,ZH,de
+Pfaffhausen,8118,0,Fällanden,193,ZH,de
+Benglen,8121,0,Fällanden,193,ZH,de
+Greifensee,8606,2,Greifensee,194,ZH,de
+Binz,8122,0,Maur,195,ZH,de
+Ebmatingen,8123,0,Maur,195,ZH,de
+Maur,8124,0,Maur,195,ZH,de
+Mönchaltorf,8617,0,Mönchaltorf,196,ZH,de
+Schwerzenbach,8603,0,Schwerzenbach,197,ZH,de
+Nänikon,8606,0,Uster,198,ZH,de
+Uster,8610,0,Uster,198,ZH,de
+Sulzbach,8614,2,Uster,198,ZH,de
+Wermatswil,8615,0,Uster,198,ZH,de
+Freudwil,8615,2,Uster,198,ZH,de
+Riedikon,8616,0,Uster,198,ZH,de
+Volketswil,8604,0,Volketswil,199,ZH,de
+Gutenswil,8605,0,Volketswil,199,ZH,de
+Brüttisellen,8306,0,Wangen-Brüttisellen,200,ZH,de
+Wangen b. Dübendorf,8602,0,Wangen-Brüttisellen,200,ZH,de
+Altikon,8479,0,Altikon,211,ZH,de
+Brütten,8311,0,Brütten,213,ZH,de
+Rutschwil (Dägerlen),8471,0,Dägerlen,214,ZH,de
+Dägerlen,8471,2,Dägerlen,214,ZH,de
+Oberwil (Dägerlen),8471,3,Dägerlen,214,ZH,de
+Berg (Dägerlen),8471,4,Dägerlen,214,ZH,de
+Bänk (Dägerlen),8471,5,Dägerlen,214,ZH,de
+Dättlikon,8421,0,Dättlikon,215,ZH,de
+Dinhard,8474,0,Dinhard,216,ZH,de
+Ellikon an der Thur,8548,0,Ellikon an der Thur,218,ZH,de
+Elsau,8352,0,Elsau,219,ZH,de
+Hagenbuch ZH,8523,0,Hagenbuch,220,ZH,de
+Hettlingen,8442,0,Hettlingen,221,ZH,de
+Aesch (Neftenbach),8412,0,Neftenbach,223,ZH,de
+Riet (Neftenbach),8412,1,Neftenbach,223,ZH,de
+Hünikon (Neftenbach),8412,2,Neftenbach,223,ZH,de
+Neftenbach,8413,0,Neftenbach,223,ZH,de
+Pfungen,8422,0,Pfungen,224,ZH,de
+Rickenbach ZH,8545,0,Rickenbach (ZH),225,ZH,de
+Rickenbach Sulz,8545,1,Rickenbach (ZH),225,ZH,de
+Schlatt ZH,8418,0,Schlatt (ZH),226,ZH,de
+Seuzach,8472,0,Seuzach,227,ZH,de
+Turbenthal,8488,0,Turbenthal,228,ZH,de
+Schmidrüti,8495,0,Turbenthal,228,ZH,de
+Ricketwil (Winterthur),8352,2,Winterthur,230,ZH,de
+Winterthur,8400,0,Winterthur,230,ZH,de
+Winterthur,8404,0,Winterthur,230,ZH,de
+Reutlingen (Winterthur),8404,2,Winterthur,230,ZH,de
+Stadel (Winterthur),8404,3,Winterthur,230,ZH,de
+Winterthur,8405,0,Winterthur,230,ZH,de
+Winterthur,8406,0,Winterthur,230,ZH,de
+Winterthur,8408,0,Winterthur,230,ZH,de
+Winterthur,8409,0,Winterthur,230,ZH,de
+Sennhof (Winterthur),8482,0,Winterthur,230,ZH,de
+Kollbrunn,8483,0,Zell (ZH),231,ZH,de
+Rikon im Tösstal,8486,0,Zell (ZH),231,ZH,de
+Zell ZH,8487,0,Zell (ZH),231,ZH,de
+Rämismühle,8487,1,Zell (ZH),231,ZH,de
+Aesch ZH,8904,0,Aesch (ZH),241,ZH,de
+Birmensdorf ZH,8903,0,Birmensdorf (ZH),242,ZH,de
+Dietikon,8953,0,Dietikon,243,ZH,de
+Fahrweid,8951,0,Geroldswil,244,ZH,de
+Geroldswil,8954,0,Geroldswil,244,ZH,de
+Oberengstringen,8102,0,Oberengstringen,245,ZH,de
+Oetwil an der Limmat,8955,0,Oetwil an der Limmat,246,ZH,de
+Schlieren,8952,0,Schlieren,247,ZH,de
+Uitikon Waldegg,8142,0,Uitikon,248,ZH,de
+Unterengstringen,8103,0,Unterengstringen,249,ZH,de
+Urdorf,8902,0,Urdorf,250,ZH,de
+Weiningen ZH,8104,0,Weiningen (ZH),251,ZH,de
+Zürich,8001,0,Zürich,261,ZH,de
+Zürich,8002,0,Zürich,261,ZH,de
+Zürich,8003,0,Zürich,261,ZH,de
+Zürich,8004,0,Zürich,261,ZH,de
+Zürich,8005,0,Zürich,261,ZH,de
+Zürich,8006,0,Zürich,261,ZH,de
+Zürich,8008,0,Zürich,261,ZH,de
+Zürich,8032,0,Zürich,261,ZH,de
+Zürich,8037,0,Zürich,261,ZH,de
+Zürich,8038,0,Zürich,261,ZH,de
+Zürich,8041,0,Zürich,261,ZH,de
+Zürich,8044,0,Zürich,261,ZH,de
+Zürich,8045,0,Zürich,261,ZH,de
+Zürich,8046,0,Zürich,261,ZH,de
+Zürich,8047,0,Zürich,261,ZH,de
+Zürich,8048,0,Zürich,261,ZH,de
+Zürich,8049,0,Zürich,261,ZH,de
+Zürich,8050,0,Zürich,261,ZH,de
+Zürich,8051,0,Zürich,261,ZH,de
+Zürich,8052,0,Zürich,261,ZH,de
+Zürich,8053,0,Zürich,261,ZH,de
+Zürich,8055,0,Zürich,261,ZH,de
+Zürich,8057,0,Zürich,261,ZH,de
+Zürich,8064,0,Zürich,261,ZH,de
+Waltalingen,8468,0,Stammheim,292,ZH,de
+Guntalingen,8468,2,Stammheim,292,ZH,de
+Unterstammheim,8476,0,Stammheim,292,ZH,de
+Oberstammheim,8477,0,Stammheim,292,ZH,de
+Wilen b. Neunforn,8525,2,Stammheim,292,ZH,de
+Au ZH,8804,0,Wädenswil,293,ZH,de
+Wädenswil,8820,0,Wädenswil,293,ZH,de
+Schönenberg ZH,8824,0,Wädenswil,293,ZH,de
+Hütten,8825,0,Wädenswil,293,ZH,de
+Elgg,8353,0,Elgg,294,ZH,de
+Hofstetten ZH,8354,0,Elgg,294,ZH,de
+Dickbuch,8354,1,Elgg,294,ZH,de
+Sihlbrugg Station,8135,2,Horgen,295,ZH,de
+Sihlwald,8135,3,Horgen,295,ZH,de
+Horgen,8810,0,Horgen,295,ZH,de
+Horgenberg,8815,0,Horgen,295,ZH,de
+Hirzel,8816,0,Horgen,295,ZH,de
+Effretikon,8307,0,Illnau-Effretikon,296,ZH,de
+Ottikon b. Kemptthal,8307,2,Illnau-Effretikon,296,ZH,de
+Illnau,8308,0,Illnau-Effretikon,296,ZH,de
+Agasul,8308,2,Illnau-Effretikon,296,ZH,de
+Kyburg,8314,0,Illnau-Effretikon,296,ZH,de
+Saland,8493,0,Bauma,297,ZH,de
+Bauma,8494,0,Bauma,297,ZH,de
+Sternenberg,8499,0,Bauma,297,ZH,de
+Wiesendangen,8542,0,Wiesendangen,298,ZH,de
+Bertschikon,8543,0,Wiesendangen,298,ZH,de
+Gundetswil,8543,1,Wiesendangen,298,ZH,de
+Kefikon ZH,8543,2,Wiesendangen,298,ZH,de
+Attikon,8544,0,Wiesendangen,298,ZH,de
+Menzengrüt,8546,3,Wiesendangen,298,ZH,de
+Aarberg,3270,0,Aarberg,301,BE,de
+Bargen BE,3282,0,Bargen (BE),302,BE,de
+Grossaffoltern,3257,0,Grossaffoltern,303,BE,de
+Ammerzwil BE,3257,1,Grossaffoltern,303,BE,de
+Suberg,3262,0,Grossaffoltern,303,BE,de
+Golaten,3207,2,Kallnach,304,BE,de
+Kallnach,3283,0,Kallnach,304,BE,de
+Niederried b. Kallnach,3283,2,Kallnach,304,BE,de
+Kappelen,3273,0,Kappelen,305,BE,de
+Lyss,3250,0,Lyss,306,BE,de
+Busswil BE,3292,0,Lyss,306,BE,de
+Ortschwaben,3042,0,Meikirch,307,BE,de
+Meikirch,3045,0,Meikirch,307,BE,de
+Wahlendorf,3046,0,Meikirch,307,BE,de
+Detligen,3036,0,Radelfingen,309,BE,de
+Radelfingen b. Aarberg,3271,0,Radelfingen,309,BE,de
+Lätti,3053,5,Rapperswil (BE),310,BE,de
+Ruppoldsried,3251,2,Rapperswil (BE),310,BE,de
+Rapperswil BE,3255,0,Rapperswil (BE),310,BE,de
+Dieterswil,3256,0,Rapperswil (BE),310,BE,de
+Bangerten b. Dieterswil,3256,2,Rapperswil (BE),310,BE,de
+Seewil,3256,3,Rapperswil (BE),310,BE,de
+Schüpfen,3054,0,Schüpfen,311,BE,de
+Frieswil,3035,0,Seedorf (BE),312,BE,de
+Wiler b. Seedorf,3266,0,Seedorf (BE),312,BE,de
+Seedorf BE,3267,0,Seedorf (BE),312,BE,de
+Lobsigen,3268,0,Seedorf (BE),312,BE,de
+Aarwangen,4912,0,Aarwangen,321,BE,de
+Auswil,4944,0,Auswil,322,BE,de
+Bannwil,4913,0,Bannwil,323,BE,de
+Bleienbach,3368,0,Bleienbach,324,BE,de
+Busswil b. Melchnau,4917,2,Busswil bei Melchnau,325,BE,de
+Gondiswil,4955,0,Gondiswil,326,BE,de
+Langenthal,4900,0,Langenthal,329,BE,de
+Untersteckholz,4916,0,Langenthal,329,BE,de
+Lotzwil,4932,0,Lotzwil,331,BE,de
+Gutenburg,4932,2,Madiswil,332,BE,de
+Madiswil,4934,0,Madiswil,332,BE,de
+Leimiswil,4935,0,Madiswil,332,BE,de
+Kleindietwil,4936,0,Madiswil,332,BE,de
+Melchnau,4917,0,Melchnau,333,BE,de
+Obersteckholz,4924,0,Obersteckholz,334,BE,de
+Oeschenbach,4943,0,Oeschenbach,335,BE,de
+Reisiswil,4919,0,Reisiswil,336,BE,de
+Roggwil BE,4914,0,Roggwil (BE),337,BE,de
+Rohrbach,4938,0,Rohrbach,338,BE,de
+Rohrbachgraben,4938,2,Rohrbachgraben,339,BE,de
+Rütschelen,4933,0,Rütschelen,340,BE,de
+Schwarzhäusern,4911,0,Schwarzhäusern,341,BE,de
+Bützberg,4922,0,Thunstetten,342,BE,de
+Thunstetten,4922,2,Thunstetten,342,BE,de
+Ursenbach,4937,0,Ursenbach,344,BE,de
+Wynau,4923,0,Wynau,345,BE,de
+Bern,3004,0,Bern,351,BE,de
+Bern,3005,0,Bern,351,BE,de
+Bern,3006,0,Bern,351,BE,de
+Bern,3007,0,Bern,351,BE,de
+Bern,3008,0,Bern,351,BE,de
+Bern,3010,0,Bern,351,BE,de
+Bern,3011,0,Bern,351,BE,de
+Bern,3011,0,Bern,351,BE,de
+Bern,3012,0,Bern,351,BE,de
+Bern,3013,0,Bern,351,BE,de
+Bern,3014,0,Bern,351,BE,de
+Bern,3015,0,Bern,351,BE,de
+Bern,3018,0,Bern,351,BE,de
+Bern,3019,0,Bern,351,BE,de
+Bern,3020,0,Bern,351,BE,de
+Bern,3027,0,Bern,351,BE,de
+Bolligen,3065,0,Bolligen,352,BE,de
+Bremgarten b. Bern,3047,0,Bremgarten bei Bern,353,BE,de
+Herrenschwanden,3037,0,Kirchlindach,354,BE,de
+Kirchlindach,3038,0,Kirchlindach,354,BE,de
+Wabern,3084,0,Köniz,355,BE,de
+Spiegel b. Bern,3095,0,Köniz,355,BE,de
+Liebefeld,3097,0,Köniz,355,BE,de
+Köniz,3098,0,Köniz,355,BE,de
+Köniz,3098,0,Köniz,355,BE,de
+Schliern b. Köniz,3098,1,Köniz,355,BE,de
+Gasel,3144,0,Köniz,355,BE,de
+Niederscherli,3145,0,Köniz,355,BE,de
+Mittelhäusern,3147,0,Köniz,355,BE,de
+Niederwangen b. Bern,3172,0,Köniz,355,BE,de
+Oberwangen b. Bern,3173,0,Köniz,355,BE,de
+Thörishaus,3174,0,Köniz,355,BE,de
+Gümligen,3073,0,Muri bei Bern,356,BE,de
+Muri b. Bern,3074,0,Muri bei Bern,356,BE,de
+Oberbalm,3096,0,Oberbalm,357,BE,de
+Stettlen,3066,0,Stettlen,358,BE,de
+Boll,3067,0,Vechigen,359,BE,de
+Utzigen,3068,0,Vechigen,359,BE,de
+Hinterkappelen,3032,0,Wohlen bei Bern,360,BE,de
+Wohlen b. Bern,3033,0,Wohlen bei Bern,360,BE,de
+Murzelen,3034,0,Wohlen bei Bern,360,BE,de
+Uettligen,3043,0,Wohlen bei Bern,360,BE,de
+Innerberg,3044,2,Wohlen bei Bern,360,BE,de
+Säriswil,3049,0,Wohlen bei Bern,360,BE,de
+Zollikofen,3052,0,Zollikofen,361,BE,de
+Worblaufen,3048,0,Ittigen,362,BE,de
+Ittigen,3063,0,Ittigen,362,BE,de
+Ostermundigen,3072,0,Ostermundigen,363,BE,de
+Biel/Bienne,2502,0,Biel/Bienne,371,BE,de
+Biel/Bienne,2503,0,Biel/Bienne,371,BE,de
+Biel/Bienne,2504,0,Biel/Bienne,371,BE,de
+Biel/Bienne,2505,0,Biel/Bienne,371,BE,de
+Magglingen/Macolin,2532,0,Evilard,372,BE,fr
+Evilard,2533,0,Evilard,372,BE,fr
+Arch,3296,0,Arch,381,BE,de
+Büetigen,3263,0,Büetigen,382,BE,de
+Büren an der Aare,3294,0,Büren an der Aare,383,BE,de
+Diessbach b. Büren,3264,0,Diessbach bei Büren,385,BE,de
+Dotzigen,3293,0,Dotzigen,386,BE,de
+Lengnau BE,2543,0,Lengnau (BE),387,BE,de
+Leuzigen,3297,0,Leuzigen,388,BE,de
+Meienried,3294,2,Meienried,389,BE,de
+Meinisberg,2554,0,Meinisberg,390,BE,de
+Oberwil b. Büren,3298,0,Oberwil bei Büren,391,BE,de
+Pieterlen,2542,0,Pieterlen,392,BE,de
+Rüti b. Büren,3295,0,Rüti bei Büren,393,BE,de
+Wengi b. Büren,3251,0,Wengi,394,BE,de
+Aefligen,3426,0,Aefligen,401,BE,de
+Alchenstorf,3473,0,Alchenstorf,402,BE,de
+Bäriswil BE,3323,0,Bäriswil,403,BE,de
+Burgdorf,3400,0,Burgdorf,404,BE,de
+Ersigen,3423,0,Ersigen,405,BE,de
+Niederösch,3424,0,Ersigen,405,BE,de
+Oberösch,3424,2,Ersigen,405,BE,de
+Hasle b. Burgdorf,3415,1,Hasle bei Burgdorf,406,BE,de
+Schafhausen im Emmental,3415,2,Hasle bei Burgdorf,406,BE,de
+Biembach im Emmental,3419,0,Hasle bei Burgdorf,406,BE,de
+Heimiswil,3412,0,Heimiswil,407,BE,de
+Kaltacker,3413,0,Heimiswil,407,BE,de
+Hellsau,3429,3,Hellsau,408,BE,de
+Hindelbank,3324,0,Hindelbank,409,BE,de
+Höchstetten,3429,2,Höchstetten,410,BE,de
+Kernenried,3309,0,Kernenried,411,BE,de
+Kirchberg BE,3422,0,Kirchberg (BE),412,BE,de
+Koppigen,3425,0,Koppigen,413,BE,de
+Hettiswil b. Hindelbank,3325,0,Krauchthal,414,BE,de
+Krauchthal,3326,0,Krauchthal,414,BE,de
+Lyssach,3421,0,Lyssach,415,BE,de
+Mötschwil,3324,2,Mötschwil,416,BE,de
+Oberburg,3414,0,Oberburg,418,BE,de
+Lyssach,3421,0,Oberburg,418,BE,de
+Rüdtligen,3422,1,Rüdtligen-Alchenflüh,420,BE,de
+Alchenflüh,3422,2,Rüdtligen-Alchenflüh,420,BE,de
+Rumendingen,3472,2,Rumendingen,421,BE,de
+Rüti b. Lyssach,3421,2,Rüti bei Lyssach,422,BE,de
+Willadingen,3425,2,Willadingen,423,BE,de
+Wynigen,3472,0,Wynigen,424,BE,de
+Rüedisbach,3474,0,Wynigen,424,BE,de
+Corgémont,2606,0,Corgémont,431,BE,fr
+Mont-Crosin,2610,4,Cormoret,432,BE,fr
+Cormoret,2612,0,Cormoret,432,BE,fr
+Cortébert,2607,0,Cortébert,433,BE,fr
+Montagne-de-Courtelary,2608,2,Cortébert,433,BE,fr
+Courtelary,2608,0,Courtelary,434,BE,fr
+La Ferrière,2333,0,La Ferrière,435,BE,fr
+Mont-Tramelan,2723,0,Mont-Tramelan,437,BE,fr
+Orvin,2534,0,Orvin,438,BE,fr
+Les Prés-d'Orvin,2534,2,Orvin,438,BE,fr
+Renan BE,2616,0,Renan (BE),441,BE,fr
+Romont BE,2538,0,Romont (BE),442,BE,fr
+St-Imier,2610,0,Saint-Imier,443,BE,fr
+Mont-Soleil,2610,2,Saint-Imier,443,BE,fr
+Les Pontins,2610,3,Saint-Imier,443,BE,fr
+Sonceboz-Sombeval,2605,0,Sonceboz-Sombeval,444,BE,fr
+Sonvilier,2615,0,Sonvilier,445,BE,fr
+Montagne-de-Sonvilier,2615,2,Sonvilier,445,BE,fr
+Tramelan,2720,0,Tramelan,446,BE,fr
+Les Reussilles,2722,0,Tramelan,446,BE,fr
+Villeret,2613,0,Villeret,448,BE,fr
+Frinvillier,2535,0,Sauge,449,BE,fr
+Plagne,2536,0,Sauge,449,BE,fr
+Vauffelin,2537,0,Sauge,449,BE,fr
+Péry,2603,0,Péry-La Heutte,450,BE,fr
+La Heutte,2604,0,Péry-La Heutte,450,BE,fr
+Brüttelen,3237,0,Brüttelen,491,BE,de
+Erlach,3235,0,Erlach,492,BE,de
+Finsterhennen,2577,2,Finsterhennen,493,BE,de
+Gals,3238,0,Gals,494,BE,de
+Gampelen,3236,0,Gampelen,495,BE,de
+Ins,3232,0,Ins,496,BE,de
+Lüscherz,2576,0,Lüscherz,497,BE,de
+Müntschemier,3225,0,Müntschemier,498,BE,de
+Siselen,2577,0,Siselen,499,BE,de
+Treiten,3226,0,Treiten,500,BE,de
+Tschugg,3233,0,Tschugg,501,BE,de
+Vinelz,3234,0,Vinelz,502,BE,de
+Bätterkinden,3315,0,Bätterkinden,533,BE,de
+Kräiligen,3315,1,Bätterkinden,533,BE,de
+Deisswil b. Münchenbuchsee,3053,2,Deisswil bei Münchenbuchsee,535,BE,de
+Diemerswil,3053,3,Diemerswil,536,BE,de
+Etzelkofen,3306,0,Fraubrunnen,538,BE,de
+Grafenried,3308,0,Fraubrunnen,538,BE,de
+Zauggenried,3309,2,Fraubrunnen,538,BE,de
+Fraubrunnen,3312,0,Fraubrunnen,538,BE,de
+Büren zum Hof,3313,0,Fraubrunnen,538,BE,de
+Schalunen,3314,0,Fraubrunnen,538,BE,de
+Limpach,3317,0,Fraubrunnen,538,BE,de
+Mülchi,3317,1,Fraubrunnen,538,BE,de
+Jegenstorf,3303,0,Jegenstorf,540,BE,de
+Münchringen,3303,2,Jegenstorf,540,BE,de
+Ballmoos,3303,4,Jegenstorf,540,BE,de
+Scheunen,3305,2,Jegenstorf,540,BE,de
+Iffwil,3305,0,Iffwil,541,BE,de
+Mattstetten,3322,1,Mattstetten,543,BE,de
+Moosseedorf,3302,0,Moosseedorf,544,BE,de
+Münchenbuchsee,3053,0,Münchenbuchsee,546,BE,de
+Urtenen-Schönbühl,3322,0,Urtenen-Schönbühl,551,BE,de
+Utzenstorf,3427,0,Utzenstorf,552,BE,de
+Wiggiswil,3053,4,Wiggiswil,553,BE,de
+Wiler b. Utzenstorf,3428,0,Wiler bei Utzenstorf,554,BE,de
+Zielebach,4564,1,Zielebach,556,BE,de
+Zuzwil BE,3303,3,Zuzwil (BE),557,BE,de
+Adelboden,3715,0,Adelboden,561,BE,de
+Aeschi b. Spiez,3703,0,Aeschi bei Spiez,562,BE,de
+Aeschiried,3703,41,Aeschi bei Spiez,562,BE,de
+Emdthal,3711,0,Aeschi bei Spiez,562,BE,de
+Frutigen,3714,0,Frutigen,563,BE,de
+Ried (Frutigen),3724,0,Frutigen,563,BE,de
+Achseten,3725,0,Frutigen,563,BE,de
+Kandergrund,3716,0,Kandergrund,564,BE,de
+Blausee-Mitholz,3717,0,Kandergrund,564,BE,de
+Kandersteg,3718,0,Kandersteg,565,BE,de
+Krattigen,3704,0,Krattigen,566,BE,de
+Mülenen,3711,2,Reichenbach im Kandertal,567,BE,de
+Reichenbach im Kandertal,3713,0,Reichenbach im Kandertal,567,BE,de
+Wengi b. Frutigen,3714,3,Reichenbach im Kandertal,567,BE,de
+Scharnachtal,3722,0,Reichenbach im Kandertal,567,BE,de
+Kiental,3723,0,Reichenbach im Kandertal,567,BE,de
+Sundlauenen,3800,5,Beatenberg,571,BE,de
+Beatenberg,3803,0,Beatenberg,571,BE,de
+Bönigen b. Interlaken,3806,0,Bönigen,572,BE,de
+Brienz BE,3855,0,Brienz (BE),573,BE,de
+Axalp,3855,1,Brienz (BE),573,BE,de
+Brienzwiler,3856,0,Brienzwiler,574,BE,de
+Därligen,3707,0,Därligen,575,BE,de
+Burglauenen,3816,1,Grindelwald,576,BE,de
+Grindelwald,3818,0,Grindelwald,576,BE,de
+Gsteigwiler,3814,0,Gsteigwiler,577,BE,de
+Interlaken,3800,0,Gündlischwand,578,BE,de
+Zweilütschinen,3815,0,Gündlischwand,578,BE,de
+Gündlischwand,3815,2,Gündlischwand,578,BE,de
+Habkern,3804,0,Habkern,579,BE,de
+Hofstetten b. Brienz,3858,0,Hofstetten bei Brienz,580,BE,de
+Interlaken,3800,0,Interlaken,581,BE,de
+Iseltwald,3807,0,Iseltwald,582,BE,de
+Lauterbrunnen,3822,0,Lauterbrunnen,584,BE,de
+Isenfluh,3822,2,Lauterbrunnen,584,BE,de
+Wengen,3823,0,Lauterbrunnen,584,BE,de
+Kleine Scheidegg,3823,1,Lauterbrunnen,584,BE,de
+Eigergletscher,3823,2,Lauterbrunnen,584,BE,de
+Stechelberg,3824,0,Lauterbrunnen,584,BE,de
+Mürren,3825,0,Lauterbrunnen,584,BE,de
+Gimmelwald,3826,0,Lauterbrunnen,584,BE,de
+Leissigen,3706,0,Leissigen,585,BE,de
+Lütschental,3816,0,Lütschental,586,BE,de
+Matten b. Interlaken,3800,3,Matten bei Interlaken,587,BE,de
+Niederried b. Interlaken,3853,0,Niederried bei Interlaken,588,BE,de
+Oberried am Brienzersee,3854,0,Oberried am Brienzersee,589,BE,de
+Goldswil b. Interlaken,3805,0,Ringgenberg (BE),590,BE,de
+Ringgenberg BE,3852,0,Ringgenberg (BE),590,BE,de
+Saxeten,3813,0,Saxeten,591,BE,de
+Schwanden b. Brienz,3855,41,Schwanden bei Brienz,592,BE,de
+Unterseen,3800,2,Unterseen,593,BE,de
+Wilderswil,3812,0,Wilderswil,594,BE,de
+Arni BE,3508,0,Arni (BE),602,BE,de
+Biglen,3507,0,Biglen,603,BE,de
+Bowil,3533,0,Bowil,605,BE,de
+Brenzikofen,3671,0,Brenzikofen,606,BE,de
+Freimettigen,3510,8,Freimettigen,607,BE,de
+Schlosswil,3082,0,Grosshöchstetten,608,BE,de
+Grosshöchstetten,3506,0,Grosshöchstetten,608,BE,de
+Häutligen,3510,9,Häutligen,609,BE,de
+Herbligen,3671,2,Herbligen,610,BE,de
+Kiesen,3629,0,Kiesen,611,BE,de
+Gysenstein,3503,0,Konolfingen,612,BE,de
+Konolfingen,3510,0,Konolfingen,612,BE,de
+Obergoldbach,3434,0,Landiswil,613,BE,de
+Landiswil,3434,1,Landiswil,613,BE,de
+Linden,3673,0,Linden,614,BE,de
+Mirchel,3532,2,Mirchel,615,BE,de
+Trimstein,3083,0,Münsingen,616,BE,de
+Münsingen,3110,0,Münsingen,616,BE,de
+Tägertschi,3111,0,Münsingen,616,BE,de
+Niederhünigen,3504,0,Niederhünigen,617,BE,de
+Oberdiessbach,3672,0,Oberdiessbach,619,BE,de
+Aeschlen b. Oberdiessbach,3672,2,Oberdiessbach,619,BE,de
+Bleiken b. Oberdiessbach,3674,0,Oberdiessbach,619,BE,de
+Oberthal,3531,0,Oberthal,620,BE,de
+Oppligen,3629,2,Oppligen,622,BE,de
+Rubigen,3113,0,Rubigen,623,BE,de
+Walkringen,3512,0,Walkringen,626,BE,de
+Bigenthal,3513,0,Walkringen,626,BE,de
+Rüfenacht,3075,0,Worb,627,BE,de
+Vielbringen b. Worb,3075,2,Worb,627,BE,de
+Worb,3076,0,Worb,627,BE,de
+Enggistein,3077,0,Worb,627,BE,de
+Richigen,3078,0,Worb,627,BE,de
+Zäziwil,3532,0,Zäziwil,628,BE,de
+Oberhünigen,3504,2,Oberhünigen,629,BE,de
+Allmendingen b. Bern,3112,0,Allmendingen,630,BE,de
+Wichtrach,3114,0,Wichtrach,632,BE,de
+Clavaleyres,1595,2,Clavaleyres,661,BE,de
+Rizenbach,3206,0,Ferenbalm,662,BE,de
+Ferenbalm,3206,1,Ferenbalm,662,BE,de
+Biberen,3206,3,Ferenbalm,662,BE,de
+Gammen,3206,4,Ferenbalm,662,BE,de
+Frauenkappelen,3202,0,Frauenkappelen,663,BE,de
+Gurbrü,3208,0,Gurbrü,665,BE,de
+Kriechenwil,3179,0,Kriechenwil,666,BE,de
+Laupen BE,3177,0,Laupen,667,BE,de
+Mühleberg,3203,0,Mühleberg,668,BE,de
+Rosshäusern,3204,0,Mühleberg,668,BE,de
+Gümmenen,3205,0,Mühleberg,668,BE,de
+Münchenwiler,1797,0,Münchenwiler,669,BE,de
+Neuenegg,3176,0,Neuenegg,670,BE,de
+Wileroltigen,3207,0,Wileroltigen,671,BE,de
+Belprahon,2744,0,Belprahon,681,BE,fr
+Champoz,2735,3,Champoz,683,BE,fr
+Corcelles BE,2747,0,Corcelles (BE),687,BE,fr
+Court,2738,0,Court,690,BE,fr
+Crémines,2746,0,Crémines,691,BE,fr
+Eschert,2743,0,Eschert,692,BE,fr
+Grandval,2745,0,Grandval,694,BE,fr
+Loveresse,2732,4,Loveresse,696,BE,fr
+Moutier,2740,0,Moutier,700,BE,fr
+Perrefitte,2742,0,Perrefitte,701,BE,fr
+Reconvilier,2732,0,Reconvilier,703,BE,fr
+Roches BE,2762,0,Roches (BE),704,BE,fr
+Le Fuet,2712,0,Saicourt,706,BE,fr
+Bellelay,2713,0,Saicourt,706,BE,fr
+Saicourt,2732,2,Saicourt,706,BE,fr
+Saules BE,2732,3,Saules (BE),707,BE,fr
+Schelten,2827,2,Schelten,708,BE,de
+Seehof,2747,2,Seehof,709,BE,de
+Sorvilier,2736,0,Sorvilier,711,BE,fr
+Tavannes,2710,0,Tavannes,713,BE,fr
+La Tanne,2720,2,Tavannes,713,BE,fr
+Rebévelier,2717,2,Rebévelier,715,BE,fr
+Châtelat,2715,1,Petit-Val,716,BE,fr
+Monible,2715,2,Petit-Val,716,BE,fr
+Sornetan,2716,0,Petit-Val,716,BE,fr
+Fornet-Dessous,2717,0,Petit-Val,716,BE,fr
+Souboz,2748,0,Petit-Val,716,BE,fr
+Les Ecorcheresses,2748,2,Petit-Val,716,BE,fr
+Pontenet,2733,0,Valbirse,717,BE,fr
+Bévilard,2735,2,Valbirse,717,BE,fr
+Malleray,2735,4,Valbirse,717,BE,fr
+La Neuveville,2520,0,La Neuveville,723,BE,fr
+Nods,2518,0,Nods,724,BE,fr
+Prêles,2515,0,Plateau de Diesse,726,BE,fr
+Lamboing,2516,0,Plateau de Diesse,726,BE,fr
+Diesse,2517,0,Plateau de Diesse,726,BE,fr
+Aegerten,2558,0,Aegerten,731,BE,de
+Bellmund,2564,0,Bellmund,732,BE,de
+Brügg BE,2555,0,Brügg,733,BE,de
+Bühl b. Aarberg,3274,2,Bühl,734,BE,de
+Epsach,3272,2,Epsach,735,BE,de
+Hagneck,2575,2,Hagneck,736,BE,de
+Hermrigen,3274,0,Hermrigen,737,BE,de
+Jens,2565,0,Jens,738,BE,de
+Ipsach,2563,0,Ipsach,739,BE,de
+Ligerz,2514,0,Ligerz,740,BE,de
+Merzligen,3274,3,Merzligen,741,BE,de
+Mörigen,2572,2,Mörigen,742,BE,de
+Nidau,2560,0,Nidau,743,BE,de
+Orpund,2552,0,Orpund,744,BE,de
+Port,2562,0,Port,745,BE,de
+Safnern,2553,0,Safnern,746,BE,de
+Scheuren,2556,0,Scheuren,747,BE,de
+Schwadernau,2556,2,Schwadernau,748,BE,de
+Studen BE,2557,0,Studen (BE),749,BE,de
+Sutz,2572,0,Sutz-Lattrigen,750,BE,de
+Täuffelen,2575,0,Täuffelen,751,BE,de
+Gerolfingen,2575,1,Täuffelen,751,BE,de
+Walperswil,3272,0,Walperswil,754,BE,de
+Worben,3252,0,Worben,755,BE,de
+Tüscherz-Alfermée,2512,0,Twann-Tüscherz,756,BE,de
+Twann,2513,0,Twann-Tüscherz,756,BE,de
+Därstetten,3763,0,Därstetten,761,BE,de
+Weissenburg,3764,0,Därstetten,761,BE,de
+Oey,3753,0,Diemtigen,762,BE,de
+Diemtigen,3754,0,Diemtigen,762,BE,de
+Horboden,3755,0,Diemtigen,762,BE,de
+Zwischenflüh,3756,0,Diemtigen,762,BE,de
+Schwenden im Diemtigtal,3757,0,Diemtigen,762,BE,de
+Latterbach,3758,0,Erlenbach im Simmental,763,BE,de
+Erlenbach im Simmental,3762,0,Erlenbach im Simmental,763,BE,de
+Oberwil im Simmental,3765,0,Oberwil im Simmental,766,BE,de
+Reutigen,3647,0,Reutigen,767,BE,de
+Gwatt (Thun),3645,0,Spiez,768,BE,de
+Einigen,3646,0,Spiez,768,BE,de
+Spiez,3700,0,Spiez,768,BE,de
+Hondrich,3702,0,Spiez,768,BE,de
+Faulensee,3705,0,Spiez,768,BE,de
+Wimmis,3752,0,Wimmis,769,BE,de
+Höfen b. Thun,3631,0,Stocken-Höfen,770,BE,de
+Niederstocken,3632,2,Stocken-Höfen,770,BE,de
+Oberstocken,3632,3,Stocken-Höfen,770,BE,de
+Guttannen,3864,0,Guttannen,782,BE,de
+Hasliberg Hohfluh,6083,0,Hasliberg,783,BE,de
+Hasliberg Wasserwendi,6084,0,Hasliberg,783,BE,de
+Hasliberg Goldern,6085,0,Hasliberg,783,BE,de
+Hasliberg Reuti,6086,0,Hasliberg,783,BE,de
+Innertkirchen,3862,0,Innertkirchen,784,BE,de
+Gadmen,3863,0,Innertkirchen,784,BE,de
+Unterbach BE,3857,0,Meiringen,785,BE,de
+Meiringen,3860,0,Meiringen,785,BE,de
+Brünig,3860,4,Meiringen,785,BE,de
+Rosenlaui,3860,2,Schattenhalb,786,BE,de
+Schattenhalb,3860,3,Schattenhalb,786,BE,de
+Boltigen,3766,0,Boltigen,791,BE,de
+Lenk im Simmental,3775,0,Lenk,792,BE,de
+St. Stephan,3772,0,St. Stephan,793,BE,de
+Matten (St. Stephan),3773,0,St. Stephan,793,BE,de
+Zweisimmen,3770,0,Zweisimmen,794,BE,de
+Blankenburg,3771,0,Zweisimmen,794,BE,de
+Oeschseite,3776,0,Zweisimmen,794,BE,de
+Feutersoey,3784,0,Gsteig,841,BE,de
+Gsteig b. Gstaad,3785,0,Gsteig,841,BE,de
+Lauenen b. Gstaad,3782,0,Lauenen,842,BE,de
+Abländschen,1657,0,Saanen,843,BE,de
+Saanenmöser,3777,0,Saanen,843,BE,de
+Schönried,3778,0,Saanen,843,BE,de
+Gstaad,3780,0,Saanen,843,BE,de
+Turbach,3781,0,Saanen,843,BE,de
+Grund b. Gstaad,3783,0,Saanen,843,BE,de
+Saanen,3792,0,Saanen,843,BE,de
+Sangernboden,1738,0,Guggisberg,852,BE,de
+Riffenmatt,3156,0,Guggisberg,852,BE,de
+Guggisberg,3158,0,Guggisberg,852,BE,de
+Riedstätt,3159,0,Guggisberg,852,BE,de
+Rüschegg Gambach,3153,0,Rüschegg,853,BE,de
+Rüschegg Heubach,3154,0,Rüschegg,853,BE,de
+Lanzenhäusern,3148,0,Schwarzenburg,855,BE,de
+Schwarzenburg,3150,0,Schwarzenburg,855,BE,de
+Mamishaus,3152,0,Schwarzenburg,855,BE,de
+Milken,3157,0,Schwarzenburg,855,BE,de
+Albligen,3183,0,Schwarzenburg,855,BE,de
+Belp,3123,0,Belp,861,BE,de
+Belpberg,3124,0,Belp,861,BE,de
+Burgistein,3664,0,Burgistein,863,BE,de
+Gerzensee,3115,0,Gerzensee,866,BE,de
+Gurzelen,3663,0,Gurzelen,867,BE,de
+Jaberg,3629,3,Jaberg,868,BE,de
+Kaufdorf,3126,0,Kaufdorf,869,BE,de
+Kehrsatz,3122,0,Kehrsatz,870,BE,de
+Kirchdorf BE,3116,0,Kirchdorf (BE),872,BE,de
+Mühledorf BE,3116,2,Kirchdorf (BE),872,BE,de
+Noflen BE,3116,3,Kirchdorf (BE),872,BE,de
+Gelterfingen,3126,2,Kirchdorf (BE),872,BE,de
+Kirchenthurnen,3128,0,Kirchenthurnen,873,BE,de
+Lohnstorf,3127,2,Lohnstorf,874,BE,de
+Mühlethurnen,3127,0,Mühlethurnen,876,BE,de
+Niedermuhlern,3087,0,Niedermuhlern,877,BE,de
+Rüti b. Riggisberg,3099,0,Riggisberg,879,BE,de
+Riggisberg,3132,0,Riggisberg,879,BE,de
+Rüeggisberg,3088,0,Rüeggisberg,880,BE,de
+Oberbütschel,3088,2,Rüeggisberg,880,BE,de
+Hinterfultigen,3089,0,Rüeggisberg,880,BE,de
+Helgisried-Rohrbach,3155,0,Rüeggisberg,880,BE,de
+Rümligen,3128,2,Rümligen,881,BE,de
+Seftigen,3662,0,Seftigen,883,BE,de
+Toffen,3125,0,Toffen,884,BE,de
+Uttigen,3628,0,Uttigen,885,BE,de
+Wattenwil,3665,0,Wattenwil,886,BE,de
+Zimmerwald,3086,0,Wald (BE),888,BE,de
+Englisberg,3086,2,Wald (BE),888,BE,de
+Aeschau,3536,0,Eggiwil,901,BE,de
+Eggiwil,3537,0,Eggiwil,901,BE,de
+Langnau im Emmental,3550,0,Langnau im Emmental,902,BE,de
+Oberfrittenbach,3551,0,Langnau im Emmental,902,BE,de
+Bärau,3552,0,Langnau im Emmental,902,BE,de
+Gohl,3553,0,Langnau im Emmental,902,BE,de
+Lauperswil,3438,0,Lauperswil,903,BE,de
+Emmenmatt,3543,0,Lauperswil,903,BE,de
+Röthenbach im Emmental,3538,0,Röthenbach im Emmental,904,BE,de
+Schwanden im Emmental,3433,0,Rüderswil,905,BE,de
+Zollbrück,3436,0,Rüderswil,905,BE,de
+Rüderswil,3437,0,Rüderswil,905,BE,de
+Schangnau,6197,0,Schangnau,906,BE,de
+Signau,3534,0,Signau,907,BE,de
+Schüpbach,3535,0,Signau,907,BE,de
+Trub,3556,0,Trub,908,BE,de
+Fankhaus (Trub),3557,0,Trub,908,BE,de
+Trubschachen,3555,0,Trubschachen,909,BE,de
+Amsoldingen,3633,0,Amsoldingen,921,BE,de
+Blumenstein,3638,0,Blumenstein,922,BE,de
+Heimenschwand,3615,0,Buchholterberg,923,BE,de
+Eriz,3619,0,Eriz,924,BE,de
+Innereriz,3619,1,Eriz,924,BE,de
+Fahrni b. Thun,3617,0,Fahrni,925,BE,de
+Heiligenschwendi,3625,0,Heiligenschwendi,927,BE,de
+Heimberg,3627,0,Heimberg,928,BE,de
+Hünibach,3626,0,Hilterfingen,929,BE,de
+Hilterfingen,3652,0,Hilterfingen,929,BE,de
+Homberg b. Thun,3622,0,Homberg,931,BE,de
+Horrenbach,3623,2,Horrenbach-Buchen,932,BE,de
+Buchen BE,3623,3,Horrenbach-Buchen,932,BE,de
+Oberhofen am Thunersee,3653,0,Oberhofen am Thunersee,934,BE,de
+Pohlern,3638,1,Pohlern,936,BE,de
+Schwendibach,3624,2,Schwendibach,937,BE,de
+Gunten,3654,0,Sigriswil,938,BE,de
+Sigriswil,3655,0,Sigriswil,938,BE,de
+Tschingel ob Gunten,3656,0,Sigriswil,938,BE,de
+Aeschlen ob Gunten,3656,1,Sigriswil,938,BE,de
+Ringoldswil,3656,2,Sigriswil,938,BE,de
+Schwanden (Sigriswil),3657,0,Sigriswil,938,BE,de
+Merligen,3658,0,Sigriswil,938,BE,de
+Steffisburg,3612,0,Steffisburg,939,BE,de
+Steffisburg,3613,0,Steffisburg,939,BE,de
+Teuffenthal b. Thun,3623,0,Teuffenthal (BE),940,BE,de
+Thierachern,3634,0,Thierachern,941,BE,de
+Thun,3600,0,Thun,942,BE,de
+Thun,3603,0,Thun,942,BE,de
+Thun,3604,0,Thun,942,BE,de
+Thun,3608,0,Thun,942,BE,de
+Goldiwil (Thun),3624,0,Thun,942,BE,de
+Uebeschi,3635,0,Uebeschi,943,BE,de
+Uetendorf,3661,0,Uetendorf,944,BE,de
+Unterlangenegg,3614,0,Unterlangenegg,945,BE,de
+Schwarzenegg,3616,0,Unterlangenegg,945,BE,de
+Süderen,3618,0,Wachseldorn,946,BE,de
+Zwieselberg,3645,2,Zwieselberg,947,BE,de
+Längenbühl,3636,0,Forst-Längenbühl,948,BE,de
+Forst b. Längenbühl,3636,2,Forst-Längenbühl,948,BE,de
+Affoltern im Emmental,3416,0,Affoltern im Emmental,951,BE,de
+Weier im Emmental,3462,0,Affoltern im Emmental,951,BE,de
+Häusernmoos im Emmental,3463,0,Affoltern im Emmental,951,BE,de
+Dürrenroth,3465,0,Dürrenroth,952,BE,de
+Eriswil,4952,0,Eriswil,953,BE,de
+Huttwil,4950,0,Huttwil,954,BE,de
+Schwarzenbach (Huttwil),4953,0,Huttwil,954,BE,de
+Lützelflüh-Goldbach,3432,0,Lützelflüh,955,BE,de
+Ramsei,3435,0,Lützelflüh,955,BE,de
+Ranflüh,3439,0,Lützelflüh,955,BE,de
+Grünenmatt,3452,0,Lützelflüh,955,BE,de
+Rüegsauschachen,3415,3,Rüegsau,956,BE,de
+Rüegsau,3417,0,Rüegsau,956,BE,de
+Rüegsbach,3418,0,Rüegsau,956,BE,de
+Sumiswald,3454,0,Sumiswald,957,BE,de
+Grünen,3455,0,Sumiswald,957,BE,de
+Wasen im Emmental,3457,0,Sumiswald,957,BE,de
+Heimisbach,3453,0,Trachselwald,958,BE,de
+Trachselwald,3456,0,Trachselwald,958,BE,de
+Schmidigen-Mühleweg,3464,0,Walterswil (BE),959,BE,de
+Walterswil BE,4942,0,Walterswil (BE),959,BE,de
+Wyssachen,4954,0,Wyssachen,960,BE,de
+Attiswil,4536,0,Attiswil,971,BE,de
+Berken,3376,2,Berken,972,BE,de
+Bettenhausen,3366,0,Bettenhausen,973,BE,de
+Bollodingen,3366,2,Bettenhausen,973,BE,de
+Farnern,4539,2,Farnern,975,BE,de
+Graben,3376,0,Graben,976,BE,de
+Wanzwil,3372,0,Heimenhausen,977,BE,de
+Röthenbach Herzogenbuchsee,3373,0,Heimenhausen,977,BE,de
+Heimenhausen,3373,2,Heimenhausen,977,BE,de
+Herzogenbuchsee,3360,0,Herzogenbuchsee,979,BE,de
+Oberönz,3363,0,Herzogenbuchsee,979,BE,de
+Inkwil,3375,0,Inkwil,980,BE,de
+Niederbipp,4704,0,Niederbipp,981,BE,de
+Niederönz,3362,0,Niederönz,982,BE,de
+Oberbipp,4538,0,Oberbipp,983,BE,de
+Ochlenberg,3367,2,Ochlenberg,985,BE,de
+Oschwand,3476,0,Ochlenberg,985,BE,de
+Rumisberg,4539,0,Rumisberg,987,BE,de
+Grasswil,3365,0,Seeberg,988,BE,de
+Seeberg,3365,2,Seeberg,988,BE,de
+Riedtwil,3475,0,Seeberg,988,BE,de
+Hermiswil,3475,1,Seeberg,988,BE,de
+Thörigen,3367,0,Thörigen,989,BE,de
+Walliswil b. Niederbipp,3380,2,Walliswil bei Niederbipp,990,BE,de
+Walliswil b. Wangen,3377,0,Walliswil bei Wangen,991,BE,de
+Wangen an der Aare,3380,0,Wangen an der Aare,992,BE,de
+Wangenried,3374,0,Wangenried,993,BE,de
+Wiedlisbach,4537,0,Wiedlisbach,995,BE,de
+Wolfisberg,4704,2,Wolfisberg,996,BE,de
+Doppleschwand,6112,0,Doppleschwand,1001,LU,de
+Entlebuch,6162,0,Entlebuch,1002,LU,de
+Rengg,6162,2,Entlebuch,1002,LU,de
+Finsterwald b. Entlebuch,6162,3,Entlebuch,1002,LU,de
+Ebnet,6163,0,Entlebuch,1002,LU,de
+Flühli,6173,0,Flühli,1004,LU,de
+Sörenberg,6174,0,Flühli,1004,LU,de
+Hasle LU,6166,0,Hasle (LU),1005,LU,de
+Fontannen b. Wolhusen,6110,2,Romoos,1007,LU,de
+Romoos,6113,0,Romoos,1007,LU,de
+Bramboden,6167,0,Romoos,1007,LU,de
+Schüpfheim,6170,0,Schüpfheim,1008,LU,de
+Schachen LU,6105,0,Werthenstein,1009,LU,de
+Werthenstein,6106,0,Werthenstein,1009,LU,de
+Escholzmatt,6182,0,Escholzmatt-Marbach,1010,LU,de
+Wiggen,6192,0,Escholzmatt-Marbach,1010,LU,de
+Marbach LU,6196,0,Escholzmatt-Marbach,1010,LU,de
+Aesch LU,6287,0,Aesch (LU),1021,LU,de
+Altwis,6286,0,Altwis,1022,LU,de
+Ballwil,6275,0,Ballwil,1023,LU,de
+Emmenbrücke,6020,0,Emmen,1024,LU,de
+Emmen,6032,0,Emmen,1024,LU,de
+Ermensee,6294,0,Ermensee,1025,LU,de
+Eschenbach LU,6274,0,Eschenbach (LU),1026,LU,de
+Gelfingen,6284,0,Hitzkirch,1030,LU,de
+Sulz LU,6284,2,Hitzkirch,1030,LU,de
+Hitzkirch,6285,0,Hitzkirch,1030,LU,de
+Retschwil,6285,2,Hitzkirch,1030,LU,de
+Müswangen,6289,0,Hitzkirch,1030,LU,de
+Hämikon,6289,2,Hitzkirch,1030,LU,de
+Hämikon,6289,2,Hitzkirch,1030,LU,de
+Mosen,6295,0,Hitzkirch,1030,LU,de
+Hochdorf,6280,0,Hochdorf,1031,LU,de
+Urswil,6280,2,Hochdorf,1031,LU,de
+Baldegg,6283,0,Hochdorf,1031,LU,de
+Hohenrain,6276,0,Hohenrain,1032,LU,de
+Kleinwangen,6277,0,Hohenrain,1032,LU,de
+Lieli LU,6277,2,Hohenrain,1032,LU,de
+Inwil,6034,0,Inwil,1033,LU,de
+Rain,6026,0,Rain,1037,LU,de
+Römerswil,6027,0,Römerswil,1039,LU,de
+Herlisberg,6028,0,Römerswil,1039,LU,de
+Rothenburg,6023,0,Rothenburg,1040,LU,de
+Schongau,6288,0,Schongau,1041,LU,de
+Adligenswil,6043,0,Adligenswil,1051,LU,de
+Buchrain,6033,0,Buchrain,1052,LU,de
+Perlen,6035,0,Buchrain,1052,LU,de
+Dierikon,6036,0,Dierikon,1053,LU,de
+Ebikon,6030,0,Ebikon,1054,LU,de
+Gisikon,6038,0,Gisikon,1055,LU,de
+Greppen,6404,0,Greppen,1056,LU,de
+Honau,6038,2,Honau,1057,LU,de
+St. Niklausen LU,6005,2,Horw,1058,LU,de
+Kastanienbaum,6047,0,Horw,1058,LU,de
+Horw,6048,0,Horw,1058,LU,de
+Kriens,6010,0,Kriens,1059,LU,de
+Obernau,6012,0,Kriens,1059,LU,de
+Luzern,6003,0,Luzern,1061,LU,de
+Luzern,6004,0,Luzern,1061,LU,de
+Luzern,6005,0,Luzern,1061,LU,de
+Luzern,6006,0,Luzern,1061,LU,de
+Luzern,6014,0,Luzern,1061,LU,de
+Luzern,6015,0,Luzern,1061,LU,de
+Malters,6102,0,Malters,1062,LU,de
+Meggen,6045,0,Meggen,1063,LU,de
+Meierskappel,6344,0,Meierskappel,1064,LU,de
+Root,6037,0,Root,1065,LU,de
+Root D4,6039,0,Root,1065,LU,de
+Eigenthal,6013,0,Schwarzenberg,1066,LU,de
+Schwarzenberg LU,6103,0,Schwarzenberg,1066,LU,de
+Udligenswil,6044,0,Udligenswil,1067,LU,de
+Vitznau,6354,0,Vitznau,1068,LU,de
+Weggis,6353,0,Weggis,1069,LU,de
+Rigi Kaltbad,6356,0,Weggis,1069,LU,de
+Neudorf,6025,0,Beromünster,1081,LU,de
+Beromünster,6215,0,Beromünster,1081,LU,de
+Schwarzenbach LU,6215,2,Beromünster,1081,LU,de
+Gunzwil,6222,0,Beromünster,1081,LU,de
+Büron,6233,0,Büron,1082,LU,de
+Buttisholz,6018,0,Buttisholz,1083,LU,de
+Eich,6205,0,Eich,1084,LU,de
+Geuensee,6232,0,Geuensee,1085,LU,de
+Grosswangen,6022,0,Grosswangen,1086,LU,de
+Hildisrieden,6024,0,Hildisrieden,1088,LU,de
+St. Erhard,6212,0,Knutwil,1089,LU,de
+Knutwil,6213,0,Knutwil,1089,LU,de
+Kaltbach,6212,2,Mauensee,1091,LU,de
+Mauensee,6216,0,Mauensee,1091,LU,de
+Hellbühl,6016,0,Neuenkirch,1093,LU,de
+Sempach Station,6203,0,Neuenkirch,1093,LU,de
+Neuenkirch,6206,0,Neuenkirch,1093,LU,de
+Nottwil,6207,0,Nottwil,1094,LU,de
+Oberkirch LU,6208,0,Oberkirch,1095,LU,de
+Pfeffikon LU,5735,0,Rickenbach (LU),1097,LU,de
+Rickenbach LU,6221,0,Rickenbach (LU),1097,LU,de
+Ruswil,6017,0,Ruswil,1098,LU,de
+Sigigen,6019,0,Ruswil,1098,LU,de
+Schenkon,6214,0,Schenkon,1099,LU,de
+Schlierbach,6231,0,Schlierbach,1100,LU,de
+Sempach,6204,0,Sempach,1102,LU,de
+Sursee,6210,0,Sursee,1103,LU,de
+Triengen,6234,0,Triengen,1104,LU,de
+Kulmerau,6234,1,Triengen,1104,LU,de
+Winikon,6235,0,Triengen,1104,LU,de
+Wilihof,6236,0,Triengen,1104,LU,de
+Wolhusen,6110,0,Wolhusen,1107,LU,de
+Steinhuserberg,6114,0,Wolhusen,1107,LU,de
+Alberswil,6248,0,Alberswil,1121,LU,de
+Altbüron,6147,0,Altbüron,1122,LU,de
+Altishofen,6246,0,Altishofen,1123,LU,de
+Buchs LU,6211,1,Dagmersellen,1125,LU,de
+Dagmersellen,6252,0,Dagmersellen,1125,LU,de
+Uffikon,6253,0,Dagmersellen,1125,LU,de
+Ebersecken,6245,0,Ebersecken,1126,LU,de
+Egolzwil,6243,0,Egolzwil,1127,LU,de
+Kottwil,6217,0,Ettiswil,1128,LU,de
+Ettiswil,6218,0,Ettiswil,1128,LU,de
+Fischbach LU,6145,0,Fischbach,1129,LU,de
+Gettnau,6142,0,Gettnau,1130,LU,de
+Grossdietwil,6146,0,Grossdietwil,1131,LU,de
+Hergiswil b. Willisau,6133,0,Hergiswil bei Willisau,1132,LU,de
+Hofstatt,6154,0,Luthern,1135,LU,de
+Luthern,6156,0,Luthern,1135,LU,de
+Luthern Bad,6156,2,Luthern,1135,LU,de
+Menznau,6122,0,Menznau,1136,LU,de
+Geiss,6123,0,Menznau,1136,LU,de
+Menzberg,6125,0,Menznau,1136,LU,de
+Nebikon,6244,0,Nebikon,1137,LU,de
+St. Urban,4915,0,Pfaffnau,1139,LU,de
+Pfaffnau,6264,0,Pfaffnau,1139,LU,de
+Reiden,6260,0,Reiden,1140,LU,de
+Reidermoos,6260,2,Reiden,1140,LU,de
+Mehlsecken,6260,4,Reiden,1140,LU,de
+Langnau b. Reiden,6262,0,Reiden,1140,LU,de
+Richenthal,6263,0,Reiden,1140,LU,de
+Roggliswil,6265,0,Roggliswil,1142,LU,de
+Ohmstal,6143,0,Schötz,1143,LU,de
+Schötz,6247,0,Schötz,1143,LU,de
+Ufhusen,6153,0,Ufhusen,1145,LU,de
+Wauwil,6242,0,Wauwil,1146,LU,de
+Wikon,4806,0,Wikon,1147,LU,de
+Hintermoos,6260,3,Wikon,1147,LU,de
+Zell LU,6144,0,Zell (LU),1150,LU,de
+Hüswil,6152,0,Zell (LU),1150,LU,de
+Daiwil,6126,0,Willisau,1151,LU,de
+Willisau,6130,0,Willisau,1151,LU,de
+Rohrmatt,6132,0,Willisau,1151,LU,de
+Altdorf UR,6460,0,Altdorf (UR),1201,UR,de
+Andermatt,6490,0,Andermatt,1202,UR,de
+Attinghausen,6468,0,Attinghausen,1203,UR,de
+Bauen,6466,0,Bauen,1204,UR,de
+Bürglen UR,6463,0,Bürglen (UR),1205,UR,de
+Erstfeld,6472,0,Erstfeld,1206,UR,de
+Flüelen,6454,0,Flüelen,1207,UR,de
+Göschenen,6487,0,Göschenen,1208,UR,de
+Intschi,6476,0,Gurtnellen,1209,UR,de
+Gurtnellen,6482,0,Gurtnellen,1209,UR,de
+Hospental,6493,0,Hospental,1210,UR,de
+Isenthal,6461,0,Isenthal,1211,UR,de
+Realp,6491,0,Realp,1212,UR,de
+Schattdorf,6467,0,Schattdorf,1213,UR,de
+Haldi b. Schattdorf,6469,0,Schattdorf,1213,UR,de
+Seedorf UR,6462,0,Seedorf (UR),1214,UR,de
+Seelisberg,6377,0,Seelisberg,1215,UR,de
+Rütli,6441,2,Seelisberg,1215,UR,de
+Silenen,6473,0,Silenen,1216,UR,de
+Amsteg,6474,0,Silenen,1216,UR,de
+Bristen,6475,0,Silenen,1216,UR,de
+Sisikon,6452,0,Sisikon,1217,UR,de
+Spiringen,6464,0,Spiringen,1218,UR,de
+Urnerboden,8751,0,Spiringen,1218,UR,de
+Unterschächen,6465,0,Unterschächen,1219,UR,de
+Wassen,6484,0,Wassen,1220,UR,de
+Meien,6485,0,Wassen,1220,UR,de
+Bennau,8836,0,Einsiedeln,1301,SZ,de
+Einsiedeln,8840,0,Einsiedeln,1301,SZ,de
+Trachslau,8840,2,Einsiedeln,1301,SZ,de
+Gross,8841,0,Einsiedeln,1301,SZ,de
+Euthal,8844,0,Einsiedeln,1301,SZ,de
+Willerzell,8846,0,Einsiedeln,1301,SZ,de
+Egg SZ,8847,0,Einsiedeln,1301,SZ,de
+Rigi Scheidegg,6410,5,Gersau,1311,SZ,de
+Gersau,6442,0,Gersau,1311,SZ,de
+Schindellegi,8834,0,Feusisberg,1321,SZ,de
+Feusisberg,8835,0,Feusisberg,1321,SZ,de
+Hurden,8640,3,Freienbach,1322,SZ,de
+Bäch SZ,8806,0,Freienbach,1322,SZ,de
+Freienbach,8807,0,Freienbach,1322,SZ,de
+Pfäffikon SZ,8808,0,Freienbach,1322,SZ,de
+Wollerau,8832,0,Freienbach,1322,SZ,de
+Wilen b. Wollerau,8832,2,Freienbach,1322,SZ,de
+Wollerau,8832,0,Wollerau,1323,SZ,de
+Merlischachen,6402,0,Küssnacht (SZ),1331,SZ,de
+Küssnacht am Rigi,6403,0,Küssnacht (SZ),1331,SZ,de
+Immensee,6405,0,Küssnacht (SZ),1331,SZ,de
+Altendorf,8852,0,Altendorf,1341,SZ,de
+Galgenen,8854,2,Galgenen,1342,SZ,de
+Innerthal,8858,0,Innerthal,1343,SZ,de
+Lachen SZ,8853,0,Lachen,1344,SZ,de
+Reichenburg,8864,0,Reichenburg,1345,SZ,de
+Siebnen,8854,0,Schübelbach,1346,SZ,de
+Schübelbach,8862,0,Schübelbach,1346,SZ,de
+Buttikon SZ,8863,0,Schübelbach,1346,SZ,de
+Tuggen,8856,0,Tuggen,1347,SZ,de
+Vorderthal,8857,0,Vorderthal,1348,SZ,de
+Wangen SZ,8855,0,Wangen (SZ),1349,SZ,de
+Alpthal,8849,0,Alpthal,1361,SZ,de
+Goldau,6410,0,Arth,1362,SZ,de
+Rigi Klösterli,6410,2,Arth,1362,SZ,de
+Rigi Staffel,6410,3,Arth,1362,SZ,de
+Rigi Kulm,6410,4,Arth,1362,SZ,de
+Oberarth,6414,0,Arth,1362,SZ,de
+Arth,6415,0,Arth,1362,SZ,de
+Illgau,6434,0,Illgau,1363,SZ,de
+Brunnen,6440,0,Ingenbohl,1364,SZ,de
+Lauerz,6424,0,Lauerz,1365,SZ,de
+Stoos SZ,6433,0,Morschach,1366,SZ,de
+Morschach,6443,0,Morschach,1366,SZ,de
+Muotathal,6436,0,Muotathal,1367,SZ,de
+Bisisthal,6436,2,Muotathal,1367,SZ,de
+Ried (Muotathal),6436,3,Muotathal,1367,SZ,de
+Oberiberg,8843,0,Oberiberg,1368,SZ,de
+Riemenstalden,6452,2,Riemenstalden,1369,SZ,de
+Rothenthurm,6418,0,Rothenthurm,1370,SZ,de
+Sattel,6417,0,Sattel,1371,SZ,de
+Seewen SZ,6423,0,Schwyz,1372,SZ,de
+Schwyz,6430,0,Schwyz,1372,SZ,de
+Rickenbach b. Schwyz,6432,0,Schwyz,1372,SZ,de
+Ibach,6438,0,Schwyz,1372,SZ,de
+Steinen,6422,0,Steinen,1373,SZ,de
+Steinerberg,6416,0,Steinerberg,1374,SZ,de
+Unteriberg,8842,0,Unteriberg,1375,SZ,de
+Studen SZ,8845,0,Unteriberg,1375,SZ,de
+Pilatus Kulm,6010,2,Alpnach,1401,OW,de
+Alpnachstad,6053,0,Alpnach,1401,OW,de
+Alpnach Dorf,6055,0,Alpnach,1401,OW,de
+Grafenort,6388,0,Engelberg,1402,OW,de
+Engelberg,6390,0,Engelberg,1402,OW,de
+Giswil,6074,0,Giswil,1403,OW,de
+Kerns,6064,0,Kerns,1404,OW,de
+St. Niklausen OW,6066,0,Kerns,1404,OW,de
+Melchtal,6067,0,Kerns,1404,OW,de
+Melchsee-Frutt,6068,0,Kerns,1404,OW,de
+Lungern,6078,0,Lungern,1405,OW,de
+Bürglen OW,6078,2,Lungern,1405,OW,de
+Sachseln,6072,0,Sachseln,1406,OW,de
+Flüeli-Ranft,6073,0,Sachseln,1406,OW,de
+Kägiswil,6056,0,Sarnen,1407,OW,de
+Sarnen,6060,0,Sarnen,1407,OW,de
+Ramersberg,6060,2,Sarnen,1407,OW,de
+Wilen (Sarnen),6062,0,Sarnen,1407,OW,de
+Stalden (Sarnen),6063,0,Sarnen,1407,OW,de
+Beckenried,6375,0,Beckenried,1501,NW,de
+Buochs,6374,0,Buochs,1502,NW,de
+Dallenwil,6383,0,Dallenwil,1503,NW,de
+Wiesenberg,6383,3,Dallenwil,1503,NW,de
+Wirzweli,6383,4,Dallenwil,1503,NW,de
+Emmetten,6376,0,Emmetten,1504,NW,de
+Bürgenstock,6363,2,Ennetbürgen,1505,NW,de
+Ennetbürgen,6373,0,Ennetbürgen,1505,NW,de
+Ennetmoos,6372,0,Ennetmoos,1506,NW,de
+Hergiswil NW,6052,0,Hergiswil (NW),1507,NW,de
+Oberdorf NW,6370,41,Oberdorf (NW),1508,NW,de
+Büren NW,6382,0,Oberdorf (NW),1508,NW,de
+Niederrickenbach,6383,2,Oberdorf (NW),1508,NW,de
+Stans,6370,0,Stans,1509,NW,de
+Stansstad,6362,0,Stansstad,1510,NW,de
+Obbürgen,6363,0,Stansstad,1510,NW,de
+Fürigen,6363,1,Stansstad,1510,NW,de
+Kehrsiten,6365,0,Stansstad,1510,NW,de
+Wolfenschiessen,6386,0,Wolfenschiessen,1511,NW,de
+Oberrickenbach,6387,0,Wolfenschiessen,1511,NW,de
+Näfels,8752,0,Glarus Nord,1630,GL,de
+Mollis,8753,0,Glarus Nord,1630,GL,de
+Filzbach,8757,0,Glarus Nord,1630,GL,de
+Obstalden,8758,0,Glarus Nord,1630,GL,de
+Bilten,8865,0,Glarus Nord,1630,GL,de
+Niederurnen,8867,0,Glarus Nord,1630,GL,de
+Oberurnen,8868,0,Glarus Nord,1630,GL,de
+Mühlehorn,8874,0,Glarus Nord,1630,GL,de
+Mitlödi,8756,0,Glarus Süd,1631,GL,de
+Schwanden GL,8762,0,Glarus Süd,1631,GL,de
+Schwändi b. Schwanden,8762,2,Glarus Süd,1631,GL,de
+Sool,8762,3,Glarus Süd,1631,GL,de
+Engi,8765,0,Glarus Süd,1631,GL,de
+Matt,8766,0,Glarus Süd,1631,GL,de
+Elm,8767,0,Glarus Süd,1631,GL,de
+Nidfurn,8772,0,Glarus Süd,1631,GL,de
+Haslen GL,8773,0,Glarus Süd,1631,GL,de
+Leuggelbach,8774,0,Glarus Süd,1631,GL,de
+Luchsingen,8775,1,Glarus Süd,1631,GL,de
+Hätzingen,8775,2,Glarus Süd,1631,GL,de
+Diesbach GL,8777,0,Glarus Süd,1631,GL,de
+Betschwanden,8777,2,Glarus Süd,1631,GL,de
+Rüti GL,8782,0,Glarus Süd,1631,GL,de
+Linthal,8783,0,Glarus Süd,1631,GL,de
+Braunwald,8784,0,Glarus Süd,1631,GL,de
+Glarus,8750,0,Glarus,1632,GL,de
+Riedern,8750,2,Glarus,1632,GL,de
+Klöntal,8750,3,Glarus,1632,GL,de
+Netstal,8754,0,Glarus,1632,GL,de
+Ennenda,8755,0,Glarus,1632,GL,de
+Allenwinden,6319,0,Baar,1701,ZG,de
+Baar,6340,0,Baar,1701,ZG,de
+Cham,6330,0,Cham,1702,ZG,de
+Hagendorn,6332,0,Cham,1702,ZG,de
+Hünenberg,6331,0,Hünenberg,1703,ZG,de
+Hünenberg See,6333,0,Hünenberg,1703,ZG,de
+Menzingen,6313,0,Menzingen,1704,ZG,de
+Edlibach,6313,2,Menzingen,1704,ZG,de
+Finstersee,6313,3,Menzingen,1704,ZG,de
+Sihlbrugg,6340,4,Neuheim,1705,ZG,de
+Neuheim,6345,0,Neuheim,1705,ZG,de
+Oberägeri,6315,0,Oberägeri,1706,ZG,de
+Alosen,6315,2,Oberägeri,1706,ZG,de
+Morgarten,6315,3,Oberägeri,1706,ZG,de
+Rotkreuz,6343,0,Risch,1707,ZG,de
+Buonas,6343,2,Risch,1707,ZG,de
+Risch,6343,3,Risch,1707,ZG,de
+Holzhäusern ZG,6343,4,Risch,1707,ZG,de
+Steinhausen,6312,0,Steinhausen,1708,ZG,de
+Unterägeri,6314,0,Unterägeri,1709,ZG,de
+Neuägeri,6314,1,Unterägeri,1709,ZG,de
+Walchwil,6318,0,Walchwil,1710,ZG,de
+Zug,6300,0,Zug,1711,ZG,de
+Zugerberg,6300,5,Zug,1711,ZG,de
+Oberwil b. Zug,6317,0,Zug,1711,ZG,de
+Châtillon FR,1473,2,Châtillon (FR),2008,FR,fr
+Cheiry,1529,0,Cheiry,2009,FR,fr
+Chapelle (Broye),1534,2,Cheiry,2009,FR,fr
+Cugy FR,1482,0,Cugy (FR),2011,FR,fr
+Vesin,1483,3,Cugy (FR),2011,FR,fr
+Fétigny,1532,0,Fétigny,2016,FR,fr
+Gletterens,1544,0,Gletterens,2022,FR,fr
+Lully FR,1470,2,Lully (FR),2025,FR,fr
+Seiry,1470,3,Lully (FR),2025,FR,fr
+Bollion,1470,4,Lully (FR),2025,FR,fr
+Ménières,1533,0,Ménières,2027,FR,fr
+Cousset,1774,0,Montagny (FR),2029,FR,fr
+Cousset,1774,0,Montagny (FR),2029,FR,fr
+Montagny-les-Monts,1774,2,Montagny (FR),2029,FR,fr
+Mannens,1775,2,Montagny (FR),2029,FR,fr
+Grandsivaz,1775,3,Montagny (FR),2029,FR,fr
+Montagny-la-Ville,1776,0,Montagny (FR),2029,FR,fr
+Nuvilly,1485,0,Nuvilly,2035,FR,fr
+Prévondavaux,1410,4,Prévondavaux,2038,FR,fr
+St-Aubin FR,1566,0,Saint-Aubin (FR),2041,FR,fr
+Les Friques,1566,2,Saint-Aubin (FR),2041,FR,fr
+Sévaz,1541,3,Sévaz,2043,FR,fr
+Villeneuve FR,1527,0,Surpierre,2044,FR,fr
+Surpierre,1528,0,Surpierre,2044,FR,fr
+Praratoud,1528,2,Surpierre,2044,FR,fr
+Vallon,1565,2,Vallon,2045,FR,fr
+Montet (Broye),1483,0,Les Montets,2050,FR,fr
+Frasses,1483,2,Les Montets,2050,FR,fr
+Aumont,1484,0,Les Montets,2050,FR,fr
+Granges-de-Vesin,1484,2,Les Montets,2050,FR,fr
+Delley,1567,0,Delley-Portalban,2051,FR,fr
+Portalban,1568,0,Delley-Portalban,2051,FR,fr
+Dompierre FR,1563,0,Belmont-Broye,2053,FR,fr
+Domdidier,1564,0,Belmont-Broye,2053,FR,fr
+Léchelles,1773,0,Belmont-Broye,2053,FR,fr
+Chandon,1773,2,Belmont-Broye,2053,FR,fr
+Russy,1773,3,Belmont-Broye,2053,FR,fr
+Estavayer-le-Lac,1470,0,Estavayer,2054,FR,fr
+Font,1473,0,Estavayer,2054,FR,fr
+Autavaux,1475,0,Estavayer,2054,FR,fr
+Forel FR,1475,2,Estavayer,2054,FR,fr
+Montbrelloz,1475,3,Estavayer,2054,FR,fr
+Vuissens,1486,0,Estavayer,2054,FR,fr
+Murist,1489,0,Estavayer,2054,FR,fr
+Bussy FR,1541,0,Estavayer,2054,FR,fr
+Morens FR,1541,2,Estavayer,2054,FR,fr
+Rueyres-les-Prés,1542,0,Estavayer,2054,FR,fr
+Cheyres,1468,0,Cheyres-Châbles,2055,FR,fr
+Châbles,1474,0,Cheyres-Châbles,2055,FR,fr
+Auboranges,1673,3,Auboranges,2061,FR,fr
+Billens,1681,0,Billens-Hennens,2063,FR,fr
+Hennens,1681,2,Billens-Hennens,2063,FR,fr
+Chapelle (Glâne),1608,4,Chapelle (Glâne),2066,FR,fr
+Le Châtelard-près-Romont,1689,0,Le Châtelard,2067,FR,fr
+Châtonnaye,1553,0,Châtonnaye,2068,FR,fr
+Ecublens FR,1673,4,Ecublens (FR),2072,FR,fr
+Grangettes-près-Romont,1686,0,Grangettes,2079,FR,fr
+Massonnens,1692,0,Massonnens,2086,FR,fr
+Berlens,1680,2,Mézières (FR),2087,FR,fr
+Mézières FR,1684,0,Mézières (FR),2087,FR,fr
+Montet (Glâne),1674,2,Montet (Glâne),2089,FR,fr
+Romont FR,1680,0,Romont (FR),2096,FR,fr
+Promasens,1673,0,Rue,2097,FR,fr
+Gillarens,1673,2,Rue,2097,FR,fr
+Rue,1673,5,Rue,2097,FR,fr
+Blessens,1675,2,Rue,2097,FR,fr
+Chavannes-les-Forts,1676,0,Siviriez,2099,FR,fr
+Prez-vers-Siviriez,1677,0,Siviriez,2099,FR,fr
+Siviriez,1678,0,Siviriez,2099,FR,fr
+Villaraboud,1679,0,Siviriez,2099,FR,fr
+Ursy,1670,0,Ursy,2102,FR,fr
+Bionnens,1670,2,Ursy,2102,FR,fr
+Esmonts,1670,3,Ursy,2102,FR,fr
+Vuarmarens,1674,0,Ursy,2102,FR,fr
+Morlens,1674,3,Ursy,2102,FR,fr
+Vauderens,1675,0,Ursy,2102,FR,fr
+Mossel,1675,3,Ursy,2102,FR,fr
+Villaz-St-Pierre,1690,0,Villaz-Saint-Pierre,2111,FR,fr
+Villariaz,1685,0,Vuisternens-devant-Romont,2113,FR,fr
+La Neirigue,1686,2,Vuisternens-devant-Romont,2113,FR,fr
+Vuisternens-devant-Romont,1687,0,Vuisternens-devant-Romont,2113,FR,fr
+La Magne,1687,2,Vuisternens-devant-Romont,2113,FR,fr
+Estévenens,1687,3,Vuisternens-devant-Romont,2113,FR,fr
+Sommentier,1688,0,Vuisternens-devant-Romont,2113,FR,fr
+Lieffrens,1688,2,Vuisternens-devant-Romont,2113,FR,fr
+La Joux FR,1697,0,Vuisternens-devant-Romont,2113,FR,fr
+Les Ecasseys,1697,2,Vuisternens-devant-Romont,2113,FR,fr
+Villarsiviriaux,1694,0,Villorsonnens,2114,FR,fr
+Villargiroud,1694,2,Villorsonnens,2114,FR,fr
+Orsonnens,1694,3,Villorsonnens,2114,FR,fr
+Chavannes-sous-Orsonnens,1694,4,Villorsonnens,2114,FR,fr
+Torny-le-Grand,1748,0,Torny,2115,FR,fr
+Middes,1749,0,Torny,2115,FR,fr
+Lussy FR,1690,2,La Folliaz,2116,FR,fr
+Villarimboud,1691,0,La Folliaz,2116,FR,fr
+Albeuve,1669,0,Haut-Intyamon,2121,FR,fr
+Lessoc,1669,2,Haut-Intyamon,2121,FR,fr
+Les Sciernes-d'Albeuve,1669,3,Haut-Intyamon,2121,FR,fr
+Neirivue,1669,4,Haut-Intyamon,2121,FR,fr
+Montbovon,1669,5,Haut-Intyamon,2121,FR,fr
+Gumefens,1643,0,Pont-en-Ogoz,2122,FR,fr
+Avry-devant-Pont,1644,0,Pont-en-Ogoz,2122,FR,fr
+Le Bry,1645,0,Pont-en-Ogoz,2122,FR,fr
+Botterens,1652,0,Botterens,2123,FR,fr
+Villarbeney,1652,2,Botterens,2123,FR,fr
+Broc,1636,0,Broc,2124,FR,fr
+Bulle,1630,0,Bulle,2125,FR,fr
+La Tour-de-Trême,1635,0,Bulle,2125,FR,fr
+Châtel-sur-Montsalvens,1653,3,Châtel-sur-Montsalvens,2128,FR,fr
+Corbières,1647,0,Corbières,2129,FR,fr
+Villarvolard,1651,0,Corbières,2129,FR,fr
+Crésuz,1653,2,Crésuz,2130,FR,fr
+Echarlens,1646,0,Echarlens,2131,FR,fr
+Grandvillard,1666,0,Grandvillard,2134,FR,fr
+Gruyères,1663,0,Gruyères,2135,FR,fr
+Pringy,1663,2,Gruyères,2135,FR,fr
+Epagny,1663,3,Gruyères,2135,FR,fr
+Moléson-sur-Gruyères,1663,4,Gruyères,2135,FR,fr
+Hauteville,1648,0,Hauteville,2137,FR,fr
+Jaun,1656,0,Jaun,2138,FR,de
+Im Fang,1656,1,Jaun,2138,FR,de
+Marsens,1633,0,Marsens,2140,FR,fr
+Vuippens,1633,2,Marsens,2140,FR,fr
+Morlon,1638,0,Morlon,2143,FR,fr
+Le Pâquier-Montbarry,1661,0,Le Pâquier (FR),2145,FR,fr
+Pont-la-Ville,1649,0,Pont-la-Ville,2147,FR,fr
+Riaz,1632,0,Riaz,2148,FR,fr
+La Roche FR,1634,0,La Roche,2149,FR,fr
+Sâles (Gruyère),1625,0,Sâles,2152,FR,fr
+Maules,1625,2,Sâles,2152,FR,fr
+Romanens,1626,0,Sâles,2152,FR,fr
+Treyfayes,1626,2,Sâles,2152,FR,fr
+Rueyres-Treyfayes,1626,3,Sâles,2152,FR,fr
+Sorens,1642,0,Sorens,2153,FR,fr
+Vaulruz,1627,0,Vaulruz,2155,FR,fr
+Vuadens,1628,0,Vuadens,2160,FR,fr
+Estavannens,1665,0,Bas-Intyamon,2162,FR,fr
+Villars-sous-Mont,1666,2,Bas-Intyamon,2162,FR,fr
+Enney,1667,0,Bas-Intyamon,2162,FR,fr
+Charmey (Gruyère),1637,0,Val-de-Charmey,2163,FR,fr
+Cerniat FR,1654,0,Val-de-Charmey,2163,FR,fr
+Arconciel,1732,0,Arconciel,2171,FR,fr
+Autigny,1742,0,Autigny,2173,FR,fr
+Corjolens,1754,2,Avry,2174,FR,fr
+Avry-sur-Matran,1754,4,Avry,2174,FR,fr
+Belfaux,1782,0,Belfaux,2175,FR,fr
+Autafond,1782,2,Belfaux,2175,FR,fr
+Chénens,1744,0,Chénens,2177,FR,fr
+Corminboeuf,1720,0,Corminboeuf,2183,FR,fr
+Chésopelloz,1720,2,Corminboeuf,2183,FR,fr
+Corserey,1747,0,Corserey,2185,FR,fr
+Cottens FR,1741,0,Cottens (FR),2186,FR,fr
+Ependes FR,1731,0,Ependes (FR),2189,FR,fr
+Ferpicloz,1724,3,Ferpicloz,2194,FR,fr
+Fribourg,1700,0,Fribourg,2196,FR,fr
+Bourguillon,1722,0,Fribourg,2196,FR,fr
+Givisiez,1762,0,Givisiez,2197,FR,fr
+Granges-Paccot,1763,0,Granges-Paccot,2198,FR,fr
+Grolley,1772,0,Grolley,2200,FR,fr
+Marly,1723,0,Marly,2206,FR,fr
+Matran,1753,0,Matran,2208,FR,fr
+Neyruz,1740,0,Neyruz (FR),2211,FR,fr
+Noréaz,1757,0,Noréaz,2213,FR,fr
+Pierrafortscha,1723,4,Pierrafortscha,2216,FR,fr
+Nierlet-les-Bois,1772,1,Ponthaux,2217,FR,fr
+Ponthaux,1772,2,Ponthaux,2217,FR,fr
+Le Mouret,1724,0,Le Mouret,2220,FR,fr
+Essert FR,1724,2,Le Mouret,2220,FR,fr
+Montévraz,1724,4,Le Mouret,2220,FR,fr
+Oberried FR,1724,5,Le Mouret,2220,FR,fr
+Zénauva,1724,7,Le Mouret,2220,FR,fr
+Bonnefontaine,1724,8,Le Mouret,2220,FR,fr
+Prez-vers-Noréaz,1746,0,Prez-vers-Noréaz,2221,FR,fr
+Senèdes,1724,6,Senèdes,2225,FR,fr
+Treyvaux,1733,0,Treyvaux,2226,FR,fr
+Villars-sur-Glâne,1752,0,Villars-sur-Glâne,2228,FR,fr
+Villarsel-sur-Marly,1723,3,Villarsel-sur-Marly,2230,FR,fr
+Posieux,1725,0,Hauterive (FR),2233,FR,fr
+Ecuvillens,1730,0,Hauterive (FR),2233,FR,fr
+Lentigny,1745,0,La Brillaz,2234,FR,fr
+Onnens FR,1756,0,La Brillaz,2234,FR,fr
+Lovens,1756,2,La Brillaz,2234,FR,fr
+Lossy,1782,3,La Sonnaz,2235,FR,fr
+La Corbaz,1782,4,La Sonnaz,2235,FR,fr
+Cormagens,1782,5,La Sonnaz,2235,FR,fr
+Formangueires,1782,6,La Sonnaz,2235,FR,fr
+Villarlod,1695,0,Gibloux,2236,FR,fr
+Rueyres-St-Laurent,1695,2,Gibloux,2236,FR,fr
+Estavayer-le-Gibloux,1695,3,Gibloux,2236,FR,fr
+Villarsel-le-Gibloux,1695,4,Gibloux,2236,FR,fr
+Vuisternens-en-Ogoz,1696,0,Gibloux,2236,FR,fr
+Farvagny-le-Grand,1726,0,Gibloux,2236,FR,fr
+Farvagny-le-Petit,1726,2,Gibloux,2236,FR,fr
+Grenilles,1726,3,Gibloux,2236,FR,fr
+Posat,1726,4,Gibloux,2236,FR,fr
+Corpataux,1727,0,Gibloux,2236,FR,fr
+Magnedens,1727,2,Gibloux,2236,FR,fr
+Rossens FR,1728,0,Gibloux,2236,FR,fr
+Courgevaux,1796,0,Courgevaux,2250,FR,de
+Villarepos,1583,0,Courtepin,2254,FR,fr
+Pensier,1783,0,Courtepin,2254,FR,fr
+Barberêche,1783,4,Courtepin,2254,FR,fr
+Courtepin,1784,0,Courtepin,2254,FR,fr
+Wallenried,1784,3,Courtepin,2254,FR,fr
+Courtaman,1791,0,Courtepin,2254,FR,fr
+Cressier FR,1785,0,Cressier (FR),2257,FR,fr
+Fräschels,3284,0,Fräschels,2258,FR,de
+Galmiz,3285,0,Galmiz,2259,FR,de
+Gempenach,3215,0,Gempenach,2260,FR,de
+Greng,3280,4,Greng,2261,FR,de
+Cordast,1792,0,Gurmels,2262,FR,de
+Guschelmuth,1792,2,Gurmels,2262,FR,de
+Wallenbuch,3206,2,Gurmels,2262,FR,de
+Gurmels,3212,0,Gurmels,2262,FR,de
+Kleingurmels,3212,2,Gurmels,2262,FR,de
+Liebistorf,3213,0,Gurmels,2262,FR,de
+Kerzers,3210,0,Kerzers,2265,FR,de
+Kleinbösingen,3213,2,Kleinbösingen,2266,FR,de
+Meyriez,3280,2,Meyriez,2271,FR,de
+Misery,1721,1,Misery-Courtion,2272,FR,fr
+Cormérod,1721,2,Misery-Courtion,2272,FR,fr
+Courtion,1721,4,Misery-Courtion,2272,FR,fr
+Cournillens,1721,5,Misery-Courtion,2272,FR,fr
+Muntelier,3286,0,Muntelier,2274,FR,de
+Jeuss,1793,0,Murten,2275,FR,de
+Salvenach,1794,0,Murten,2275,FR,de
+Courlevon,1795,0,Murten,2275,FR,de
+Büchslen,3215,2,Murten,2275,FR,de
+Lurtigen,3215,3,Murten,2275,FR,de
+Murten,3280,0,Murten,2275,FR,de
+Ried b. Kerzers,3216,0,Ried bei Kerzers,2276,FR,de
+Agriswil,3216,2,Ried bei Kerzers,2276,FR,de
+Ulmiz,3214,0,Ulmiz,2278,FR,de
+Sugiez,1786,0,Mont-Vully,2284,FR,fr
+Môtier (Vully),1787,0,Mont-Vully,2284,FR,fr
+Mur (Vully) FR,1787,1,Mont-Vully,2284,FR,fr
+Praz (Vully),1788,0,Mont-Vully,2284,FR,fr
+Lugnorre,1789,0,Mont-Vully,2284,FR,fr
+Alterswil FR,1715,0,Alterswil,2291,FR,de
+Brünisried,1719,0,Brünisried,2292,FR,de
+Düdingen,3186,0,Düdingen,2293,FR,de
+Giffers,1735,0,Giffers,2294,FR,de
+Bösingen,3178,0,Bösingen,2295,FR,de
+Heitenried,1714,0,Heitenried,2296,FR,de
+Plaffeien,1716,0,Plaffeien,2299,FR,de
+Oberschrot,1716,2,Plaffeien,2299,FR,de
+Schwarzsee,1716,3,Plaffeien,2299,FR,de
+Zumholz,1719,2,Plaffeien,2299,FR,de
+Plasselb,1737,0,Plasselb,2300,FR,fr
+Rechthalten,1718,0,Rechthalten,2301,FR,de
+St. Antoni,1713,0,St. Antoni,2302,FR,de
+St. Silvester,1736,0,St. Silvester,2303,FR,de
+St. Ursen,1717,0,St. Ursen,2304,FR,de
+Schmitten FR,3185,0,Schmitten (FR),2305,FR,de
+Tafers,1712,0,Tafers,2306,FR,de
+Tentlingen,1734,0,Tentlingen,2307,FR,de
+Ueberstorf,3182,0,Ueberstorf,2308,FR,de
+Flamatt,3175,0,Wünnewil-Flamatt,2309,FR,de
+Wünnewil,3184,0,Wünnewil-Flamatt,2309,FR,de
+Attalens,1616,0,Attalens,2321,FR,fr
+Tatroz,1617,2,Attalens,2321,FR,fr
+Bossonnens,1615,0,Bossonnens,2323,FR,fr
+Châtel-St-Denis,1618,0,Châtel-Saint-Denis,2325,FR,fr
+Les Paccots,1619,0,Châtel-Saint-Denis,2325,FR,fr
+Granges (Veveyse),1614,0,Granges (Veveyse),2328,FR,fr
+Remaufens,1617,0,Remaufens,2333,FR,fr
+St-Martin FR,1609,0,Saint-Martin (FR),2335,FR,fr
+Besencens,1609,2,Saint-Martin (FR),2335,FR,fr
+Fiaugères,1609,3,Saint-Martin (FR),2335,FR,fr
+Semsales,1623,0,Semsales,2336,FR,fr
+Porsel,1699,0,Le Flon,2337,FR,fr
+Pont (Veveyse),1699,2,Le Flon,2337,FR,fr
+Bouloz,1699,3,Le Flon,2337,FR,fr
+Le Crêt-près-Semsales,1611,0,La Verrerie,2338,FR,fr
+La Verrerie,1624,0,La Verrerie,2338,FR,fr
+Grattavache,1624,2,La Verrerie,2338,FR,fr
+Progens,1624,3,La Verrerie,2338,FR,fr
+Progens,1624,3,La Verrerie,2338,FR,fr
+Egerkingen,4622,0,Egerkingen,2401,SO,de
+Härkingen,4624,0,Härkingen,2402,SO,de
+Kestenholz,4703,0,Kestenholz,2403,SO,de
+Neuendorf,4623,0,Neuendorf,2404,SO,de
+Niederbuchsiten,4626,0,Niederbuchsiten,2405,SO,de
+Oberbuchsiten,4625,0,Oberbuchsiten,2406,SO,de
+Oensingen,4702,0,Oensingen,2407,SO,de
+Wolfwil,4628,0,Wolfwil,2408,SO,de
+Aedermannsdorf,4714,0,Aedermannsdorf,2421,SO,de
+Balsthal,4710,0,Balsthal,2422,SO,de
+Gänsbrunnen,4716,1,Gänsbrunnen,2423,SO,de
+Herbetswil,4715,0,Herbetswil,2424,SO,de
+Holderbank SO,4718,0,Holderbank (SO),2425,SO,de
+Laupersdorf,4712,0,Laupersdorf,2426,SO,de
+Matzendorf,4713,0,Matzendorf,2427,SO,de
+Mümliswil,4717,0,Mümliswil-Ramiswil,2428,SO,de
+Ramiswil,4719,0,Mümliswil-Ramiswil,2428,SO,de
+Welschenrohr,4716,0,Welschenrohr,2429,SO,de
+Biezwil,4585,0,Biezwil,2445,SO,de
+Lüterkofen,4571,1,Lüterkofen-Ichertswil,2455,SO,de
+Ichertswil,4571,2,Lüterkofen-Ichertswil,2455,SO,de
+Lüterswil,4584,2,Lüterswil-Gächliwil,2456,SO,de
+Gächliwil,4584,3,Lüterswil-Gächliwil,2456,SO,de
+Messen,3254,0,Messen,2457,SO,de
+Balm b. Messen,3254,2,Messen,2457,SO,de
+Brunnenthal,3307,0,Messen,2457,SO,de
+Oberramsern,4588,2,Messen,2457,SO,de
+Schnottwil,3253,0,Schnottwil,2461,SO,de
+Unterramsern,4588,0,Unterramsern,2463,SO,de
+Nennigkofen,4574,0,Lüsslingen-Nennigkofen,2464,SO,de
+Lüsslingen,4574,1,Lüsslingen-Nennigkofen,2464,SO,de
+Tscheppach,4576,0,Buchegg,2465,SO,de
+Hessigkofen,4577,0,Buchegg,2465,SO,de
+Bibern SO,4578,0,Buchegg,2465,SO,de
+Gossliwil,4579,0,Buchegg,2465,SO,de
+Küttigkofen,4581,0,Buchegg,2465,SO,de
+Brügglen,4582,0,Buchegg,2465,SO,de
+Mühledorf SO,4583,0,Buchegg,2465,SO,de
+Aetigkofen,4583,2,Buchegg,2465,SO,de
+Kyburg-Buchegg,4586,0,Buchegg,2465,SO,de
+Aetingen,4587,0,Buchegg,2465,SO,de
+Brittern,4588,1,Buchegg,2465,SO,de
+Bättwil,4112,1,Bättwil,2471,SO,de
+Büren SO,4413,0,Büren (SO),2472,SO,de
+Dornach,4143,0,Dornach,2473,SO,de
+Gempen,4145,0,Gempen,2474,SO,de
+Hochwald,4146,0,Hochwald,2475,SO,de
+Flüh,4112,2,Hofstetten-Flüh,2476,SO,de
+Hofstetten SO,4114,0,Hofstetten-Flüh,2476,SO,de
+Mariastein,4115,0,Metzerlen-Mariastein,2477,SO,de
+Metzerlen,4116,0,Metzerlen-Mariastein,2477,SO,de
+Nuglar,4412,0,Nuglar-St. Pantaleon,2478,SO,de
+St. Pantaleon,4421,0,Nuglar-St. Pantaleon,2478,SO,de
+Rodersdorf,4118,0,Rodersdorf,2479,SO,de
+Seewen SO,4206,0,Seewen,2480,SO,de
+Witterswil,4108,0,Witterswil,2481,SO,de
+Hauenstein,4633,0,Hauenstein-Ifenthal,2491,SO,de
+Kienberg,4468,0,Kienberg,2492,SO,de
+Lostorf,4654,0,Lostorf,2493,SO,de
+Niedergösgen,5013,0,Niedergösgen,2495,SO,de
+Obergösgen,4653,0,Obergösgen,2497,SO,de
+Rohr b. Olten,4655,2,Rohr (SO),2498,SO,de
+Stüsslingen,4655,0,Stüsslingen,2499,SO,de
+Trimbach,4632,0,Trimbach,2500,SO,de
+Winznau,4652,0,Winznau,2501,SO,de
+Wisen SO,4634,0,Wisen (SO),2502,SO,de
+Erlinsbach SO,5015,0,Erlinsbach (SO),2503,SO,de
+Aeschi SO,4556,0,Aeschi (SO),2511,SO,de
+Burgäschi,4556,3,Aeschi (SO),2511,SO,de
+Steinhof SO,4556,4,Aeschi (SO),2511,SO,de
+Biberist,4562,0,Biberist,2513,SO,de
+Bolken,4556,2,Bolken,2514,SO,de
+Deitingen,4543,0,Deitingen,2516,SO,de
+Derendingen,4552,0,Derendingen,2517,SO,de
+Etziken,4554,0,Etziken,2518,SO,de
+Gerlafingen,4563,0,Gerlafingen,2519,SO,de
+Halten,4566,2,Halten,2520,SO,de
+Horriwil,4557,0,Horriwil,2523,SO,de
+Hüniken,4554,2,Hüniken,2524,SO,de
+Kriegstetten,4566,0,Kriegstetten,2525,SO,de
+Lohn-Ammannsegg,4573,0,Lohn-Ammannsegg,2526,SO,de
+Luterbach,4542,0,Luterbach,2527,SO,de
+Obergerlafingen,4564,0,Obergerlafingen,2528,SO,de
+Oekingen,4566,3,Oekingen,2529,SO,de
+Recherswil,4565,0,Recherswil,2530,SO,de
+Subingen,4553,0,Subingen,2532,SO,de
+Zuchwil,4528,0,Zuchwil,2534,SO,de
+Hersiwil,4558,0,Drei Höfe,2535,SO,de
+Heinrichswil,4558,2,Drei Höfe,2535,SO,de
+Winistorf,4558,3,Drei Höfe,2535,SO,de
+Balmberg,4524,2,Balm bei Günsberg,2541,SO,de
+Oberbalmberg,4524,3,Balm bei Günsberg,2541,SO,de
+Balm b. Günsberg,4525,0,Balm bei Günsberg,2541,SO,de
+Bellach,4512,0,Bellach,2542,SO,de
+Bettlach,2544,0,Bettlach,2543,SO,de
+Feldbrunnen,4532,0,Feldbrunnen-St. Niklaus,2544,SO,de
+Flumenthal,4534,0,Flumenthal,2545,SO,de
+Grenchen,2540,0,Grenchen,2546,SO,de
+Günsberg,4524,0,Günsberg,2547,SO,de
+Hubersdorf,4535,0,Hubersdorf,2548,SO,de
+Kammersrohr,4535,2,Kammersrohr,2549,SO,de
+Langendorf,4513,0,Langendorf,2550,SO,de
+Lommiswil,4514,0,Lommiswil,2551,SO,de
+Oberdorf SO,4515,0,Oberdorf (SO),2553,SO,de
+Weissenstein b. Solothurn,4515,1,Oberdorf (SO),2553,SO,de
+Niederwil SO,4523,0,Riedholz,2554,SO,de
+Riedholz,4533,0,Riedholz,2554,SO,de
+Rüttenen,4522,0,Rüttenen,2555,SO,de
+Selzach,2545,0,Selzach,2556,SO,de
+Boningen,4618,0,Boningen,2571,SO,de
+Däniken SO,4658,0,Däniken,2572,SO,de
+Dulliken,4657,0,Dulliken,2573,SO,de
+Wöschnau,5012,3,Eppenberg-Wöschnau,2574,SO,de
+Eppenberg,5012,4,Eppenberg-Wöschnau,2574,SO,de
+Fulenbach,4629,0,Fulenbach,2575,SO,de
+Gretzenbach,5014,0,Gretzenbach,2576,SO,de
+Gunzgen,4617,0,Gunzgen,2578,SO,de
+Hägendorf,4614,0,Hägendorf,2579,SO,de
+Allerheiligenberg,4615,0,Hägendorf,2579,SO,de
+Kappel SO,4616,0,Kappel (SO),2580,SO,de
+Olten,4600,0,Olten,2581,SO,de
+Rickenbach SO,4613,0,Rickenbach (SO),2582,SO,de
+Schönenwerd,5012,0,Schönenwerd,2583,SO,de
+Starrkirch-Wil,4656,0,Starrkirch-Wil,2584,SO,de
+Walterswil SO,5746,0,Walterswil (SO),2585,SO,de
+Wangen b. Olten,4612,0,Wangen bei Olten,2586,SO,de
+Solothurn,4500,0,Solothurn,2601,SO,de
+Bärschwil,4252,0,Bärschwil,2611,SO,de
+Beinwil SO,4229,0,Beinwil (SO),2612,SO,de
+Breitenbach,4226,0,Breitenbach,2613,SO,de
+Büsserach,4227,0,Büsserach,2614,SO,de
+Erschwil,4228,0,Erschwil,2615,SO,de
+Fehren,4232,0,Fehren,2616,SO,de
+Grindel,4247,0,Grindel,2617,SO,de
+Himmelried,4204,0,Himmelried,2618,SO,de
+Kleinlützel,4245,0,Kleinlützel,2619,SO,de
+Meltingen,4233,0,Meltingen,2620,SO,de
+Nunningen,4208,0,Nunningen,2621,SO,de
+Zullwil,4234,0,Zullwil,2622,SO,de
+Basel,4001,0,Basel,2701,BS,de
+Basel,4031,0,Basel,2701,BS,de
+Basel,4031,0,Basel,2701,BS,de
+Basel,4051,0,Basel,2701,BS,de
+Basel,4052,0,Basel,2701,BS,de
+Basel,4052,0,Basel,2701,BS,de
+Basel,4053,0,Basel,2701,BS,de
+Basel,4054,0,Basel,2701,BS,de
+Basel,4055,0,Basel,2701,BS,de
+Basel,4056,0,Basel,2701,BS,de
+Basel,4057,0,Basel,2701,BS,de
+Basel,4058,0,Basel,2701,BS,de
+Basel,4059,0,Basel,2701,BS,de
+Bettingen,4126,0,Bettingen,2702,BS,de
+Riehen,4125,0,Riehen,2703,BS,de
+Aesch BL,4147,0,Aesch (BL),2761,BL,de
+Allschwil,4123,0,Allschwil,2762,BL,de
+Arlesheim,4144,0,Arlesheim,2763,BL,de
+Biel-Benken,4105,0,Biel-Benken,2764,BL,de
+Bruderholz,4101,0,Binningen,2765,BL,de
+Binningen,4102,0,Binningen,2765,BL,de
+Birsfelden,4127,0,Birsfelden,2766,BL,de
+Bottmingen,4103,0,Bottmingen,2767,BL,de
+Ettingen,4107,0,Ettingen,2768,BL,de
+Münchenstein,4142,0,Münchenstein,2769,BL,de
+Muttenz,4132,0,Muttenz,2770,BL,de
+Oberwil BL,4104,0,Oberwil (BL),2771,BL,de
+Pfeffingen,4148,0,Pfeffingen,2772,BL,de
+Reinach BL,4153,0,Reinach (BL),2773,BL,de
+Schönenbuch,4124,0,Schönenbuch,2774,BL,de
+Therwil,4106,0,Therwil,2775,BL,de
+Blauen,4223,0,Blauen,2781,BL,de
+Brislach,4225,0,Brislach,2782,BL,de
+Burg im Leimental,4117,0,Burg im Leimental,2783,BL,de
+Dittingen,4243,0,Dittingen,2784,BL,de
+Duggingen,4202,0,Duggingen,2785,BL,de
+Grellingen,4203,0,Grellingen,2786,BL,de
+Laufen,4242,0,Laufen,2787,BL,de
+Liesberg,4253,0,Liesberg,2788,BL,de
+Liesberg Dorf,4254,0,Liesberg,2788,BL,de
+Nenzlingen,4224,0,Nenzlingen,2789,BL,de
+Roggenburg,2814,0,Roggenburg,2790,BL,de
+Röschenz,4244,0,Röschenz,2791,BL,de
+Wahlen b. Laufen,4246,0,Wahlen,2792,BL,de
+Zwingen,4222,0,Zwingen,2793,BL,de
+Arisdorf,4422,0,Arisdorf,2821,BL,de
+Augst BL,4302,0,Augst,2822,BL,de
+Bubendorf,4416,0,Bubendorf,2823,BL,de
+Frenkendorf,4402,0,Frenkendorf,2824,BL,de
+Füllinsdorf,4414,0,Füllinsdorf,2825,BL,de
+Giebenach,4304,0,Giebenach,2826,BL,de
+Hersberg,4423,0,Hersberg,2827,BL,de
+Lausen,4415,0,Lausen,2828,BL,de
+Liestal,4410,0,Liestal,2829,BL,de
+Lupsingen,4419,0,Lupsingen,2830,BL,de
+Pratteln,4133,0,Pratteln,2831,BL,de
+Ramlinsburg,4433,0,Ramlinsburg,2832,BL,de
+Seltisberg,4411,0,Seltisberg,2833,BL,de
+Ziefen,4417,0,Ziefen,2834,BL,de
+Anwil,4469,0,Anwil,2841,BL,de
+Böckten,4461,0,Böckten,2842,BL,de
+Buckten,4446,0,Buckten,2843,BL,de
+Buus,4463,0,Buus,2844,BL,de
+Diepflingen,4442,0,Diepflingen,2845,BL,de
+Gelterkinden,4460,0,Gelterkinden,2846,BL,de
+Häfelfingen,4445,0,Häfelfingen,2847,BL,de
+Hemmiken,4465,0,Hemmiken,2848,BL,de
+Itingen,4452,0,Itingen,2849,BL,de
+Känerkinden,4447,0,Känerkinden,2850,BL,de
+Kilchberg BL,4496,0,Kilchberg (BL),2851,BL,de
+Läufelfingen,4448,0,Läufelfingen,2852,BL,de
+Maisprach,4464,0,Maisprach,2853,BL,de
+Nusshof,4453,0,Nusshof,2854,BL,de
+Oltingen,4494,0,Oltingen,2855,BL,de
+Ormalingen,4466,0,Ormalingen,2856,BL,de
+Rickenbach BL,4462,0,Rickenbach (BL),2857,BL,de
+Rothenfluh,4467,0,Rothenfluh,2858,BL,de
+Rümlingen,4444,0,Rümlingen,2859,BL,de
+Rünenberg,4497,0,Rünenberg,2860,BL,de
+Sissach,4450,0,Sissach,2861,BL,de
+Tecknau,4492,0,Tecknau,2862,BL,de
+Tenniken,4456,0,Tenniken,2863,BL,de
+Thürnen,4441,0,Thürnen,2864,BL,de
+Wenslingen,4493,0,Wenslingen,2865,BL,de
+Wintersingen,4451,0,Wintersingen,2866,BL,de
+Wittinsburg,4443,0,Wittinsburg,2867,BL,de
+Zeglingen,4495,0,Zeglingen,2868,BL,de
+Zunzgen,4455,0,Zunzgen,2869,BL,de
+Arboldswil,4424,0,Arboldswil,2881,BL,de
+Bennwil,4431,0,Bennwil,2882,BL,de
+Bretzwil,4207,0,Bretzwil,2883,BL,de
+Diegten,4457,0,Diegten,2884,BL,de
+Eptingen,4458,0,Eptingen,2885,BL,de
+Hölstein,4434,0,Hölstein,2886,BL,de
+Lampenberg,4432,0,Lampenberg,2887,BL,de
+Langenbruck,4438,0,Langenbruck,2888,BL,de
+Lauwil,4426,0,Lauwil,2889,BL,de
+Liedertswil,4436,2,Liedertswil,2890,BL,de
+Niederdorf,4435,0,Niederdorf,2891,BL,de
+Oberdorf BL,4436,0,Oberdorf (BL),2892,BL,de
+Reigoldswil,4418,0,Reigoldswil,2893,BL,de
+Titterten,4425,0,Titterten,2894,BL,de
+Waldenburg,4437,0,Waldenburg,2895,BL,de
+Gächlingen,8214,0,Gächlingen,2901,SH,de
+Gächlingen,8214,0,Gächlingen,2901,SH,de
+Löhningen,8224,0,Löhningen,2903,SH,de
+Neunkirch,8213,0,Neunkirch,2904,SH,de
+Büttenhardt,8236,0,Büttenhardt,2914,SH,de
+Dörflingen,8239,0,Dörflingen,2915,SH,de
+Lohn SH,8235,0,Lohn (SH),2917,SH,de
+Stetten SH,8234,0,Stetten (SH),2919,SH,de
+Opfertshofen SH,8236,2,Thayngen,2920,SH,de
+Thayngen,8240,0,Thayngen,2920,SH,de
+Barzheim,8241,0,Thayngen,2920,SH,de
+Bibern SH,8242,0,Thayngen,2920,SH,de
+Hofen SH,8242,1,Thayngen,2920,SH,de
+Altdorf SH,8243,0,Thayngen,2920,SH,de
+Bargen SH,8233,0,Bargen (SH),2931,SH,de
+Beringen,8222,0,Beringen,2932,SH,de
+Guntmadingen,8223,0,Beringen,2932,SH,de
+Buchberg,8454,0,Buchberg,2933,SH,de
+Merishausen,8232,0,Merishausen,2936,SH,de
+Neuhausen am Rheinfall,8212,0,Neuhausen am Rheinfall,2937,SH,de
+Rüdlingen,8455,0,Rüdlingen,2938,SH,de
+Schaffhausen,8200,0,Schaffhausen,2939,SH,de
+Schaffhausen,8203,0,Schaffhausen,2939,SH,de
+Schaffhausen,8207,0,Schaffhausen,2939,SH,de
+Schaffhausen,8208,0,Schaffhausen,2939,SH,de
+Hemmental,8231,0,Schaffhausen,2939,SH,de
+Beggingen,8228,0,Beggingen,2951,SH,de
+Schleitheim,8226,0,Schleitheim,2952,SH,de
+Siblingen,8225,0,Siblingen,2953,SH,de
+Buch SH,8263,0,Buch (SH),2961,SH,de
+Hemishofen,8261,0,Hemishofen,2962,SH,de
+Ramsen,8262,0,Ramsen,2963,SH,de
+Stein am Rhein,8260,0,Stein am Rhein,2964,SH,de
+Hallau,8215,0,Hallau,2971,SH,de
+Oberhallau,8216,0,Oberhallau,2972,SH,de
+Trasadingen,8219,0,Trasadingen,2973,SH,de
+Wilchingen,8217,0,Wilchingen,2974,SH,de
+Wilchingen,8217,0,Wilchingen,2974,SH,de
+Osterfingen,8218,0,Wilchingen,2974,SH,de
+Herisau,9100,0,Herisau,3001,AR,de
+Schachen b. Herisau,9112,0,Herisau,3001,AR,de
+Hundwil,9064,0,Hundwil,3002,AR,de
+Schönengrund,9105,0,Schönengrund,3003,AR,de
+Schwellbrunn,9103,0,Schwellbrunn,3004,AR,de
+Stein AR,9063,0,Stein (AR),3005,AR,de
+Urnäsch,9107,0,Urnäsch,3006,AR,de
+Waldstatt,9104,0,Waldstatt,3007,AR,de
+Bühler,9055,0,Bühler,3021,AR,de
+Gais,9056,0,Gais,3022,AR,de
+Speicherschwendi,9037,0,Speicher,3023,AR,de
+Speicher,9042,0,Speicher,3023,AR,de
+Niederteufen,9052,0,Teufen (AR),3024,AR,de
+Teufen AR,9053,0,Teufen (AR),3024,AR,de
+Lustmühle,9062,0,Teufen (AR),3024,AR,de
+Trogen,9043,0,Trogen,3025,AR,de
+Grub AR,9035,0,Grub (AR),3031,AR,de
+Heiden,9410,0,Heiden,3032,AR,de
+Wienacht-Tobel,9405,0,Lutzenberg,3033,AR,de
+Lutzenberg,9426,0,Lutzenberg,3033,AR,de
+Rehetobel,9038,0,Rehetobel,3034,AR,de
+Reute AR,9411,0,Reute (AR),3035,AR,de
+Schachen b. Reute,9411,1,Reute (AR),3035,AR,de
+Wald AR,9044,0,Wald (AR),3036,AR,de
+Walzenhausen,9428,0,Walzenhausen,3037,AR,de
+Wolfhalden,9427,0,Wolfhalden,3038,AR,de
+Appenzell,9050,0,Appenzell,3101,AI,de
+Appenzell Meistersrüte,9050,5,Appenzell,3101,AI,de
+Gonten,9108,0,Gonten,3102,AI,de
+Gontenbad,9108,2,Gonten,3102,AI,de
+Jakobsbad,9108,3,Gonten,3102,AI,de
+Appenzell Eggerstanden,9050,2,Rüte,3103,AI,de
+Appenzell Steinegg,9050,6,Rüte,3103,AI,de
+Weissbad,9057,0,Rüte,3103,AI,de
+Brülisau,9058,0,Rüte,3103,AI,de
+Appenzell Enggenhütten,9050,3,Schlatt-Haslen,3104,AI,de
+Appenzell Schlatt,9050,7,Schlatt-Haslen,3104,AI,de
+Haslen AI,9054,0,Schlatt-Haslen,3104,AI,de
+Schwende,9057,2,Schwende,3105,AI,de
+Wasserauen,9057,3,Schwende,3105,AI,de
+Oberegg,9413,0,Oberegg,3111,AI,de
+Oberegg,9413,0,Oberegg,3111,AI,de
+Büriswilen,9442,2,Oberegg,3111,AI,de
+Lömmenschwil,9308,0,Häggenschwil,3201,SG,de
+Häggenschwil,9312,0,Häggenschwil,3201,SG,de
+Muolen,9313,0,Muolen,3202,SG,de
+St. Gallen,9000,0,St. Gallen,3203,SG,de
+St. Gallen,9008,0,St. Gallen,3203,SG,de
+St. Gallen,9010,0,St. Gallen,3203,SG,de
+St. Gallen,9011,0,St. Gallen,3203,SG,de
+St. Gallen,9012,0,St. Gallen,3203,SG,de
+St. Gallen,9014,0,St. Gallen,3203,SG,de
+St. Gallen,9015,0,St. Gallen,3203,SG,de
+St. Gallen,9016,0,St. Gallen,3203,SG,de
+Wittenbach,9300,0,Wittenbach,3204,SG,de
+Berg SG,9305,0,Berg (SG),3211,SG,de
+Eggersriet,9034,0,Eggersriet,3212,SG,de
+Grub SG,9036,0,Eggersriet,3212,SG,de
+Goldach,9403,0,Goldach,3213,SG,de
+Mörschwil,9402,0,Mörschwil,3214,SG,de
+Rorschach,9400,0,Rorschach,3215,SG,de
+Rorschacherberg,9404,0,Rorschacherberg,3216,SG,de
+Steinach,9323,0,Steinach,3217,SG,de
+Tübach,9327,0,Tübach,3218,SG,de
+Untereggen,9033,0,Untereggen,3219,SG,de
+Au SG,9434,0,Au (SG),3231,SG,de
+Heerbrugg,9435,0,Au (SG),3231,SG,de
+Balgach,9436,0,Balgach,3232,SG,de
+Reute AR,9411,0,Berneck,3233,SG,de
+Berneck,9442,0,Berneck,3233,SG,de
+Diepoldsau,9444,0,Diepoldsau,3234,SG,de
+Rheineck,9424,0,Rheineck,3235,SG,de
+St. Margrethen,9430,0,St. Margrethen,3236,SG,de
+Staad SG,9422,0,Thal,3237,SG,de
+Altenrhein,9423,0,Thal,3237,SG,de
+Thal,9425,0,Thal,3237,SG,de
+Widnau,9443,0,Widnau,3238,SG,de
+Altstätten SG,9450,0,Altstätten,3251,SG,de
+Lüchingen,9450,2,Altstätten,3251,SG,de
+Hinterforst,9452,0,Altstätten,3251,SG,de
+Lienz,9464,2,Altstätten,3251,SG,de
+Eichberg,9453,0,Eichberg,3252,SG,de
+Marbach SG,9437,0,Marbach (SG),3253,SG,de
+Kriessern,9451,0,Oberriet (SG),3254,SG,de
+Montlingen,9462,0,Oberriet (SG),3254,SG,de
+Oberriet SG,9463,0,Oberriet (SG),3254,SG,de
+Rebstein,9445,0,Rebstein,3255,SG,de
+Rüthi (Rheintal),9464,0,Rüthi (SG),3256,SG,de
+Buchs SG,9470,0,Buchs (SG),3271,SG,de
+Gams,9473,0,Gams,3272,SG,de
+Werdenberg,9470,5,Grabs,3273,SG,de
+Grabs,9472,0,Grabs,3273,SG,de
+Grabserberg,9472,2,Grabs,3273,SG,de
+Salez,9465,0,Sennwald,3274,SG,de
+Sennwald,9466,0,Sennwald,3274,SG,de
+Frümsen,9467,0,Sennwald,3274,SG,de
+Sax,9468,0,Sennwald,3274,SG,de
+Haag (Rheintal),9469,0,Sennwald,3274,SG,de
+Sevelen,9475,0,Sevelen,3275,SG,de
+Weite,9476,0,Wartau,3276,SG,de
+Fontnas,9476,2,Wartau,3276,SG,de
+Trübbach,9477,0,Wartau,3276,SG,de
+Azmoos,9478,0,Wartau,3276,SG,de
+Oberschan,9479,0,Wartau,3276,SG,de
+Malans SG,9479,1,Wartau,3276,SG,de
+Gretschins,9479,2,Wartau,3276,SG,de
+Bad Ragaz,7310,0,Bad Ragaz,3291,SG,de
+Flums,8890,0,Flums,3292,SG,de
+Flums Hochwiese,8893,0,Flums,3292,SG,de
+Flumserberg Saxli,8894,0,Flums,3292,SG,de
+Flumserberg Portels,8895,0,Flums,3292,SG,de
+Flumserberg Bergheim,8896,0,Flums,3292,SG,de
+Flumserberg Tannenheim,8897,0,Flums,3292,SG,de
+Flumserberg Tannenbodenalp,8898,0,Flums,3292,SG,de
+Schwendi im Weisstannental,7325,0,Mels,3293,SG,de
+Weisstannen,7326,0,Mels,3293,SG,de
+Mädris-Vermol,8886,0,Mels,3293,SG,de
+Mels,8887,0,Mels,3293,SG,de
+Heiligkreuz (Mels),8888,0,Mels,3293,SG,de
+Plons,8889,0,Mels,3293,SG,de
+Pfäfers,7312,0,Pfäfers,3294,SG,de
+St. Margrethenberg,7313,0,Pfäfers,3294,SG,de
+Vadura,7314,0,Pfäfers,3294,SG,de
+Vättis,7315,0,Pfäfers,3294,SG,de
+Valens,7317,0,Pfäfers,3294,SG,de
+Vasön,7317,3,Pfäfers,3294,SG,de
+Murg,8877,0,Quarten,3295,SG,de
+Quinten,8878,0,Quarten,3295,SG,de
+Unterterzen,8882,0,Quarten,3295,SG,de
+Quarten,8883,0,Quarten,3295,SG,de
+Oberterzen,8884,0,Quarten,3295,SG,de
+Mols,8885,0,Quarten,3295,SG,de
+Sargans,7320,0,Sargans,3296,SG,de
+Wangs,7323,0,Vilters-Wangs,3297,SG,de
+Wangs,7323,0,Vilters-Wangs,3297,SG,de
+Vilters,7324,0,Vilters-Wangs,3297,SG,de
+Walenstadt,8880,0,Walenstadt,3298,SG,de
+Walenstadtberg,8881,1,Walenstadt,3298,SG,de
+Tscherlach,8881,6,Walenstadt,3298,SG,de
+Berschis,8892,0,Walenstadt,3298,SG,de
+Amden,8873,0,Amden,3311,SG,de
+Benken SG,8717,0,Benken (SG),3312,SG,de
+Kaltbrunn,8722,0,Kaltbrunn,3313,SG,de
+Schänis,8718,0,Schänis,3315,SG,de
+Rufi,8723,0,Schänis,3315,SG,de
+Maseltrangen,8723,2,Schänis,3315,SG,de
+Ziegelbrücke,8866,0,Schänis,3315,SG,de
+Weesen,8872,0,Weesen,3316,SG,de
+Schmerikon,8716,0,Schmerikon,3338,SG,de
+Uznach,8730,0,Uznach,3339,SG,de
+Rapperswil SG,8640,0,Rapperswil-Jona,3340,SG,de
+Jona,8645,0,Rapperswil-Jona,3340,SG,de
+Wagen,8646,0,Rapperswil-Jona,3340,SG,de
+Bollingen,8715,0,Rapperswil-Jona,3340,SG,de
+Ernetschwil,8725,0,Gommiswald,3341,SG,de
+Gebertingen,8725,2,Gommiswald,3341,SG,de
+Gommiswald,8737,0,Gommiswald,3341,SG,de
+Uetliburg SG,8738,0,Gommiswald,3341,SG,de
+Rieden SG,8739,0,Gommiswald,3341,SG,de
+Goldingen,8638,0,Eschenbach (SG),3342,SG,de
+Walde SG,8727,0,Eschenbach (SG),3342,SG,de
+Neuhaus SG,8732,0,Eschenbach (SG),3342,SG,de
+Eschenbach SG,8733,0,Eschenbach (SG),3342,SG,de
+Ermenswil,8734,0,Eschenbach (SG),3342,SG,de
+St. Gallenkappel,8735,0,Eschenbach (SG),3342,SG,de
+Rüeterswil,8735,2,Eschenbach (SG),3342,SG,de
+Ebnat-Kappel,9642,0,Ebnat-Kappel,3352,SG,de
+Alt St. Johann,9656,0,Wildhaus-Alt St. Johann,3359,SG,de
+Unterwasser,9657,0,Wildhaus-Alt St. Johann,3359,SG,de
+Wildhaus,9658,0,Wildhaus-Alt St. Johann,3359,SG,de
+Krummenau,9643,0,Nesslau,3360,SG,de
+Nesslau,9650,0,Nesslau,3360,SG,de
+Ennetbühl,9651,0,Nesslau,3360,SG,de
+Neu St. Johann,9652,0,Nesslau,3360,SG,de
+Stein SG,9655,0,Nesslau,3360,SG,de
+Hemberg,9633,0,Hemberg,3372,SG,de
+Bächli (Hemberg),9633,2,Hemberg,3372,SG,de
+Lichtensteig,9620,0,Lichtensteig,3374,SG,de
+Oberhelfenschwil,9621,0,Oberhelfenschwil,3375,SG,de
+Hoffeld,9114,0,Neckertal,3378,SG,de
+Dicken,9115,0,Neckertal,3378,SG,de
+Mogelsberg,9122,0,Neckertal,3378,SG,de
+Ebersol,9122,2,Neckertal,3378,SG,de
+Nassen,9123,0,Neckertal,3378,SG,de
+Brunnadern,9125,0,Neckertal,3378,SG,de
+Necker,9126,0,Neckertal,3378,SG,de
+St. Peterzell,9127,0,Neckertal,3378,SG,de
+Ricken,8726,0,Wattwil,3379,SG,de
+Krinau,9622,0,Wattwil,3379,SG,de
+Wattwil,9630,0,Wattwil,3379,SG,de
+Ulisbach,9631,0,Wattwil,3379,SG,de
+Wil SG,9500,0,Kirchberg (SG),3392,SG,de
+Kirchberg SG,9533,0,Kirchberg (SG),3392,SG,de
+Dietschwil,9533,1,Kirchberg (SG),3392,SG,de
+Gähwil,9534,0,Kirchberg (SG),3392,SG,de
+Bazenheid,9602,0,Kirchberg (SG),3392,SG,de
+Müselbach,9602,2,Kirchberg (SG),3392,SG,de
+Lütisburg Station,9601,0,Lütisburg,3393,SG,de
+Lütisburg,9604,0,Lütisburg,3393,SG,de
+Unterrindal,9604,2,Lütisburg,3393,SG,de
+Mosnang,9607,0,Mosnang,3394,SG,de
+Dreien,9612,0,Mosnang,3394,SG,de
+Mühlrüti,9613,0,Mosnang,3394,SG,de
+Libingen,9614,0,Mosnang,3394,SG,de
+Bütschwil,9606,0,Bütschwil-Ganterschwil,3395,SG,de
+Ganterschwil,9608,0,Bütschwil-Ganterschwil,3395,SG,de
+Dietfurt,9615,0,Bütschwil-Ganterschwil,3395,SG,de
+Degersheim,9113,0,Degersheim,3401,SG,de
+Wolfertswil,9116,0,Degersheim,3401,SG,de
+Flawil,9230,0,Flawil,3402,SG,de
+Egg (Flawil),9231,0,Flawil,3402,SG,de
+Jonschwil,9243,0,Jonschwil,3405,SG,de
+Schwarzenbach SG,9536,0,Jonschwil,3405,SG,de
+Oberrindal,9604,1,Jonschwil,3405,SG,de
+Niederglatt SG,9240,2,Oberuzwil,3407,SG,de
+Oberuzwil,9242,0,Oberuzwil,3407,SG,de
+Bichwil,9248,0,Oberuzwil,3407,SG,de
+Uzwil,9240,0,Uzwil,3408,SG,de
+Niederuzwil,9244,0,Uzwil,3408,SG,de
+Henau,9247,0,Uzwil,3408,SG,de
+Algetshausen,9249,0,Uzwil,3408,SG,de
+Niederstetten,9249,1,Uzwil,3408,SG,de
+Oberstetten,9249,2,Uzwil,3408,SG,de
+Niederbüren,9246,0,Niederbüren,3422,SG,de
+Lenggenwil,9525,0,Niederhelfenschwil,3423,SG,de
+Zuckenriet,9526,0,Niederhelfenschwil,3423,SG,de
+Niederhelfenschwil,9527,0,Niederhelfenschwil,3423,SG,de
+Niederwil SG,9203,0,Oberbüren,3424,SG,de
+Oberbüren,9245,0,Oberbüren,3424,SG,de
+Sonnental,9245,2,Oberbüren,3424,SG,de
+Züberwangen,9523,0,Zuzwil (SG),3426,SG,de
+Zuzwil SG,9524,0,Zuzwil (SG),3426,SG,de
+Wil SG,9500,0,Wil (SG),3427,SG,de
+Rossrüti,9512,0,Wil (SG),3427,SG,de
+Bronschhofen,9552,0,Wil (SG),3427,SG,de
+Andwil SG,9204,0,Andwil (SG),3441,SG,de
+Abtwil SG,9030,0,Gaiserwald,3442,SG,de
+St. Josefen,9030,3,Gaiserwald,3442,SG,de
+Engelburg,9032,0,Gaiserwald,3442,SG,de
+Gossau SG,9200,0,Gossau (SG),3443,SG,de
+Arnegg,9212,0,Gossau (SG),3443,SG,de
+Waldkirch,9205,0,Waldkirch,3444,SG,de
+Bernhardzell,9304,0,Waldkirch,3444,SG,de
+Valbella,7077,0,Vaz/Obervaz,3506,GR,rm
+Lenzerheide/Lai,7078,0,Vaz/Obervaz,3506,GR,rm
+Vaz/Obervaz,7082,0,Vaz/Obervaz,3506,GR,rm
+Tiefencastel,7450,0,Vaz/Obervaz,3506,GR,rm
+Lantsch/Lenz,7083,0,Lantsch/Lenz,3513,GR,rm
+Schmitten (Albula),7493,0,Schmitten (GR),3514,GR,de
+Brienz/Brinzauls,7084,0,Albula/Alvra,3542,GR,rm
+Tiefencastel,7450,0,Albula/Alvra,3542,GR,rm
+Alvaschein,7451,0,Albula/Alvra,3542,GR,rm
+Mon,7458,0,Albula/Alvra,3542,GR,rm
+Stierva,7459,0,Albula/Alvra,3542,GR,rm
+Surava,7472,0,Albula/Alvra,3542,GR,rm
+Alvaneu Bad,7473,0,Albula/Alvra,3542,GR,rm
+Alvaneu Dorf,7492,0,Albula/Alvra,3542,GR,rm
+Cunter,7452,0,Surses,3543,GR,rm
+Tinizong,7453,0,Surses,3543,GR,rm
+Rona,7454,0,Surses,3543,GR,rm
+Mulegns,7455,0,Surses,3543,GR,rm
+Sur,7456,0,Surses,3543,GR,rm
+Marmorera,7456,2,Surses,3543,GR,rm
+Bivio,7457,0,Surses,3543,GR,rm
+Savognin,7460,0,Surses,3543,GR,rm
+Salouf,7462,0,Surses,3543,GR,rm
+Riom,7463,0,Surses,3543,GR,rm
+Riom,7463,0,Surses,3543,GR,rm
+Parsonz,7464,0,Surses,3543,GR,rm
+Filisur,7477,0,Bergün Filisur,3544,GR,rm
+Bergün/Bravuogn,7482,0,Bergün Filisur,3544,GR,rm
+Preda,7482,1,Bergün Filisur,3544,GR,rm
+Stugl/Stuls,7482,2,Bergün Filisur,3544,GR,rm
+Latsch,7484,0,Bergün Filisur,3544,GR,rm
+Brusio,7743,0,Brusio,3551,GR,it
+Campocologno,7744,0,Brusio,3551,GR,it
+Viano,7747,0,Brusio,3551,GR,it
+Campascio,7748,0,Brusio,3551,GR,it
+Ospizio Bernina,7710,0,Poschiavo,3561,GR,it
+Alp Grüm,7710,2,Poschiavo,3561,GR,it
+S. Carlo (Poschiavo),7741,0,Poschiavo,3561,GR,it
+Poschiavo,7742,0,Poschiavo,3561,GR,it
+Sfazù,7742,2,Poschiavo,3561,GR,it
+La Rösa,7742,3,Poschiavo,3561,GR,it
+Miralago,7743,2,Poschiavo,3561,GR,it
+Li Curt,7745,0,Poschiavo,3561,GR,it
+Le Prese,7746,0,Poschiavo,3561,GR,it
+Falera,7153,0,Falera,3572,GR,rm
+Laax GR,7031,0,Laax,3575,GR,rm
+Laax GR 2,7032,0,Laax,3575,GR,rm
+Sagogn,7152,0,Sagogn,3581,GR,rm
+Schluein,7151,0,Schluein,3582,GR,rm
+St. Martin (Lugnez),7116,2,Vals,3603,GR,de
+Vals,7132,0,Vals,3603,GR,de
+Peiden,7110,0,Lumnezia,3618,GR,rm
+Camuns,7113,0,Lumnezia,3618,GR,rm
+Uors (Lumnezia),7114,0,Lumnezia,3618,GR,rm
+Surcasti,7115,0,Lumnezia,3618,GR,rm
+Tersnaus,7116,0,Lumnezia,3618,GR,rm
+Cumbel,7142,0,Lumnezia,3618,GR,rm
+Morissen,7143,0,Lumnezia,3618,GR,rm
+Vella,7144,0,Lumnezia,3618,GR,rm
+Degen,7145,0,Lumnezia,3618,GR,rm
+Vattiz,7146,0,Lumnezia,3618,GR,rm
+Vignogn,7147,0,Lumnezia,3618,GR,rm
+Lumbrein,7148,0,Lumnezia,3618,GR,rm
+Vrin,7149,0,Lumnezia,3618,GR,rm
+Pitasch,7111,0,Ilanz/Glion,3619,GR,rm
+Duvin,7112,0,Ilanz/Glion,3619,GR,rm
+Castrisch,7126,0,Ilanz/Glion,3619,GR,rm
+Sevgein,7127,0,Ilanz/Glion,3619,GR,rm
+Riein,7128,0,Ilanz/Glion,3619,GR,rm
+Ilanz,7130,0,Ilanz/Glion,3619,GR,rm
+Schnaus,7130,2,Ilanz/Glion,3619,GR,rm
+Schnaus,7130,2,Ilanz/Glion,3619,GR,rm
+Luven,7141,0,Ilanz/Glion,3619,GR,rm
+Ruschein,7154,0,Ilanz/Glion,3619,GR,rm
+Ladir,7155,0,Ilanz/Glion,3619,GR,rm
+Ladir,7155,0,Ilanz/Glion,3619,GR,rm
+Rueun,7156,0,Ilanz/Glion,3619,GR,rm
+Pigniu,7156,1,Ilanz/Glion,3619,GR,rm
+Siat,7157,0,Ilanz/Glion,3619,GR,rm
+Fürstenaubruck,7413,0,Fürstenau,3633,GR,rm
+Fürstenau,7414,0,Fürstenau,3633,GR,rm
+Rothenbrunnen,7405,0,Rothenbrunnen,3637,GR,rm
+Scharans,7412,0,Scharans,3638,GR,rm
+Sils im Domleschg,7411,0,Sils im Domleschg,3640,GR,de
+Cazis,7408,0,Cazis,3661,GR,rm
+Summaprada,7421,0,Cazis,3661,GR,de
+Tartar,7422,0,Cazis,3661,GR,rm
+Sarn,7423,0,Cazis,3661,GR,rm
+Portein,7423,2,Cazis,3661,GR,rm
+Präz,7424,0,Cazis,3661,GR,rm
+Dalin,7424,1,Cazis,3661,GR,rm
+Flerden,7426,0,Flerden,3662,GR,rm
+Flerden,7426,0,Flerden,3662,GR,rm
+Masein,7425,0,Masein,3663,GR,de
+Thusis,7430,0,Thusis,3668,GR,de
+Mutten,7431,1,Thusis,3668,GR,de
+Obermutten,7431,2,Thusis,3668,GR,de
+Tschappina,7428,0,Tschappina,3669,GR,de
+Urmein,7427,0,Urmein,3670,GR,de
+Versam,7104,0,Safiental,3672,GR,de
+Tenna,7106,0,Safiental,3672,GR,de
+Safien Platz,7107,0,Safiental,3672,GR,de
+Thalkirch,7109,0,Safiental,3672,GR,de
+Valendas,7122,0,Safiental,3672,GR,de
+Feldis/Veulden,7404,0,Domleschg,3673,GR,rm
+Trans,7407,0,Domleschg,3673,GR,rm
+Rodels,7415,0,Domleschg,3673,GR,rm
+Pratval,7415,2,Domleschg,3673,GR,rm
+Almens,7416,0,Domleschg,3673,GR,rm
+Paspels,7417,0,Domleschg,3673,GR,rm
+Tumegl/Tomils,7418,0,Domleschg,3673,GR,rm
+Scheid,7419,0,Domleschg,3673,GR,rm
+Campsut-Cröt,7446,0,Avers,3681,GR,de
+Cresta (Avers),7447,0,Avers,3681,GR,de
+Am Bach (Avers),7447,1,Avers,3681,GR,de
+Juf,7448,0,Avers,3681,GR,de
+Sufers,7434,0,Sufers,3695,GR,de
+Andeer,7440,0,Andeer,3701,GR,rm
+Clugin,7442,0,Andeer,3701,GR,rm
+Pignia,7443,0,Andeer,3701,GR,rm
+Wergenstein,7433,5,Casti-Wergenstein,3703,GR,rm
+Donat,7433,0,Donat,3705,GR,rm
+Lohn GR,7433,3,Lohn (GR),3707,GR,rm
+Mathon,7433,4,Mathon,3708,GR,rm
+Rongellen,7430,2,Rongellen,3711,GR,rm
+Zillis,7432,0,Zillis-Reischen,3712,GR,rm
+Ausserferrera,7444,0,Ferrera,3713,GR,rm
+Innerferrera,7445,0,Ferrera,3713,GR,rm
+Innerferrera,7445,0,Ferrera,3713,GR,rm
+Splügen,7435,0,Rheinwald,3714,GR,de
+Medels im Rheinwald,7436,0,Rheinwald,3714,GR,de
+Nufenen,7437,0,Rheinwald,3714,GR,de
+Hinterrhein,7438,0,Rheinwald,3714,GR,de
+Bonaduz,7402,0,Bonaduz,3721,GR,de
+Domat/Ems,7013,0,Domat/Ems,3722,GR,rm
+Rhäzüns,7403,0,Rhäzüns,3723,GR,rm
+Felsberg,7012,0,Felsberg,3731,GR,de
+Flims Dorf,7017,0,Flims,3732,GR,rm
+Flims Waldhaus,7018,0,Flims,3732,GR,rm
+Fidaz,7019,0,Flims,3732,GR,rm
+Tamins,7015,0,Tamins,3733,GR,de
+Trin,7014,0,Trin,3734,GR,rm
+Trin Mulin,7016,0,Trin,3734,GR,rm
+Brail,7527,0,Zernez,3746,GR,rm
+Zernez,7530,0,Zernez,3746,GR,rm
+Susch,7542,0,Zernez,3746,GR,rm
+Lavin,7543,0,Zernez,3746,GR,rm
+Samnaun-Compatsch,7562,0,Samnaun,3752,GR,de
+Samnaun Dorf,7563,0,Samnaun,3752,GR,de
+Guarda,7545,0,Scuol,3762,GR,rm
+Ardez,7546,0,Scuol,3762,GR,rm
+Scuol,7550,0,Scuol,3762,GR,rm
+Ftan,7551,0,Scuol,3762,GR,rm
+Vulpera,7552,0,Scuol,3762,GR,rm
+Tarasp,7553,0,Scuol,3762,GR,rm
+Sent,7554,0,Scuol,3762,GR,rm
+Crusch,7554,2,Scuol,3762,GR,rm
+Ramosch,7556,0,Valsot,3764,GR,rm
+Ramosch,7556,0,Valsot,3764,GR,rm
+Vnà,7557,0,Valsot,3764,GR,rm
+Strada,7558,0,Valsot,3764,GR,rm
+Tschlin,7559,0,Valsot,3764,GR,rm
+Martina,7560,0,Valsot,3764,GR,rm
+Bever,7502,0,Bever,3781,GR,rm
+Bever,7502,0,Bever,3781,GR,rm
+Celerina/Schlarigna,7505,0,Celerina/Schlarigna,3782,GR,rm
+Madulain,7523,0,Madulain,3783,GR,rm
+Madulain,7523,0,Madulain,3783,GR,rm
+Pontresina,7504,0,Pontresina,3784,GR,rm
+La Punt Chamues-ch,7522,0,La Punt Chamues-ch,3785,GR,rm
+Samedan,7503,0,Samedan,3786,GR,rm
+St. Moritz,7500,0,St. Moritz,3787,GR,rm
+S-chanf,7525,0,S-chanf,3788,GR,rm
+Cinuos-chel,7526,0,S-chanf,3788,GR,rm
+Sils/Segl Maria,7514,0,Sils im Engadin/Segl,3789,GR,rm
+Fex,7514,2,Sils im Engadin/Segl,3789,GR,rm
+Sils/Segl Baselgia,7515,0,Sils im Engadin/Segl,3789,GR,rm
+Plaun da Lej,7517,0,Sils im Engadin/Segl,3789,GR,rm
+Champfèr,7512,0,Silvaplana,3790,GR,rm
+Silvaplana,7513,0,Silvaplana,3790,GR,rm
+Silvaplana-Surlej,7513,2,Silvaplana,3790,GR,rm
+Zuoz,7524,0,Zuoz,3791,GR,rm
+Zuoz,7524,0,Zuoz,3791,GR,rm
+Maloja,7516,0,Bregaglia,3792,GR,it
+Casaccia,7602,0,Bregaglia,3792,GR,it
+Vicosoprano,7603,0,Bregaglia,3792,GR,it
+Borgonovo,7604,0,Bregaglia,3792,GR,it
+Stampa,7605,0,Bregaglia,3792,GR,it
+Promontogno,7606,0,Bregaglia,3792,GR,it
+Bondo,7606,1,Bregaglia,3792,GR,de
+Castasegna,7608,0,Bregaglia,3792,GR,it
+Soglio,7610,0,Bregaglia,3792,GR,it
+Buseno,6542,0,Buseno,3804,GR,it
+Castaneda,6540,0,Castaneda,3805,GR,it
+Rossa,6548,0,Rossa,3808,GR,it
+Augio,6548,1,Rossa,3808,GR,it
+Sta. Domenica,6548,2,Rossa,3808,GR,it
+Sta. Maria in Calanca,6541,0,Santa Maria in Calanca,3810,GR,it
+Lostallo,6558,0,Lostallo,3821,GR,it
+Mesocco,6563,0,Mesocco,3822,GR,it
+S. Bernardino,6565,0,Mesocco,3822,GR,it
+Soazza,6562,0,Soazza,3823,GR,it
+Cama,6557,0,Cama,3831,GR,it
+Grono,6537,0,Grono,3832,GR,it
+Verdabbio,6538,0,Grono,3832,GR,it
+Verdabbio,6538,0,Grono,3832,GR,it
+Leggia,6556,0,Grono,3832,GR,it
+Roveredo GR,6535,0,Roveredo (GR),3834,GR,it
+Laura,6549,0,Roveredo (GR),3834,GR,it
+S. Vittore,6534,0,San Vittore,3835,GR,it
+S. Vittore,6534,0,San Vittore,3835,GR,it
+Arvigo,6543,0,Calanca,3837,GR,it
+Braggio,6544,0,Calanca,3837,GR,it
+Selma,6545,0,Calanca,3837,GR,it
+Cauco,6546,0,Calanca,3837,GR,it
+Tschierv,7532,0,Val Müstair,3847,GR,rm
+Fuldera,7533,0,Val Müstair,3847,GR,rm
+Lü,7534,0,Val Müstair,3847,GR,rm
+Valchava,7535,0,Val Müstair,3847,GR,rm
+Sta. Maria Val Müstair,7536,0,Val Müstair,3847,GR,rm
+Müstair,7537,0,Val Müstair,3847,GR,rm
+Davos Dorf,7260,0,Davos,3851,GR,de
+Davos Wolfgang,7265,0,Davos,3851,GR,de
+Davos Platz,7270,0,Davos,3851,GR,de
+Davos Clavadel,7272,0,Davos,3851,GR,de
+Davos Frauenkirch,7276,0,Davos,3851,GR,de
+Davos Glaris,7277,0,Davos,3851,GR,de
+Davos Monstein,7278,0,Davos,3851,GR,de
+Davos Wiesen,7494,0,Davos,3851,GR,de
+Fideris,7235,0,Fideris,3861,GR,de
+Furna,7232,0,Furna,3862,GR,de
+Pragg-Jenaz,7231,0,Jenaz,3863,GR,de
+Jenaz,7233,0,Jenaz,3863,GR,de
+Saas im Prättigau,7247,0,Klosters-Serneus,3871,GR,de
+Serneus,7249,0,Klosters-Serneus,3871,GR,de
+Klosters,7250,0,Klosters-Serneus,3871,GR,de
+Klosters Dorf,7252,0,Klosters-Serneus,3871,GR,de
+Conters im Prättigau,7241,0,Conters im Prättigau,3881,GR,de
+Küblis,7240,0,Küblis,3882,GR,de
+Buchen im Prättigau,7223,0,Luzein,3891,GR,de
+Putz,7224,0,Luzein,3891,GR,de
+Luzein,7242,0,Luzein,3891,GR,de
+Pany,7243,0,Luzein,3891,GR,de
+Gadenstätt,7244,0,Luzein,3891,GR,de
+Ascharina,7245,0,Luzein,3891,GR,de
+St. Antönien,7246,0,Luzein,3891,GR,de
+Chur,7000,0,Chur,3901,GR,de
+Passugg,7062,0,Churwalden,3911,GR,de
+Malix,7074,0,Churwalden,3911,GR,de
+Churwalden,7075,0,Churwalden,3911,GR,de
+Parpan,7076,0,Churwalden,3911,GR,de
+Castiel,7027,0,Arosa,3921,GR,de
+Lüen,7027,1,Arosa,3921,GR,de
+Calfreisen,7027,3,Arosa,3921,GR,de
+St. Peter,7028,0,Arosa,3921,GR,de
+Pagig,7028,1,Arosa,3921,GR,de
+Peist,7029,0,Arosa,3921,GR,de
+Arosa,7050,0,Arosa,3921,GR,de
+Molinis,7056,0,Arosa,3921,GR,de
+Langwies,7057,0,Arosa,3921,GR,de
+Litzirüti,7058,0,Arosa,3921,GR,de
+Maladers,7026,0,Maladers,3926,GR,de
+Praden,7063,0,Tschiertschen-Praden,3932,GR,de
+Tschiertschen,7064,0,Tschiertschen-Praden,3932,GR,de
+Haldenstein,7023,0,Haldenstein,3941,GR,de
+Says,7202,0,Trimmis,3945,GR,de
+Trimmis,7203,0,Trimmis,3945,GR,de
+Untervaz,7204,0,Untervaz,3946,GR,de
+Zizers,7205,0,Zizers,3947,GR,de
+Fläsch,7306,0,Fläsch,3951,GR,de
+Jenins,7307,0,Jenins,3952,GR,de
+Maienfeld,7304,0,Maienfeld,3953,GR,de
+Malans GR,7208,0,Malans,3954,GR,de
+Igis,7206,0,Landquart,3955,GR,de
+Landquart,7302,0,Landquart,3955,GR,de
+Mastrils,7303,0,Landquart,3955,GR,de
+Valzeina,7213,0,Grüsch,3961,GR,de
+Grüsch,7214,0,Grüsch,3961,GR,de
+Fanas,7215,0,Grüsch,3961,GR,de
+Schiers,7220,0,Schiers,3962,GR,de
+Schiers,7220,0,Schiers,3962,GR,de
+Lunden,7222,0,Schiers,3962,GR,de
+Stels,7226,0,Schiers,3962,GR,de
+Stels,7226,0,Schiers,3962,GR,de
+Fajauna,7226,2,Schiers,3962,GR,de
+Schuders,7228,0,Schiers,3962,GR,de
+Pusserein,7228,1,Schiers,3962,GR,de
+Seewis Dorf,7212,0,Seewis im Prättigau,3972,GR,de
+Seewis-Pardisla,7212,1,Seewis im Prättigau,3972,GR,de
+Seewis-Schmitten,7212,2,Seewis im Prättigau,3972,GR,de
+Waltensburg/Vuorz,7158,0,Breil/Brigels,3981,GR,rm
+Andiast,7159,0,Breil/Brigels,3981,GR,rm
+Tavanasa,7162,0,Breil/Brigels,3981,GR,rm
+Danis,7163,0,Breil/Brigels,3981,GR,rm
+Dardin,7164,0,Breil/Brigels,3981,GR,rm
+Breil/Brigels,7165,0,Breil/Brigels,3981,GR,rm
+Disentis/Mustér,7180,0,Disentis/Mustér,3982,GR,rm
+Cavardiras,7182,0,Disentis/Mustér,3982,GR,rm
+Mumpé Medel,7183,0,Disentis/Mustér,3982,GR,rm
+Segnas,7186,0,Disentis/Mustér,3982,GR,rm
+Curaglia,7184,0,Medel (Lucmagn),3983,GR,rm
+Platta,7185,0,Medel (Lucmagn),3983,GR,rm
+Rabius,7172,0,Sumvitg,3985,GR,rm
+Surrein,7173,0,Sumvitg,3985,GR,rm
+S. Benedetg,7174,0,Sumvitg,3985,GR,rm
+Sumvitg,7175,0,Sumvitg,3985,GR,rm
+Cumpadials,7176,0,Sumvitg,3985,GR,rm
+Camischolas,7187,0,Tujetsch,3986,GR,rm
+Sedrun,7188,0,Tujetsch,3986,GR,rm
+Rueras,7189,0,Tujetsch,3986,GR,rm
+Trun,7166,0,Trun,3987,GR,rm
+Zignau,7167,0,Trun,3987,GR,rm
+Schlans,7168,0,Trun,3987,GR,rm
+Obersaxen,7134,0,Obersaxen Mundaun,3988,GR,de
+Flond,7137,0,Obersaxen Mundaun,3988,GR,rm
+Surcuolm,7138,0,Obersaxen Mundaun,3988,GR,rm
+Aarau,5000,0,Aarau,4001,AG,de
+Aarau,5004,0,Aarau,4001,AG,de
+Aarau Rohr,5032,0,Aarau,4001,AG,de
+Biberstein,5023,0,Biberstein,4002,AG,de
+Buchs AG,5033,0,Buchs (AG),4003,AG,de
+Asp,5025,0,Densbüren,4004,AG,de
+Densbüren,5026,0,Densbüren,4004,AG,de
+Barmelweid,5017,0,Erlinsbach (AG),4005,AG,de
+Erlinsbach,5018,0,Erlinsbach (AG),4005,AG,de
+Gränichen,5722,0,Gränichen,4006,AG,de
+Hirschthal,5042,0,Hirschthal,4007,AG,de
+Rombach,5022,0,Küttigen,4008,AG,de
+Küttigen,5024,0,Küttigen,4008,AG,de
+Muhen,5037,0,Muhen,4009,AG,de
+Oberentfelden,5036,0,Oberentfelden,4010,AG,de
+Suhr,5034,0,Suhr,4012,AG,de
+Unterentfelden,5035,0,Unterentfelden,4013,AG,de
+Baden,5400,0,Baden,4021,AG,de
+Baden,5404,0,Baden,4021,AG,de
+Dättwil,5405,2,Baden,4021,AG,de
+Rütihof,5406,2,Baden,4021,AG,de
+Bellikon,5454,0,Bellikon,4022,AG,de
+Bergdietikon,8962,0,Bergdietikon,4023,AG,de
+Birmenstorf AG,5413,0,Birmenstorf (AG),4024,AG,de
+Ennetbaden,5408,0,Ennetbaden,4026,AG,de
+Fislisbach,5442,0,Fislisbach,4027,AG,de
+Freienwil,5423,0,Freienwil,4028,AG,de
+Gebenstorf,5412,0,Gebenstorf,4029,AG,de
+Vogelsang AG,5412,1,Gebenstorf,4029,AG,de
+Killwangen,8956,0,Killwangen,4030,AG,de
+Künten,5444,0,Künten,4031,AG,de
+Mägenwil,5506,0,Mägenwil,4032,AG,de
+Mellingen,5507,0,Mellingen,4033,AG,de
+Neuenhof,5432,0,Neuenhof,4034,AG,de
+Niederrohrdorf,5443,0,Niederrohrdorf,4035,AG,de
+Oberrohrdorf,5452,0,Oberrohrdorf,4037,AG,de
+Nussbaumen AG,5415,0,Obersiggenthal,4038,AG,de
+Hertenstein AG,5415,1,Obersiggenthal,4038,AG,de
+Rieden AG,5415,2,Obersiggenthal,4038,AG,de
+Kirchdorf AG,5416,0,Obersiggenthal,4038,AG,de
+Remetschwil,5453,0,Remetschwil,4039,AG,de
+Spreitenbach,8957,0,Spreitenbach,4040,AG,de
+Stetten AG,5608,0,Stetten (AG),4041,AG,de
+Turgi,5300,0,Turgi,4042,AG,de
+Siggenthal Station,5301,0,Untersiggenthal,4044,AG,de
+Untersiggenthal,5417,0,Untersiggenthal,4044,AG,de
+Wettingen,5430,0,Wettingen,4045,AG,de
+Wohlenschwil,5512,0,Wohlenschwil,4046,AG,de
+Würenlingen,5303,0,Würenlingen,4047,AG,de
+Würenlos,5436,0,Würenlos,4048,AG,de
+Kloster Fahr,8109,0,Würenlos,4048,AG,de
+Ehrendingen,5420,0,Ehrendingen,4049,AG,de
+Arni AG,8905,3,Arni (AG),4061,AG,de
+Berikon,8965,0,Berikon,4062,AG,de
+Bremgarten AG,5620,0,Bremgarten (AG),4063,AG,de
+Hermetschwil-Staffeln,5626,0,Bremgarten (AG),4063,AG,de
+Büttikon,5619,0,Büttikon,4064,AG,de
+Dottikon,5605,0,Dottikon,4065,AG,de
+Eggenwil,5445,0,Eggenwil,4066,AG,de
+Fischbach-Göslikon,5525,0,Fischbach-Göslikon,4067,AG,de
+Hägglingen,5607,0,Hägglingen,4068,AG,de
+Jonen,8916,0,Jonen,4071,AG,de
+Niederwil AG,5524,0,Niederwil (AG),4072,AG,de
+Nesselnbach,5524,2,Niederwil (AG),4072,AG,de
+Oberlunkhofen,8917,0,Oberlunkhofen,4073,AG,de
+Oberwil-Lieli,8966,0,Oberwil-Lieli,4074,AG,de
+Rudolfstetten,8964,0,Rudolfstetten-Friedlisberg,4075,AG,de
+Sarmenstorf,5614,0,Sarmenstorf,4076,AG,de
+Tägerig,5522,0,Tägerig,4077,AG,de
+Uezwil,5619,2,Uezwil,4078,AG,de
+Unterlunkhofen,8918,0,Unterlunkhofen,4079,AG,de
+Villmergen,5612,0,Villmergen,4080,AG,de
+Hilfikon,5613,0,Villmergen,4080,AG,de
+Widen,8967,0,Widen,4081,AG,de
+Wohlen AG,5610,0,Wohlen (AG),4082,AG,de
+Anglikon,5611,0,Wohlen (AG),4082,AG,de
+Zufikon,5621,0,Zufikon,4083,AG,de
+Islisberg,8905,2,Islisberg,4084,AG,de
+Auenstein,5105,0,Auenstein,4091,AG,de
+Birr,5242,1,Birr,4092,AG,de
+Birrhard,5244,0,Birrhard,4093,AG,de
+Bözen,5076,0,Bözen,4094,AG,de
+Brugg AG,5200,0,Brugg,4095,AG,de
+Umiken,5222,0,Brugg,4095,AG,de
+Effingen,5078,0,Effingen,4096,AG,de
+Elfingen,5077,0,Elfingen,4097,AG,de
+Habsburg,5245,0,Habsburg,4099,AG,de
+Hausen AG,5212,0,Hausen (AG),4100,AG,de
+Lupfig,5242,2,Lupfig,4104,AG,de
+Scherz,5246,0,Lupfig,4104,AG,de
+Mandach,5318,0,Mandach,4105,AG,de
+Mönthal,5237,0,Mönthal,4106,AG,de
+Mülligen,5243,0,Mülligen,4107,AG,de
+Remigen,5236,0,Remigen,4110,AG,de
+Riniken,5223,0,Riniken,4111,AG,de
+Rüfenach,5235,0,Rüfenach,4112,AG,de
+Schinznach Bad,5116,0,Schinznach-Bad,4114,AG,de
+Thalheim AG,5112,0,Thalheim (AG),4117,AG,de
+Veltheim AG,5106,0,Veltheim (AG),4120,AG,de
+Stilli,5233,0,Villigen,4121,AG,de
+Villigen,5234,0,Villigen,4121,AG,de
+Villnachern,5213,0,Villnachern,4122,AG,de
+Windisch,5210,0,Windisch,4123,AG,de
+Bözberg,5225,1,Bözberg,4124,AG,de
+Schinznach Dorf,5107,0,Schinznach,4125,AG,de
+Oberflachs,5108,0,Schinznach,4125,AG,de
+Beinwil am See,5712,0,Beinwil am See,4131,AG,de
+Birrwil,5708,0,Birrwil,4132,AG,de
+Burg AG,5736,0,Burg (AG),4133,AG,de
+Dürrenäsch,5724,0,Dürrenäsch,4134,AG,de
+Gontenschwil,5728,0,Gontenschwil,4135,AG,de
+Holziken,5043,0,Holziken,4136,AG,de
+Leimbach AG,5733,0,Leimbach (AG),4137,AG,de
+Leutwil,5725,0,Leutwil,4138,AG,de
+Menziken,5737,0,Menziken,4139,AG,de
+Oberkulm,5727,0,Oberkulm,4140,AG,de
+Reinach AG,5734,0,Reinach (AG),4141,AG,de
+Schlossrued,5044,0,Schlossrued,4142,AG,de
+Schmiedrued,5046,1,Schmiedrued,4143,AG,de
+Walde AG,5046,2,Schmiedrued,4143,AG,de
+Schöftland,5040,0,Schöftland,4144,AG,de
+Teufenthal AG,5723,0,Teufenthal (AG),4145,AG,de
+Unterkulm,5726,0,Unterkulm,4146,AG,de
+Zetzwil,5732,0,Zetzwil,4147,AG,de
+Eiken,5074,0,Eiken,4161,AG,de
+Frick,5070,0,Frick,4163,AG,de
+Gansingen,5272,0,Gansingen,4164,AG,de
+Gipf-Oberfrick,5073,0,Gipf-Oberfrick,4165,AG,de
+Herznach,5027,0,Herznach,4166,AG,de
+Hornussen,5075,0,Hornussen,4167,AG,de
+Kaisten,5082,0,Kaisten,4169,AG,de
+Ittenthal,5083,0,Kaisten,4169,AG,de
+Laufenburg,5080,0,Laufenburg,4170,AG,de
+Rheinsulz,5084,0,Laufenburg,4170,AG,de
+Sulz AG,5085,0,Laufenburg,4170,AG,de
+Münchwilen AG,4333,0,Münchwilen (AG),4172,AG,de
+Oberhof,5062,0,Oberhof,4173,AG,de
+Oeschgen,5072,0,Oeschgen,4175,AG,de
+Schwaderloch,5326,0,Schwaderloch,4176,AG,de
+Sisseln,4334,0,Sisseln,4177,AG,de
+Ueken,5028,0,Ueken,4179,AG,de
+Wittnau,5064,0,Wittnau,4181,AG,de
+Wölflinswil,5063,0,Wölflinswil,4182,AG,de
+Zeihen,5079,0,Zeihen,4183,AG,de
+Oberhofen AG,5273,0,Mettauertal,4184,AG,de
+Mettau,5274,0,Mettauertal,4184,AG,de
+Etzgen,5275,0,Mettauertal,4184,AG,de
+Wil AG,5276,0,Mettauertal,4184,AG,de
+Hottwil,5277,0,Mettauertal,4184,AG,de
+Ammerswil,5600,3,Ammerswil,4191,AG,de
+Boniswil,5706,0,Boniswil,4192,AG,de
+Brunegg,5505,0,Brunegg,4193,AG,de
+Dintikon,5606,0,Dintikon,4194,AG,de
+Egliswil,5704,0,Egliswil,4195,AG,de
+Fahrwangen,5615,0,Fahrwangen,4196,AG,de
+Hallwil,5705,0,Hallwil,4197,AG,de
+Hendschiken,5604,0,Hendschiken,4198,AG,de
+Holderbank AG,5113,0,Holderbank (AG),4199,AG,de
+Hunzenschwil,5502,0,Hunzenschwil,4200,AG,de
+Lenzburg,5600,0,Lenzburg,4201,AG,de
+Meisterschwanden,5616,0,Meisterschwanden,4202,AG,de
+Tennwil,5617,0,Meisterschwanden,4202,AG,de
+Wildegg,5103,0,Möriken-Wildegg,4203,AG,de
+Möriken AG,5103,2,Möriken-Wildegg,4203,AG,de
+Niederlenz,5702,0,Niederlenz,4204,AG,de
+Othmarsingen,5504,0,Othmarsingen,4205,AG,de
+Rupperswil,5102,0,Rupperswil,4206,AG,de
+Schafisheim,5503,0,Schafisheim,4207,AG,de
+Seengen,5707,0,Seengen,4208,AG,de
+Seon,5703,0,Seon,4209,AG,de
+Staufen,5603,0,Staufen,4210,AG,de
+Abtwil AG,5646,0,Abtwil,4221,AG,de
+Aristau,5628,0,Aristau,4222,AG,de
+Auw,5644,0,Auw,4223,AG,de
+Beinwil (Freiamt),5637,0,Beinwil (Freiamt),4224,AG,de
+Besenbüren,5627,0,Besenbüren,4226,AG,de
+Bettwil,5618,0,Bettwil,4227,AG,de
+Boswil,5623,0,Boswil,4228,AG,de
+Bünzen,5624,0,Bünzen,4229,AG,de
+Waldhäusern AG,5624,2,Bünzen,4229,AG,de
+Buttwil,5632,0,Buttwil,4230,AG,de
+Dietwil,6042,0,Dietwil,4231,AG,de
+Geltwil,5637,2,Geltwil,4232,AG,de
+Kallern,5625,0,Kallern,4233,AG,de
+Merenschwand,5634,0,Merenschwand,4234,AG,de
+Benzenschwil,5636,0,Merenschwand,4234,AG,de
+Mühlau,5642,0,Mühlau,4235,AG,de
+Muri AG,5630,0,Muri (AG),4236,AG,de
+Oberrüti,5647,0,Oberrüti,4237,AG,de
+Rottenschwil,8919,0,Rottenschwil,4238,AG,de
+Sins,5643,0,Sins,4239,AG,de
+Sins,5643,0,Sins,4239,AG,de
+Alikon,5643,2,Sins,4239,AG,de
+Meienberg,5643,3,Sins,4239,AG,de
+Aettenschwil,5645,0,Sins,4239,AG,de
+Fenkrieden,5645,2,Sins,4239,AG,de
+Waltenschwil,5622,0,Waltenschwil,4240,AG,de
+Hellikon,4316,0,Hellikon,4251,AG,de
+Kaiseraugst,4303,0,Kaiseraugst,4252,AG,de
+Magden,4312,0,Magden,4253,AG,de
+Möhlin,4313,0,Möhlin,4254,AG,de
+Mumpf,4322,0,Mumpf,4255,AG,de
+Obermumpf,4324,0,Obermumpf,4256,AG,de
+Olsberg,4305,0,Olsberg,4257,AG,de
+Rheinfelden,4310,0,Rheinfelden,4258,AG,de
+Schupfart,4325,0,Schupfart,4259,AG,de
+Stein AG,4332,0,Stein (AG),4260,AG,de
+Wallbach,4323,0,Wallbach,4261,AG,de
+Wegenstetten,4317,0,Wegenstetten,4262,AG,de
+Zeiningen,4314,0,Zeiningen,4263,AG,de
+Zuzgen,4315,0,Zuzgen,4264,AG,de
+Aarburg,4663,0,Aarburg,4271,AG,de
+Bottenwil,4814,0,Bottenwil,4273,AG,de
+Brittnau,4805,0,Brittnau,4274,AG,de
+Kirchleerau,5054,1,Kirchleerau,4275,AG,de
+Kölliken,5742,0,Kölliken,4276,AG,de
+Moosleerau,5054,2,Moosleerau,4277,AG,de
+Murgenthal,4853,0,Murgenthal,4279,AG,de
+Murgenthal,4853,0,Murgenthal,4279,AG,de
+Riken AG,4853,2,Murgenthal,4279,AG,de
+Glashütten,4856,0,Murgenthal,4279,AG,de
+Oftringen,4665,0,Oftringen,4280,AG,de
+Attelwil,5056,0,Reitnau,4281,AG,de
+Reitnau,5057,0,Reitnau,4281,AG,de
+Rothrist,4852,0,Rothrist,4282,AG,de
+Safenwil,5745,0,Safenwil,4283,AG,de
+Staffelbach,5053,0,Staffelbach,4284,AG,de
+Wittwil,5053,2,Staffelbach,4284,AG,de
+Strengelbach,4802,0,Strengelbach,4285,AG,de
+Uerkheim,4813,0,Uerkheim,4286,AG,de
+Vordemwald,4803,0,Vordemwald,4287,AG,de
+Wiliberg,5058,0,Wiliberg,4288,AG,de
+Zofingen,4800,0,Zofingen,4289,AG,de
+Mühlethal,4812,0,Zofingen,4289,AG,de
+Baldingen,5333,0,Baldingen,4301,AG,de
+Böbikon,5334,0,Böbikon,4302,AG,de
+Kleindöttingen,5314,0,Böttstein,4303,AG,de
+Böttstein,5315,0,Böttstein,4303,AG,de
+Döttingen,5312,0,Döttingen,4304,AG,de
+Endingen,5304,0,Endingen,4305,AG,de
+Unterendingen,5305,0,Endingen,4305,AG,de
+Fisibach,5467,0,Fisibach,4306,AG,de
+Full-Reuenthal,5324,0,Full-Reuenthal,4307,AG,de
+Kaiserstuhl AG,5466,0,Kaiserstuhl,4308,AG,de
+Klingnau,5313,0,Klingnau,4309,AG,de
+Koblenz,5322,0,Koblenz,4310,AG,de
+Leibstadt,5325,0,Leibstadt,4311,AG,de
+Lengnau AG,5426,0,Lengnau (AG),4312,AG,de
+Leuggern,5316,0,Leuggern,4313,AG,de
+Hettenschwil,5317,0,Leuggern,4313,AG,de
+Mellikon,5465,0,Mellikon,4314,AG,de
+Rekingen AG,5332,0,Rekingen (AG),4315,AG,de
+Rietheim,5323,0,Rietheim,4316,AG,de
+Rümikon AG,5464,0,Rümikon,4317,AG,de
+Schneisingen,5425,0,Schneisingen,4318,AG,de
+Siglistorf,5462,0,Siglistorf,4319,AG,de
+Tegerfelden,5306,0,Tegerfelden,4320,AG,de
+Wislikofen,5463,0,Wislikofen,4322,AG,de
+Bad Zurzach,5330,0,Bad Zurzach,4323,AG,de
+Arbon,9320,0,Arbon,4401,TG,de
+Frasnacht,9320,2,Arbon,4401,TG,de
+Stachen,9320,3,Arbon,4401,TG,de
+Dozwil,8582,0,Dozwil,4406,TG,de
+Steinebrunn,9314,0,Egnach,4411,TG,de
+Neukirch (Egnach),9315,0,Egnach,4411,TG,de
+Winden,9315,2,Egnach,4411,TG,de
+Egnach,9322,0,Egnach,4411,TG,de
+Hefenhofen,8580,7,Hefenhofen,4416,TG,de
+Horn,9326,0,Horn,4421,TG,de
+Kesswil,8593,0,Kesswil,4426,TG,de
+Freidorf TG,9306,0,Roggwil (TG),4431,TG,de
+Roggwil TG,9325,0,Roggwil (TG),4431,TG,de
+Romanshorn,8590,0,Romanshorn,4436,TG,de
+Salmsach,8599,0,Salmsach,4441,TG,de
+Sommeri,8580,3,Sommeri,4446,TG,de
+Uttwil,8592,0,Uttwil,4451,TG,de
+Amriswil,8580,0,Amriswil,4461,TG,de
+Hagenwil bei Amriswil,8580,5,Amriswil,4461,TG,de
+Biessenhofen,8580,8,Amriswil,4461,TG,de
+Schocherswil,8581,0,Amriswil,4461,TG,de
+Oberaach,8587,0,Amriswil,4461,TG,de
+Bischofszell,9220,0,Bischofszell,4471,TG,de
+Schweizersholz,9223,0,Bischofszell,4471,TG,de
+Halden,9223,1,Bischofszell,4471,TG,de
+Erlen,8586,0,Erlen,4476,TG,de
+Kümmertshausen,8586,3,Erlen,4476,TG,de
+Riedt b. Erlen,8586,5,Erlen,4476,TG,de
+Buchackern,8586,7,Erlen,4476,TG,de
+Engishofen,8586,8,Erlen,4476,TG,de
+Ennetaach,8586,9,Erlen,4476,TG,de
+Hauptwil,9213,0,Hauptwil-Gottshaus,4486,TG,de
+Wilen (Gottshaus),9225,0,Hauptwil-Gottshaus,4486,TG,de
+St. Pelagiberg,9225,1,Hauptwil-Gottshaus,4486,TG,de
+Heldswil,9216,0,Hohentannen,4495,TG,de
+Hohentannen,9216,2,Hohentannen,4495,TG,de
+Kradolf,9214,2,Kradolf-Schönenberg,4501,TG,de
+Schönenberg an der Thur,9215,0,Kradolf-Schönenberg,4501,TG,de
+Buhwil,9215,2,Kradolf-Schönenberg,4501,TG,de
+Neukirch an der Thur,9217,0,Kradolf-Schönenberg,4501,TG,de
+Sulgen,8583,0,Sulgen,4506,TG,de
+Götighofen,8583,1,Sulgen,4506,TG,de
+Donzhausen,8583,2,Sulgen,4506,TG,de
+Zihlschlacht,8588,0,Zihlschlacht-Sitterdorf,4511,TG,de
+Sitterdorf,8589,0,Zihlschlacht-Sitterdorf,4511,TG,de
+Basadingen,8254,0,Basadingen-Schlattingen,4536,TG,de
+Schlattingen,8255,0,Basadingen-Schlattingen,4536,TG,de
+Diessenhofen,8253,0,Diessenhofen,4545,TG,de
+Willisdorf,8253,2,Diessenhofen,4545,TG,de
+Schlatt TG,8252,0,Schlatt (TG),4546,TG,de
+Aadorf,8355,0,Aadorf,4551,TG,de
+Ettenhausen TG,8356,0,Aadorf,4551,TG,de
+Guntershausen b. Aadorf,8357,0,Aadorf,4551,TG,de
+Häuslenen,8522,0,Aadorf,4551,TG,de
+Aawangen,8522,2,Aadorf,4551,TG,de
+Wittenwil,9547,0,Aadorf,4551,TG,de
+Felben-Wellhausen,8552,0,Felben-Wellhausen,4561,TG,de
+Frauenfeld,8500,0,Frauenfeld,4566,TG,de
+Gerlikon,8500,4,Frauenfeld,4566,TG,de
+Islikon,8546,0,Gachnang,4571,TG,de
+Kefikon TG,8546,2,Gachnang,4571,TG,de
+Gachnang,8547,0,Gachnang,4571,TG,de
+Harenwilen,8553,2,Hüttlingen,4590,TG,de
+Mettendorf TG,8553,3,Hüttlingen,4590,TG,de
+Hüttlingen,8553,4,Hüttlingen,4590,TG,de
+Eschikofen,8553,5,Hüttlingen,4590,TG,de
+Matzingen,9548,0,Matzingen,4591,TG,de
+Niederneunforn,8525,0,Neunforn,4601,TG,de
+Oberneunforn,8526,0,Neunforn,4601,TG,de
+Stettfurt,9507,0,Stettfurt,4606,TG,de
+Thundorf,8512,0,Thundorf,4611,TG,de
+Lustdorf,8512,2,Thundorf,4611,TG,de
+Wetzikon TG,8512,3,Thundorf,4611,TG,de
+Uesslingen,8524,0,Uesslingen-Buch,4616,TG,de
+Buch bei Frauenfeld,8524,2,Uesslingen-Buch,4616,TG,de
+Warth,8532,0,Warth-Weiningen,4621,TG,de
+Weiningen TG,8532,2,Warth-Weiningen,4621,TG,de
+Altnau,8595,0,Altnau,4641,TG,de
+Bottighofen,8598,0,Bottighofen,4643,TG,de
+Ermatingen,8272,0,Ermatingen,4646,TG,de
+Triboltingen,8273,0,Ermatingen,4646,TG,de
+Gottlieben,8274,2,Gottlieben,4651,TG,de
+Güttingen,8594,0,Güttingen,4656,TG,de
+Hugelshofen,8565,0,Kemmental,4666,TG,de
+Neuwilen,8566,0,Kemmental,4666,TG,de
+Dotnacht,8566,2,Kemmental,4666,TG,de
+Ellighausen,8566,4,Kemmental,4666,TG,de
+Lippoldswilen,8566,5,Kemmental,4666,TG,de
+Siegershausen,8573,0,Kemmental,4666,TG,de
+Alterswilen,8573,2,Kemmental,4666,TG,de
+Altishausen,8573,3,Kemmental,4666,TG,de
+Kreuzlingen,8280,0,Kreuzlingen,4671,TG,de
+Langrickenbach,8585,4,Langrickenbach,4681,TG,de
+Zuben,8585,5,Langrickenbach,4681,TG,de
+Schönenbaumgarten,8585,7,Langrickenbach,4681,TG,de
+Herrenhof,8585,8,Langrickenbach,4681,TG,de
+Illighausen,8574,1,Lengwil,4683,TG,de
+Oberhofen TG,8574,2,Lengwil,4683,TG,de
+Lengwil,8574,3,Lengwil,4683,TG,de
+Dettighofen (Lengwil),8574,4,Lengwil,4683,TG,de
+Scherzingen,8596,0,Münsterlingen,4691,TG,de
+Münsterlingen,8596,1,Münsterlingen,4691,TG,de
+Landschlacht,8597,0,Münsterlingen,4691,TG,de
+Tägerwilen,8274,0,Tägerwilen,4696,TG,de
+Hefenhausen,8564,0,Wäldi,4701,TG,de
+Engwilen,8564,2,Wäldi,4701,TG,de
+Sonterswil,8564,3,Wäldi,4701,TG,de
+Wäldi,8564,4,Wäldi,4701,TG,de
+Lipperswil,8564,5,Wäldi,4701,TG,de
+Hattenhausen,8564,7,Wäldi,4701,TG,de
+Gunterswilen,8564,8,Wäldi,4701,TG,de
+Affeltrangen,9556,0,Affeltrangen,4711,TG,de
+Zezikon,9556,2,Affeltrangen,4711,TG,de
+Märwil,9562,0,Affeltrangen,4711,TG,de
+Buch bei Märwil,9562,2,Affeltrangen,4711,TG,de
+Bettwiesen,9553,0,Bettwiesen,4716,TG,de
+Balterswil,8362,0,Bichelsee-Balterswil,4721,TG,de
+Bichelsee,8363,0,Bichelsee-Balterswil,4721,TG,de
+Braunau,9502,0,Braunau,4723,TG,de
+Eschlikon TG,8360,0,Eschlikon,4724,TG,de
+Wallenwil,8360,2,Eschlikon,4724,TG,de
+Dussnang,8374,0,Fischingen,4726,TG,de
+Oberwangen TG,8374,2,Fischingen,4726,TG,de
+Fischingen,8376,0,Fischingen,4726,TG,de
+Au TG,8376,2,Fischingen,4726,TG,de
+Lommis,9506,0,Lommis,4741,TG,de
+Weingarten-Kalthäusern,9508,0,Lommis,4741,TG,de
+Münchwilen TG,9542,0,Münchwilen (TG),4746,TG,de
+St. Margarethen TG,9543,0,Münchwilen (TG),4746,TG,de
+Rickenbach bei Wil,9532,0,Rickenbach (TG),4751,TG,de
+Schönholzerswilen,8577,0,Schönholzerswilen,4756,TG,de
+Sirnach,8370,0,Sirnach,4761,TG,de
+Busswil TG,8371,0,Sirnach,4761,TG,de
+Wiezikon bei Sirnach,8372,0,Sirnach,4761,TG,de
+Littenheid,9573,0,Sirnach,4761,TG,de
+Tägerschen,9554,0,Tobel-Tägerschen,4776,TG,de
+Tobel,9555,0,Tobel-Tägerschen,4776,TG,de
+Wängi,9545,0,Wängi,4781,TG,de
+Tuttwil,9546,0,Wängi,4781,TG,de
+Wilen bei Wil,9535,0,Wilen (TG),4786,TG,de
+Wuppenau,9514,0,Wuppenau,4791,TG,de
+Hosenruck,9515,0,Wuppenau,4791,TG,de
+Berlingen,8267,0,Berlingen,4801,TG,de
+Eschenz,8264,0,Eschenz,4806,TG,de
+Lanzenneunforn,8506,0,Herdern,4811,TG,de
+Herdern,8535,0,Herdern,4811,TG,de
+Hörhausen,8507,0,Homburg,4816,TG,de
+Homburg,8508,0,Homburg,4816,TG,de
+Hüttwilen,8536,0,Hüttwilen,4821,TG,de
+Nussbaumen TG,8537,0,Hüttwilen,4821,TG,de
+Uerschhausen,8537,2,Hüttwilen,4821,TG,de
+Mammern,8265,0,Mammern,4826,TG,de
+Müllheim Dorf,8555,0,Müllheim,4831,TG,de
+Pfyn,8505,0,Pfyn,4841,TG,de
+Dettighofen,8505,2,Pfyn,4841,TG,de
+Raperswilen,8558,0,Raperswilen,4846,TG,de
+Mannenbach-Salenstein,8268,0,Salenstein,4851,TG,de
+Salenstein,8268,2,Salenstein,4851,TG,de
+Fruthwilen,8269,0,Salenstein,4851,TG,de
+Steckborn,8266,0,Steckborn,4864,TG,de
+Kaltenbach,8259,0,Wagenhausen,4871,TG,de
+Etzwilen,8259,2,Wagenhausen,4871,TG,de
+Rheinklingen,8259,3,Wagenhausen,4871,TG,de
+Wagenhausen,8259,4,Wagenhausen,4871,TG,de
+Amlikon-Bissegg,8514,0,Amlikon-Bissegg,4881,TG,de
+Berg TG,8572,0,Berg (TG),4891,TG,de
+Andhausen,8572,2,Berg (TG),4891,TG,de
+Graltshausen,8572,3,Berg (TG),4891,TG,de
+Guntershausen b. Berg,8572,4,Berg (TG),4891,TG,de
+Mauren TG,8576,0,Berg (TG),4891,TG,de
+Mattwil,8585,1,Birwinken,4901,TG,de
+Happerswil,8585,2,Birwinken,4901,TG,de
+Birwinken,8585,9,Birwinken,4901,TG,de
+Klarsreuti,8585,10,Birwinken,4901,TG,de
+Andwil TG,8586,2,Birwinken,4901,TG,de
+Buch bei Kümmertshausen,8586,10,Birwinken,4901,TG,de
+Bürglen TG,8575,0,Bürglen (TG),4911,TG,de
+Istighofen,8575,1,Bürglen (TG),4911,TG,de
+Leimbach TG,8584,0,Bürglen (TG),4911,TG,de
+Opfershofen TG,8584,1,Bürglen (TG),4911,TG,de
+Stehrenberg,9503,0,Bussnang,4921,TG,de
+Lanterswil,9503,2,Bussnang,4921,TG,de
+Friltschen,9504,0,Bussnang,4921,TG,de
+Mettlen,9517,0,Bussnang,4921,TG,de
+Bussnang,9565,0,Bussnang,4921,TG,de
+Oberbussnang,9565,2,Bussnang,4921,TG,de
+Oppikon,9565,3,Bussnang,4921,TG,de
+Schmidshof,9565,4,Bussnang,4921,TG,de
+Rothenhausen,9565,5,Bussnang,4921,TG,de
+Märstetten,8560,0,Märstetten,4941,TG,de
+Ottoberg,8561,0,Märstetten,4941,TG,de
+Weinfelden,8570,0,Weinfelden,4946,TG,de
+Müllheim-Wigoltingen,8554,0,Wigoltingen,4951,TG,de
+Bonau,8554,3,Wigoltingen,4951,TG,de
+Wigoltingen,8556,0,Wigoltingen,4951,TG,de
+Engwang,8556,2,Wigoltingen,4951,TG,de
+Illhart,8556,3,Wigoltingen,4951,TG,de
+Lamperswil TG,8556,4,Wigoltingen,4951,TG,de
+Wagerswil,8564,6,Wigoltingen,4951,TG,de
+Arbedo,6517,0,Arbedo-Castione,5001,TI,it
+Castione,6532,0,Arbedo-Castione,5001,TI,it
+Bellinzona,6500,0,Bellinzona,5002,TI,it
+Bellinzona,6503,0,Bellinzona,5002,TI,it
+Giubiasco,6512,0,Bellinzona,5002,TI,it
+Monte Carasso,6513,0,Bellinzona,5002,TI,it
+Sementina,6514,0,Bellinzona,5002,TI,it
+Gudo,6515,0,Bellinzona,5002,TI,it
+Gorduno,6518,0,Bellinzona,5002,TI,it
+Preonzo,6523,0,Bellinzona,5002,TI,it
+Moleno,6524,0,Bellinzona,5002,TI,it
+Gnosca,6525,0,Bellinzona,5002,TI,it
+Camorino,6528,0,Bellinzona,5002,TI,it
+Pianezzo,6582,0,Bellinzona,5002,TI,it
+S. Antonio (Val Morobbia),6583,0,Bellinzona,5002,TI,it
+Carena,6584,0,Bellinzona,5002,TI,it
+Claro,6702,0,Bellinzona,5002,TI,it
+Cadenazzo,6593,0,Cadenazzo,5003,TI,it
+Robasacco,6599,0,Cadenazzo,5003,TI,it
+Isone,6810,0,Isone,5009,TI,it
+Lumino,6533,0,Lumino,5010,TI,it
+S. Antonino,6592,0,Sant'Antonino,5017,TI,it
+Dongio,6715,0,Acquarossa,5048,TI,it
+Acquarossa,6716,0,Acquarossa,5048,TI,it
+Leontica,6716,2,Acquarossa,5048,TI,it
+Lottigna,6716,3,Acquarossa,5048,TI,it
+Motto (Blenio),6721,2,Acquarossa,5048,TI,it
+Corzoneso,6722,0,Acquarossa,5048,TI,it
+Prugiasco,6723,0,Acquarossa,5048,TI,it
+Castro,6723,2,Acquarossa,5048,TI,it
+Marolta,6723,3,Acquarossa,5048,TI,it
+Ponto Valentino,6724,0,Acquarossa,5048,TI,it
+Largario,6724,2,Acquarossa,5048,TI,it
+Dangio,6717,0,Blenio,5049,TI,it
+Torre,6717,1,Blenio,5049,TI,it
+Olivone,6718,0,Blenio,5049,TI,it
+Camperio,6718,1,Blenio,5049,TI,it
+Aquila,6719,0,Blenio,5049,TI,it
+Aquila,6719,0,Blenio,5049,TI,it
+Campo (Blenio),6720,0,Blenio,5049,TI,it
+Ghirone,6720,2,Blenio,5049,TI,it
+Malvaglia,6713,0,Serravalle,5050,TI,it
+Semione,6714,0,Serravalle,5050,TI,it
+Ludiano,6721,0,Serravalle,5050,TI,it
+Airolo,6780,0,Airolo,5061,TI,it
+Madrano,6780,2,Airolo,5061,TI,it
+Villa Bedretto,6781,1,Bedretto,5063,TI,it
+Bedretto,6781,4,Bedretto,5063,TI,it
+Bodio TI,6743,0,Bodio,5064,TI,it
+Dalpe,6774,0,Dalpe,5071,TI,it
+Lavorgo,6746,0,Faido,5072,TI,it
+Calonico,6746,1,Faido,5072,TI,it
+Nivo,6746,2,Faido,5072,TI,it
+Chironico,6747,0,Faido,5072,TI,it
+Anzonico,6748,0,Faido,5072,TI,it
+Sobrio,6749,0,Faido,5072,TI,it
+Cavagnago,6749,1,Faido,5072,TI,it
+Faido,6760,0,Faido,5072,TI,it
+Molare,6760,1,Faido,5072,TI,it
+Calpiogna,6760,2,Faido,5072,TI,it
+Campello,6760,3,Faido,5072,TI,it
+Carì,6760,4,Faido,5072,TI,it
+Rossura,6760,5,Faido,5072,TI,it
+Osco,6763,0,Faido,5072,TI,it
+Mairengo,6763,1,Faido,5072,TI,it
+Chiggiogna,6764,0,Faido,5072,TI,it
+Giornico,6745,0,Giornico,5073,TI,it
+Personico,6744,0,Personico,5076,TI,it
+Pollegio,6742,0,Pollegio,5077,TI,it
+Rodi-Fiesso,6772,0,Prato (Leventina),5078,TI,it
+Prato (Leventina),6773,0,Prato (Leventina),5078,TI,it
+Ambrì,6775,0,Quinto,5079,TI,it
+Piotta,6776,0,Quinto,5079,TI,it
+Quinto,6777,0,Quinto,5079,TI,it
+Varenzo,6777,1,Quinto,5079,TI,it
+Ascona,6612,0,Ascona,5091,TI,it
+Brione (Verzasca),6634,0,Brione (Verzasca),5095,TI,it
+Brione sopra Minusio,6645,0,Brione sopra Minusio,5096,TI,it
+Brissago,6614,0,Brissago,5097,TI,it
+Isole di Brissago,6614,2,Brissago,5097,TI,it
+Corippo,6631,0,Corippo,5102,TI,it
+Frasco,6636,0,Frasco,5105,TI,it
+Gordola,6596,0,Gordola,5108,TI,it
+Riazzino,6595,0,Lavertezzo,5112,TI,it
+Lavertezzo,6633,0,Lavertezzo,5112,TI,it
+Locarno,6600,0,Locarno,5113,TI,it
+Locarno,6600,0,Locarno,5113,TI,it
+Solduno,6600,4,Locarno,5113,TI,it
+Locarno,6605,0,Locarno,5113,TI,it
+Losone,6616,0,Losone,5115,TI,it
+Arcegno,6618,0,Losone,5115,TI,it
+Mergoscia,6647,0,Mergoscia,5117,TI,it
+Minusio,6648,0,Minusio,5118,TI,it
+Muralto,6600,2,Muralto,5120,TI,it
+Orselina,6644,0,Orselina,5121,TI,it
+Porto Ronco,6613,0,Ronco sopra Ascona,5125,TI,it
+Ronco sopra Ascona,6622,0,Ronco sopra Ascona,5125,TI,it
+Sonogno,6637,0,Sonogno,5129,TI,it
+Tenero,6598,0,Tenero-Contra,5131,TI,it
+Contra,6646,0,Tenero-Contra,5131,TI,it
+Vogorno,6632,0,Vogorno,5135,TI,it
+Mosogno,6611,13,Onsernone,5136,TI,it
+Gresso,6611,16,Onsernone,5136,TI,it
+Crana,6611,17,Onsernone,5136,TI,it
+Loco,6661,0,Onsernone,5136,TI,it
+Auressio,6661,2,Onsernone,5136,TI,it
+Berzona,6661,3,Onsernone,5136,TI,it
+Russo,6662,0,Onsernone,5136,TI,it
+Comologno,6663,0,Onsernone,5136,TI,it
+Spruga,6663,2,Onsernone,5136,TI,it
+Vergeletto,6664,0,Onsernone,5136,TI,it
+Cugnasco,6516,0,Cugnasco-Gerra,5138,TI,it
+Agarone,6597,0,Cugnasco-Gerra,5138,TI,it
+Gerra (Verzasca),6635,0,Cugnasco-Gerra,5138,TI,it
+Agno,6982,0,Agno,5141,TI,it
+Cassina d'Agno,6990,0,Agno,5141,TI,it
+Aranno,6994,0,Aranno,5143,TI,it
+Arogno,6822,0,Arogno,5144,TI,it
+Pugerna,6823,0,Arogno,5144,TI,it
+Astano,6999,0,Astano,5146,TI,it
+Bedano,6930,0,Bedano,5148,TI,it
+Bedigliora,6981,11,Bedigliora,5149,TI,it
+Bedigliora,6981,11,Bedigliora,5149,TI,it
+Banco,6981,16,Bedigliora,5149,TI,it
+Bioggio,6934,0,Bioggio,5151,TI,it
+Bosco Luganese,6935,0,Bioggio,5151,TI,it
+Cimo,6992,1,Bioggio,5151,TI,it
+Iseo,6993,0,Bioggio,5151,TI,it
+Bissone,6816,0,Bissone,5154,TI,it
+Brusino Arsizio,6827,0,Brusino Arsizio,5160,TI,it
+Serpiano,6867,0,Brusino Arsizio,5160,TI,it
+Cademario,6936,0,Cademario,5161,TI,it
+Cadempino,6814,3,Cadempino,5162,TI,it
+Canobbio,6952,0,Canobbio,5167,TI,it
+Caslano,6987,0,Caslano,5171,TI,it
+Comano,6949,0,Comano,5176,TI,it
+Castelrotto,6980,0,Croglio,5178,TI,it
+Biogno-Beride,6981,12,Croglio,5178,TI,it
+Purasca,6989,0,Croglio,5178,TI,it
+Madonna del Piano,6995,2,Croglio,5178,TI,it
+Cureglia,6944,0,Cureglia,5180,TI,it
+Bombinasco,6981,15,Curio,5181,TI,it
+Curio,6986,3,Curio,5181,TI,it
+Grancia,6916,0,Grancia,5186,TI,it
+Gravesano,6929,0,Gravesano,5187,TI,it
+Lamone,6814,2,Lamone,5189,TI,it
+Lugano,6900,0,Lugano,5192,TI,it
+Pazzallo,6912,0,Lugano,5192,TI,it
+Carabbia,6913,0,Lugano,5192,TI,it
+Carona,6914,0,Lugano,5192,TI,it
+Pambio-Noranco,6915,0,Lugano,5192,TI,it
+Barbengo,6917,0,Lugano,5192,TI,it
+Figino,6918,0,Lugano,5192,TI,it
+Breganzona,6932,0,Lugano,5192,TI,it
+Insone,6951,8,Lugano,5192,TI,it
+Scareglia,6951,17,Lugano,5192,TI,it
+Colla,6951,18,Lugano,5192,TI,it
+Bogno,6951,19,Lugano,5192,TI,it
+Cozzo,6951,20,Lugano,5192,TI,it
+Signôra,6951,23,Lugano,5192,TI,it
+Maglio di Colla,6959,0,Lugano,5192,TI,it
+Certara,6959,2,Lugano,5192,TI,it
+Curtina,6959,3,Lugano,5192,TI,it
+Cimadera,6959,4,Lugano,5192,TI,it
+Piandera Paese,6959,5,Lugano,5192,TI,it
+Piandera Paese,6959,5,Lugano,5192,TI,it
+Viganello,6962,0,Lugano,5192,TI,it
+Pregassona,6963,0,Lugano,5192,TI,it
+Cureggia,6963,2,Lugano,5192,TI,it
+Davesco-Soragno,6964,0,Lugano,5192,TI,it
+Cadro,6965,0,Lugano,5192,TI,it
+Villa Luganese,6966,0,Lugano,5192,TI,it
+Dino,6967,0,Lugano,5192,TI,it
+Sonvico,6968,0,Lugano,5192,TI,it
+Aldesago,6974,0,Lugano,5192,TI,it
+Castagnola,6976,0,Lugano,5192,TI,it
+Ruvigliana,6977,0,Lugano,5192,TI,it
+Gandria,6978,0,Lugano,5192,TI,it
+Brè sopra Lugano,6979,0,Lugano,5192,TI,it
+Magliaso,6983,0,Magliaso,5193,TI,it
+Manno,6928,0,Manno,5194,TI,it
+Maroggia,6817,0,Maroggia,5195,TI,it
+Massagno,6900,5,Massagno,5196,TI,it
+Melano,6818,0,Melano,5197,TI,it
+Melide,6815,0,Melide,5198,TI,it
+Mezzovico,6805,0,Mezzovico-Vira,5199,TI,it
+Mezzovico,6805,0,Mezzovico-Vira,5199,TI,it
+Miglieglia,6986,2,Miglieglia,5200,TI,it
+Monteggio,6998,1,Monteggio,5202,TI,it
+Morcote,6922,0,Morcote,5203,TI,it
+Muzzano,6933,0,Muzzano,5205,TI,it
+Neggio,6991,0,Neggio,5206,TI,it
+Novaggio,6986,0,Novaggio,5207,TI,it
+Origlio,6945,0,Origlio,5208,TI,it
+Paradiso,6900,9,Paradiso,5210,TI,it
+Ponte Capriasca,6946,0,Ponte Capriasca,5212,TI,it
+Ponte Tresa,6988,0,Ponte Tresa,5213,TI,it
+Porza,6948,0,Porza,5214,TI,it
+Pura,6984,0,Pura,5216,TI,it
+Rovio,6821,0,Rovio,5219,TI,it
+Capolago,6825,0,Rovio,5219,TI,it
+Savosa,6942,0,Savosa,5221,TI,it
+Sessa,6997,0,Sessa,5222,TI,it
+Sorengo,6924,0,Sorengo,5225,TI,it
+Taverne,6807,0,Capriasca,5226,TI,it
+Vaglio,6947,0,Capriasca,5226,TI,it
+Tesserete,6950,0,Capriasca,5226,TI,it
+Lugaggia,6953,0,Capriasca,5226,TI,it
+Sala Capriasca,6954,0,Capriasca,5226,TI,it
+Bigorio,6954,1,Capriasca,5226,TI,it
+Cagiallo,6955,0,Capriasca,5226,TI,it
+Oggio,6955,1,Capriasca,5226,TI,it
+Lopagno,6956,0,Capriasca,5226,TI,it
+Roveredo TI,6957,0,Capriasca,5226,TI,it
+Bidogno,6958,0,Capriasca,5226,TI,it
+Corticiasca,6958,2,Capriasca,5226,TI,it
+Corticiasca,6958,2,Capriasca,5226,TI,it
+Odogno,6960,0,Capriasca,5226,TI,it
+Taverne,6807,0,Torricella-Taverne,5227,TI,it
+Torricella,6808,0,Torricella-Taverne,5227,TI,it
+Vernate,6992,0,Vernate,5230,TI,it
+Vezia,6943,0,Vezia,5231,TI,it
+Vico Morcote,6921,0,Vico Morcote,5233,TI,it
+Carabietta,6919,0,Collina d'Oro,5236,TI,it
+Gentilino,6925,0,Collina d'Oro,5236,TI,it
+Montagnola,6926,0,Collina d'Oro,5236,TI,it
+Agra,6927,0,Collina d'Oro,5236,TI,it
+Breno,6937,0,Alto Malcantone,5237,TI,it
+Vezio,6938,0,Alto Malcantone,5237,TI,it
+Fescoggia,6938,1,Alto Malcantone,5237,TI,it
+Mugena,6939,1,Alto Malcantone,5237,TI,it
+Arosio,6939,2,Alto Malcantone,5237,TI,it
+Rivera,6802,0,Monteceneri,5238,TI,it
+Camignolo,6803,0,Monteceneri,5238,TI,it
+Bironico,6804,0,Monteceneri,5238,TI,it
+Sigirino,6806,0,Monteceneri,5238,TI,it
+Medeglia,6809,0,Monteceneri,5238,TI,it
+Balerna,6828,0,Balerna,5242,TI,it
+Corteglia,6873,0,Castel San Pietro,5249,TI,it
+Castel San Pietro,6874,0,Castel San Pietro,5249,TI,it
+Monte,6875,0,Castel San Pietro,5249,TI,it
+Casima,6875,2,Castel San Pietro,5249,TI,it
+Campora,6875,3,Castel San Pietro,5249,TI,it
+Chiasso,6830,0,Chiasso,5250,TI,it
+Pedrinate,6832,0,Chiasso,5250,TI,it
+Seseglio,6832,1,Chiasso,5250,TI,it
+Coldrerio,6877,0,Coldrerio,5251,TI,it
+Capolago,6825,0,Mendrisio,5254,TI,it
+Mendrisio,6850,0,Mendrisio,5254,TI,it
+Genestrerio,6852,0,Mendrisio,5254,TI,it
+Ligornetto,6853,0,Mendrisio,5254,TI,it
+Rancate,6862,0,Mendrisio,5254,TI,it
+Besazio,6863,0,Mendrisio,5254,TI,it
+Arzo,6864,0,Mendrisio,5254,TI,it
+Tremona,6865,0,Mendrisio,5254,TI,it
+Meride,6866,0,Mendrisio,5254,TI,it
+Salorino,6872,0,Mendrisio,5254,TI,it
+Somazzo,6872,1,Mendrisio,5254,TI,it
+Morbio Inferiore,6834,0,Morbio Inferiore,5257,TI,it
+Novazzano,6883,0,Novazzano,5260,TI,it
+Riva San Vitale,6826,0,Riva San Vitale,5263,TI,it
+S. Pietro,6854,0,Stabio,5266,TI,it
+Stabio,6855,0,Stabio,5266,TI,it
+Vacallo,6833,0,Vacallo,5268,TI,it
+Morbio Superiore,6835,0,Breggia,5269,TI,it
+Caneggio,6837,0,Breggia,5269,TI,it
+Bruzella,6837,2,Breggia,5269,TI,it
+Muggio,6838,0,Breggia,5269,TI,it
+Cabbio,6838,2,Breggia,5269,TI,it
+Scudellate,6838,3,Breggia,5269,TI,it
+Sagno,6839,0,Breggia,5269,TI,it
+Biasca,6710,0,Biasca,5281,TI,it
+Prosito,6526,0,Riviera,5287,TI,it
+Lodrino,6527,0,Riviera,5287,TI,it
+Osogna,6703,0,Riviera,5287,TI,it
+Cresciano,6705,0,Riviera,5287,TI,it
+Iragna,6707,0,Riviera,5287,TI,it
+Bosco/Gurin,6685,0,Bosco/Gurin,5304,TI,de
+Niva (Vallemaggia),6683,2,Campo (Vallemaggia),5307,TI,it
+Campo (Vallemaggia),6684,0,Campo (Vallemaggia),5307,TI,it
+Cimalmotto,6684,1,Campo (Vallemaggia),5307,TI,it
+Cerentino,6683,0,Cerentino,5309,TI,it
+Cevio,6675,0,Cevio,5310,TI,it
+Bignasco,6676,0,Cevio,5310,TI,it
+Cavergno,6690,0,Cevio,5310,TI,it
+S. Carlo (Val Bavona),6690,1,Cevio,5310,TI,it
+Linescio,6682,0,Linescio,5315,TI,it
+Maggia,6673,0,Maggia,5317,TI,it
+Someo,6674,0,Maggia,5317,TI,it
+Riveo,6674,2,Maggia,5317,TI,it
+Aurigeno,6677,1,Maggia,5317,TI,it
+Moghegno,6677,2,Maggia,5317,TI,it
+Giumaglio,6678,0,Maggia,5317,TI,it
+Lodano,6678,2,Maggia,5317,TI,it
+Coglio,6678,3,Maggia,5317,TI,it
+Menzonio,6692,0,Lavizzara,5323,TI,it
+Brontallo,6692,1,Lavizzara,5323,TI,it
+Broglio,6693,0,Lavizzara,5323,TI,it
+Prato-Sornico,6694,0,Lavizzara,5323,TI,it
+Peccia,6695,0,Lavizzara,5323,TI,it
+Piano di Peccia,6695,1,Lavizzara,5323,TI,it
+Fusio,6696,0,Lavizzara,5323,TI,it
+Avegno,6670,0,Avegno Gordevio,5324,TI,it
+Gordevio,6672,0,Avegno Gordevio,5324,TI,it
+Medeglia,6809,0,Comunanza Cadenazzo/Montecener,5391,TI,it
+Tegna,6652,0,Terre di Pedemonte,5396,TI,it
+Verscio,6653,0,Terre di Pedemonte,5396,TI,it
+Cavigliano,6654,0,Terre di Pedemonte,5396,TI,it
+Intragna,6655,0,Centovalli,5397,TI,it
+Verdasio,6655,2,Centovalli,5397,TI,it
+Rasa,6655,3,Centovalli,5397,TI,it
+Golino,6656,0,Centovalli,5397,TI,it
+Palagnedra,6657,0,Centovalli,5397,TI,it
+Borgnone,6658,0,Centovalli,5397,TI,it
+Camedo,6659,0,Centovalli,5397,TI,it
+Moneto,6659,9,Centovalli,5397,TI,it
+Indemini,6571,0,Gambarogno,5398,TI,it
+Quartino,6572,0,Gambarogno,5398,TI,it
+Magadino,6573,0,Gambarogno,5398,TI,it
+Vira (Gambarogno),6574,0,Gambarogno,5398,TI,it
+S. Nazzaro,6575,0,Gambarogno,5398,TI,it
+Vairano,6575,1,Gambarogno,5398,TI,it
+Gerra (Gambarogno),6576,0,Gambarogno,5398,TI,it
+Ranzo,6577,0,Gambarogno,5398,TI,it
+Caviano,6578,0,Gambarogno,5398,TI,it
+Piazzogna,6579,0,Gambarogno,5398,TI,it
+Contone,6594,0,Gambarogno,5398,TI,it
+Aigle,1860,0,Aigle,5401,VD,fr
+Bex,1880,0,Bex,5402,VD,fr
+Frenières-sur-Bex,1880,2,Bex,5402,VD,fr
+Fenalet-sur-Bex,1880,3,Bex,5402,VD,fr
+Les Plans-sur-Bex,1880,4,Bex,5402,VD,fr
+Les Posses-sur-Bex,1880,5,Bex,5402,VD,fr
+Chessel,1846,0,Chessel,5403,VD,fr
+Corbeyrier,1856,0,Corbeyrier,5404,VD,fr
+Gryon,1882,0,Gryon,5405,VD,fr
+Lavey-Village,1892,0,Lavey-Morcles,5406,VD,fr
+Lavey-les-Bains,1892,1,Lavey-Morcles,5406,VD,fr
+Morcles,1892,2,Lavey-Morcles,5406,VD,fr
+Leysin,1854,0,Leysin,5407,VD,fr
+Noville,1845,0,Noville,5408,VD,fr
+Ollon VD,1867,0,Ollon,5409,VD,fr
+St-Triphon,1867,2,Ollon,5409,VD,fr
+Panex,1867,3,Ollon,5409,VD,fr
+Villars-sur-Ollon,1884,0,Ollon,5409,VD,fr
+Arveyes,1884,2,Ollon,5409,VD,fr
+Huémoz,1884,3,Ollon,5409,VD,fr
+Chesières,1885,0,Ollon,5409,VD,fr
+Les Mosses,1862,0,Ormont-Dessous,5410,VD,fr
+La Comballaz,1862,2,Ormont-Dessous,5410,VD,fr
+Le Sépey,1863,0,Ormont-Dessous,5410,VD,fr
+La Forclaz VD,1866,0,Ormont-Dessous,5410,VD,fr
+Vers-l'Eglise,1864,0,Ormont-Dessus,5411,VD,fr
+Les Diablerets,1865,0,Ormont-Dessus,5411,VD,fr
+Rennaz,1847,0,Rennaz,5412,VD,fr
+Roche VD,1852,0,Roche (VD),5413,VD,fr
+Villeneuve VD,1844,0,Villeneuve (VD),5414,VD,fr
+Yvorne,1853,0,Yvorne,5415,VD,fr
+Apples,1143,0,Apples,5421,VD,fr
+Aubonne,1170,0,Aubonne,5422,VD,fr
+Pizy,1174,2,Aubonne,5422,VD,fr
+Ballens,1144,0,Ballens,5423,VD,fr
+Berolle,1149,0,Berolle,5424,VD,fr
+Bière,1145,0,Bière,5425,VD,fr
+Bougy-Villars,1172,0,Bougy-Villars,5426,VD,fr
+Féchy,1173,0,Féchy,5427,VD,fr
+Gimel,1188,0,Gimel,5428,VD,fr
+Longirod,1261,35,Longirod,5429,VD,fr
+Marchissy,1261,32,Marchissy,5430,VD,fr
+Mollens VD,1146,0,Mollens (VD),5431,VD,fr
+Montherod,1174,0,Montherod,5432,VD,fr
+St-George,1188,2,Saint-George,5434,VD,fr
+St-Livres,1176,0,Saint-Livres,5435,VD,fr
+St-Oyens,1187,0,Saint-Oyens,5436,VD,fr
+Saubraz,1189,0,Saubraz,5437,VD,fr
+Avenches,1580,0,Avenches,5451,VD,fr
+Oleyres,1580,2,Avenches,5451,VD,fr
+Donatyre,1580,3,Avenches,5451,VD,fr
+Cudrefin,1588,0,Cudrefin,5456,VD,fr
+Faoug,1595,0,Faoug,5458,VD,fr
+Villars-le-Grand,1584,0,Vully-les-Lacs,5464,VD,fr
+Salavaux,1585,0,Vully-les-Lacs,5464,VD,fr
+Bellerive VD,1585,2,Vully-les-Lacs,5464,VD,fr
+Cotterd,1585,3,Vully-les-Lacs,5464,VD,fr
+Vallamand,1586,0,Vully-les-Lacs,5464,VD,fr
+Montmagny,1587,0,Vully-les-Lacs,5464,VD,fr
+Constantine,1587,1,Vully-les-Lacs,5464,VD,fr
+Chabrey,1589,0,Vully-les-Lacs,5464,VD,fr
+Mur (Vully) VD,1787,2,Vully-les-Lacs,5464,VD,fr
+Bettens,1042,4,Bettens,5471,VD,fr
+Bournens,1035,0,Bournens,5472,VD,fr
+Boussens,1034,0,Boussens,5473,VD,fr
+La Chaux (Cossonay),1308,0,La Chaux (Cossonay),5474,VD,fr
+Chavannes-le-Veyron,1148,7,Chavannes-le-Veyron,5475,VD,fr
+Chevilly,1316,0,Chevilly,5476,VD,fr
+Cossonay-Ville,1304,0,Cossonay,5477,VD,fr
+Allens,1304,3,Cossonay,5477,VD,fr
+Cottens VD,1116,0,Cottens (VD),5478,VD,fr
+Cuarnens,1148,4,Cuarnens,5479,VD,fr
+Daillens,1306,0,Daillens,5480,VD,fr
+Dizy,1304,2,Dizy,5481,VD,fr
+Eclépens,1312,0,Eclépens,5482,VD,fr
+Ferreyres,1313,0,Ferreyres,5483,VD,fr
+Gollion,1124,0,Gollion,5484,VD,fr
+Grancy,1117,0,Grancy,5485,VD,fr
+L'Isle,1148,0,L'Isle,5486,VD,fr
+Villars-Bozon,1148,3,L'Isle,5486,VD,fr
+La Coudre,1148,9,L'Isle,5486,VD,fr
+Lussery-Villars,1307,0,Lussery-Villars,5487,VD,fr
+Mauraz,1148,2,Mauraz,5488,VD,fr
+Mex VD,1031,0,Mex (VD),5489,VD,fr
+Moiry VD,1148,8,Moiry,5490,VD,fr
+Mont-la-Ville,1148,5,Mont-la-Ville,5491,VD,fr
+Montricher,1147,0,Montricher,5492,VD,fr
+Orny,1317,0,Orny,5493,VD,fr
+Pampigny,1142,0,Pampigny,5494,VD,fr
+Penthalaz,1305,0,Penthalaz,5495,VD,fr
+Penthaz,1303,0,Penthaz,5496,VD,fr
+Pompaples,1318,0,Pompaples,5497,VD,fr
+La Sarraz,1315,0,La Sarraz,5498,VD,fr
+Senarclens,1304,4,Senarclens,5499,VD,fr
+Sévery,1141,0,Sévery,5500,VD,fr
+Sullens,1036,0,Sullens,5501,VD,fr
+Vufflens-la-Ville,1302,0,Vufflens-la-Ville,5503,VD,fr
+Assens,1042,0,Assens,5511,VD,fr
+Bercher,1038,0,Bercher,5512,VD,fr
+Bioley-Orjulaz,1042,3,Bioley-Orjulaz,5513,VD,fr
+Bottens,1041,33,Bottens,5514,VD,fr
+Bretigny-sur-Morrens,1053,2,Bretigny-sur-Morrens,5515,VD,fr
+Cugy VD,1053,0,Cugy (VD),5516,VD,fr
+Echallens,1040,0,Echallens,5518,VD,fr
+Essertines-sur-Yverdon,1417,0,Essertines-sur-Yverdon,5520,VD,fr
+Epautheyres,1417,2,Essertines-sur-Yverdon,5520,VD,fr
+Etagnières,1037,0,Etagnières,5521,VD,fr
+Fey,1044,0,Fey,5522,VD,fr
+Froideville,1055,0,Froideville,5523,VD,fr
+Morrens VD,1054,0,Morrens (VD),5527,VD,fr
+Oulens-sous-Echallens,1377,0,Oulens-sous-Echallens,5529,VD,fr
+Pailly,1416,0,Pailly,5530,VD,fr
+Penthéréaz,1375,0,Penthéréaz,5531,VD,fr
+Poliez-Pittet,1041,32,Poliez-Pittet,5533,VD,fr
+Rueyres,1046,0,Rueyres,5534,VD,fr
+St-Barthélemy VD,1040,3,Saint-Barthélemy (VD),5535,VD,fr
+Villars-le-Terroir,1040,2,Villars-le-Terroir,5537,VD,fr
+Vuarrens,1418,0,Vuarrens,5539,VD,fr
+Dommartin,1041,21,Montilliez,5540,VD,fr
+Naz,1041,26,Montilliez,5540,VD,fr
+Poliez-le-Grand,1041,31,Montilliez,5540,VD,fr
+Sugnens,1043,0,Montilliez,5540,VD,fr
+Goumoens-la-Ville,1376,0,Goumoëns,5541,VD,fr
+Eclagnens,1376,2,Goumoëns,5541,VD,fr
+Goumoens-le-Jux,1376,3,Goumoëns,5541,VD,fr
+Bonvillars,1427,0,Bonvillars,5551,VD,fr
+Les Rasses,1452,0,Bullet,5552,VD,fr
+Bullet,1453,0,Bullet,5552,VD,fr
+Champagne,1424,0,Champagne,5553,VD,fr
+Concise,1426,0,Concise,5554,VD,fr
+Corcelles-près-Concise,1426,1,Corcelles-près-Concise,5555,VD,fr
+Fiez,1420,0,Fiez,5556,VD,fr
+Fontaines-sur-Grandson,1421,0,Fontaines-sur-Grandson,5557,VD,fr
+Giez,1429,0,Giez,5559,VD,fr
+Grandevent,1421,2,Grandevent,5560,VD,fr
+Grandson,1422,0,Grandson,5561,VD,fr
+Mauborget,1453,2,Mauborget,5562,VD,fr
+Mutrux,1428,2,Mutrux,5563,VD,fr
+Novalles,1431,2,Novalles,5564,VD,fr
+Onnens VD,1425,0,Onnens (VD),5565,VD,fr
+Provence,1428,1,Provence,5566,VD,fr
+Ste-Croix,1450,0,Sainte-Croix,5568,VD,fr
+La Sagne (Ste-Croix),1450,2,Sainte-Croix,5568,VD,fr
+Le Château-de-Ste-Croix,1450,3,Sainte-Croix,5568,VD,fr
+L'Auberson,1454,0,Sainte-Croix,5568,VD,fr
+La Vraconnaz,1454,2,Sainte-Croix,5568,VD,fr
+Villars-Burquin,1423,0,Tévenon,5571,VD,fr
+Fontanezier,1423,2,Tévenon,5571,VD,fr
+Romairon,1423,3,Tévenon,5571,VD,fr
+Vaugondry,1423,4,Tévenon,5571,VD,fr
+Belmont-sur-Lausanne,1092,0,Belmont-sur-Lausanne,5581,VD,fr
+Cheseaux-sur-Lausanne,1033,0,Cheseaux-sur-Lausanne,5582,VD,fr
+Crissier,1023,0,Crissier,5583,VD,fr
+Epalinges,1066,0,Epalinges,5584,VD,fr
+Jouxtens-Mézery,1008,2,Jouxtens-Mézery,5585,VD,fr
+Lausanne 25,1000,25,Lausanne,5586,VD,fr
+Lausanne 26,1000,26,Lausanne,5586,VD,fr
+Lausanne 27,1000,27,Lausanne,5586,VD,fr
+Lausanne,1003,0,Lausanne,5586,VD,fr
+Lausanne,1004,0,Lausanne,5586,VD,fr
+Lausanne,1005,0,Lausanne,5586,VD,fr
+Lausanne,1006,0,Lausanne,5586,VD,fr
+Lausanne,1007,0,Lausanne,5586,VD,fr
+Lausanne,1010,0,Lausanne,5586,VD,fr
+Lausanne,1011,0,Lausanne,5586,VD,fr
+Lausanne,1012,0,Lausanne,5586,VD,fr
+Lausanne,1015,0,Lausanne,5586,VD,fr
+Lausanne,1018,0,Lausanne,5586,VD,fr
+Le Mont-sur-Lausanne,1052,0,Le Mont-sur-Lausanne,5587,VD,fr
+Paudex,1094,0,Paudex,5588,VD,fr
+Prilly,1008,0,Prilly,5589,VD,fr
+Pully,1009,0,Pully,5590,VD,fr
+Les Monts-de-Pully,1068,0,Pully,5590,VD,fr
+Renens VD,1020,0,Renens (VD),5591,VD,fr
+Romanel-sur-Lausanne,1032,0,Romanel-sur-Lausanne,5592,VD,fr
+Chexbres,1071,0,Chexbres,5601,VD,fr
+Forel (Lavaux),1072,0,Forel (Lavaux),5604,VD,fr
+La Croix (Lutry),1090,0,Lutry,5606,VD,fr
+La Conversion,1093,0,Lutry,5606,VD,fr
+Lutry,1095,0,Lutry,5606,VD,fr
+Puidoux,1070,0,Puidoux,5607,VD,fr
+Rivaz,1071,1,Rivaz,5609,VD,fr
+St-Saphorin (Lavaux),1071,2,Saint-Saphorin (Lavaux),5610,VD,fr
+Savigny,1073,0,Savigny,5611,VD,fr
+Mollie-Margot,1073,2,Savigny,5611,VD,fr
+Grandvaux,1091,0,Bourg-en-Lavaux,5613,VD,fr
+Aran,1091,1,Bourg-en-Lavaux,5613,VD,fr
+Chenaux,1091,3,Bourg-en-Lavaux,5613,VD,fr
+Cully,1096,0,Bourg-en-Lavaux,5613,VD,fr
+Villette (Lavaux),1096,2,Bourg-en-Lavaux,5613,VD,fr
+Riex,1097,0,Bourg-en-Lavaux,5613,VD,fr
+Epesses,1098,0,Bourg-en-Lavaux,5613,VD,fr
+Aclens,1123,0,Aclens,5621,VD,fr
+Bremblens,1121,0,Bremblens,5622,VD,fr
+Buchillon,1164,0,Buchillon,5623,VD,fr
+Bussigny,1030,0,Bussigny,5624,VD,fr
+Bussy-Chardonney,1136,0,Bussy-Chardonney,5625,VD,fr
+Chavannes-près-Renens,1022,0,Chavannes-près-Renens,5627,VD,fr
+Chigny,1134,2,Chigny,5628,VD,fr
+Clarmont,1127,0,Clarmont,5629,VD,fr
+Denens,1135,0,Denens,5631,VD,fr
+Denges,1026,2,Denges,5632,VD,fr
+Echandens,1026,3,Echandens,5633,VD,fr
+Echichens,1112,0,Echichens,5634,VD,fr
+St-Saphorin-sur-Morges,1113,0,Echichens,5634,VD,fr
+Colombier VD,1114,0,Echichens,5634,VD,fr
+Monnaz,1125,0,Echichens,5634,VD,fr
+Ecublens VD,1024,0,Ecublens (VD),5635,VD,fr
+Etoy,1163,0,Etoy,5636,VD,fr
+Lavigny,1175,0,Lavigny,5637,VD,fr
+Lonay,1027,0,Lonay,5638,VD,fr
+Lully VD,1132,0,Lully (VD),5639,VD,fr
+Lussy-sur-Morges,1167,0,Lussy-sur-Morges,5640,VD,fr
+Morges,1110,0,Morges,5642,VD,fr
+Préverenges,1028,0,Préverenges,5643,VD,fr
+Reverolle,1128,0,Reverolle,5644,VD,fr
+Romanel-sur-Morges,1122,0,Romanel-sur-Morges,5645,VD,fr
+St-Prex,1162,0,Saint-Prex,5646,VD,fr
+St-Sulpice VD,1025,0,Saint-Sulpice (VD),5648,VD,fr
+Tolochenaz,1131,0,Tolochenaz,5649,VD,fr
+Vaux-sur-Morges,1126,0,Vaux-sur-Morges,5650,VD,fr
+Villars-Ste-Croix,1029,0,Villars-Sainte-Croix,5651,VD,fr
+Villars-sous-Yens,1168,0,Villars-sous-Yens,5652,VD,fr
+Vufflens-le-Château,1134,0,Vufflens-le-Château,5653,VD,fr
+Vullierens,1115,0,Vullierens,5654,VD,fr
+Yens,1169,0,Yens,5655,VD,fr
+Boulens,1063,3,Boulens,5661,VD,fr
+Bussy-sur-Moudon,1514,0,Bussy-sur-Moudon,5663,VD,fr
+Chavannes-sur-Moudon,1512,0,Chavannes-sur-Moudon,5665,VD,fr
+Curtilles,1521,0,Curtilles,5669,VD,fr
+Dompierre VD,1682,3,Dompierre (VD),5671,VD,fr
+Hermenches,1513,0,Hermenches,5673,VD,fr
+Lovatens,1682,2,Lovatens,5674,VD,fr
+Lucens,1522,0,Lucens,5675,VD,fr
+Oulens-sur-Lucens,1522,9,Lucens,5675,VD,fr
+Forel-sur-Lucens,1526,0,Lucens,5675,VD,fr
+Cremin,1526,2,Lucens,5675,VD,fr
+Brenles,1683,0,Lucens,5675,VD,fr
+Chesalles-sur-Moudon,1683,2,Lucens,5675,VD,fr
+Sarzens,1683,3,Lucens,5675,VD,fr
+Moudon,1510,0,Moudon,5678,VD,fr
+Ogens,1045,0,Ogens,5680,VD,fr
+Prévonloup,1682,0,Prévonloup,5683,VD,fr
+Rossenges,1513,2,Rossenges,5684,VD,fr
+Syens,1510,2,Syens,5688,VD,fr
+Villars-le-Comte,1515,0,Villars-le-Comte,5690,VD,fr
+Vucherens,1509,0,Vucherens,5692,VD,fr
+Chapelle-sur-Moudon,1063,0,Montanaire,5693,VD,fr
+Martherenges,1063,2,Montanaire,5693,VD,fr
+Peyres-Possens,1063,4,Montanaire,5693,VD,fr
+Chanéaz,1409,0,Montanaire,5693,VD,fr
+Thierrens,1410,0,Montanaire,5693,VD,fr
+Correvon,1410,2,Montanaire,5693,VD,fr
+Denezy,1410,3,Montanaire,5693,VD,fr
+St-Cierges,1410,5,Montanaire,5693,VD,fr
+Neyruz-sur-Moudon,1515,1,Montanaire,5693,VD,fr
+Arnex-sur-Nyon,1277,1,Arnex-sur-Nyon,5701,VD,fr
+Arzier-Le Muids,1273,0,Arzier-Le Muids,5702,VD,fr
+Bassins,1269,0,Bassins,5703,VD,fr
+Begnins,1268,0,Begnins,5704,VD,fr
+Bogis-Bossey,1279,2,Bogis-Bossey,5705,VD,fr
+Borex,1277,0,Borex,5706,VD,fr
+Chavannes-de-Bogis,1279,0,Chavannes-de-Bogis,5707,VD,fr
+Chavannes-des-Bois,1290,2,Chavannes-des-Bois,5708,VD,fr
+Chéserex,1275,0,Chéserex,5709,VD,fr
+Coinsins,1267,2,Coinsins,5710,VD,fr
+Commugny,1291,0,Commugny,5711,VD,fr
+Coppet,1296,0,Coppet,5712,VD,fr
+Crans-près-Céligny,1299,0,Crans-près-Céligny,5713,VD,fr
+Crassier,1263,0,Crassier,5714,VD,fr
+Duillier,1266,0,Duillier,5715,VD,fr
+Eysins,1262,0,Eysins,5716,VD,fr
+Founex,1297,0,Founex,5717,VD,fr
+Genolier,1272,0,Genolier,5718,VD,fr
+Gingins,1276,0,Gingins,5719,VD,fr
+Givrins,1271,0,Givrins,5720,VD,fr
+Gland,1196,0,Gland,5721,VD,fr
+Grens,1274,3,Grens,5722,VD,fr
+Mies,1295,1,Mies,5723,VD,fr
+Nyon,1260,0,Nyon,5724,VD,fr
+Prangins,1197,0,Prangins,5725,VD,fr
+La Rippe,1278,0,La Rippe,5726,VD,fr
+St-Cergue,1264,0,Saint-Cergue,5727,VD,fr
+La Cure,1265,0,Saint-Cergue,5727,VD,fr
+Signy,1274,1,Signy-Avenex,5728,VD,fr
+Tannay,1295,2,Tannay,5729,VD,fr
+Trélex,1270,0,Trélex,5730,VD,fr
+Le Vaud,1261,33,Le Vaud,5731,VD,fr
+Vich,1267,1,Vich,5732,VD,fr
+L'Abergement,1355,0,L'Abergement,5741,VD,fr
+Agiez,1352,0,Agiez,5742,VD,fr
+Arnex-sur-Orbe,1321,0,Arnex-sur-Orbe,5743,VD,fr
+Ballaigues,1338,0,Ballaigues,5744,VD,fr
+Baulmes,1446,0,Baulmes,5745,VD,fr
+Bavois,1372,0,Bavois,5746,VD,fr
+Bofflens,1353,0,Bofflens,5747,VD,fr
+Bretonnières,1329,0,Bretonnières,5748,VD,fr
+Chavornay,1373,0,Chavornay,5749,VD,fr
+Corcelles-sur-Chavornay,1374,0,Chavornay,5749,VD,fr
+Essert-Pittet,1435,0,Chavornay,5749,VD,fr
+Les Clées,1356,0,Les Clées,5750,VD,fr
+La Russille,1356,2,Les Clées,5750,VD,fr
+Croy,1322,0,Croy,5752,VD,fr
+Juriens,1326,0,Juriens,5754,VD,fr
+Lignerolle,1357,0,Lignerolle,5755,VD,fr
+Montcherand,1354,0,Montcherand,5756,VD,fr
+Orbe,1350,0,Orbe,5757,VD,fr
+La Praz,1148,6,La Praz,5758,VD,fr
+Premier,1324,0,Premier,5759,VD,fr
+Rances,1439,0,Rances,5760,VD,fr
+Romainmôtier,1323,0,Romainmôtier-Envy,5761,VD,fr
+Sergey,1355,2,Sergey,5762,VD,fr
+Valeyres-sous-Rances,1358,0,Valeyres-sous-Rances,5763,VD,fr
+Vallorbe,1337,0,Vallorbe,5764,VD,fr
+Vaulion,1325,0,Vaulion,5765,VD,fr
+Vuiteboeuf,1445,0,Vuiteboeuf,5766,VD,fr
+Corcelles-le-Jorat,1082,0,Corcelles-le-Jorat,5785,VD,fr
+Essertes,1078,0,Essertes,5788,VD,fr
+Maracon,1613,0,Maracon,5790,VD,fr
+Montpreveyres,1081,0,Montpreveyres,5792,VD,fr
+Ropraz,1088,0,Ropraz,5798,VD,fr
+Servion,1077,0,Servion,5799,VD,fr
+Les Cullayes,1080,0,Servion,5799,VD,fr
+Vulliens,1085,0,Vulliens,5803,VD,fr
+Montaubion-Chardonney,1041,22,Jorat-Menthue,5804,VD,fr
+Villars-Tiercelin,1058,0,Jorat-Menthue,5804,VD,fr
+Peney-le-Jorat,1059,0,Jorat-Menthue,5804,VD,fr
+Villars-Mendraz,1061,0,Jorat-Menthue,5804,VD,fr
+Sottens,1062,0,Jorat-Menthue,5804,VD,fr
+Palézieux,1607,0,Oron,5805,VD,fr
+Palézieux-Village,1607,1,Oron,5805,VD,fr
+Les Tavernes,1607,3,Oron,5805,VD,fr
+Les Thioleyres,1607,4,Oron,5805,VD,fr
+Oron-le-Châtel,1608,0,Oron,5805,VD,fr
+Bussigny-sur-Oron,1608,2,Oron,5805,VD,fr
+Chesalles-sur-Oron,1608,3,Oron,5805,VD,fr
+Oron-la-Ville,1610,0,Oron,5805,VD,fr
+Châtillens,1610,1,Oron,5805,VD,fr
+Vuibroye,1610,2,Oron,5805,VD,fr
+Ecoteaux,1612,0,Oron,5805,VD,fr
+Ferlens VD,1076,0,Jorat-Mézières,5806,VD,fr
+Mézières VD,1083,0,Jorat-Mézières,5806,VD,fr
+Carrouge VD,1084,0,Jorat-Mézières,5806,VD,fr
+Champtauroz,1537,0,Champtauroz,5812,VD,fr
+Chevroux,1545,0,Chevroux,5813,VD,fr
+Corcelles-près-Payerne,1562,0,Corcelles-près-Payerne,5816,VD,fr
+Grandcour,1543,0,Grandcour,5817,VD,fr
+Henniez,1525,0,Henniez,5819,VD,fr
+Missy,1565,0,Missy,5821,VD,fr
+Payerne,1530,0,Payerne,5822,VD,fr
+Vers-chez-Perrin,1551,0,Payerne,5822,VD,fr
+Trey,1552,0,Trey,5827,VD,fr
+Treytorrens (Payerne),1538,0,Treytorrens (Payerne),5828,VD,fr
+Sédeilles,1554,0,Villarzel,5830,VD,fr
+Rossens VD,1554,2,Villarzel,5830,VD,fr
+Villarzel,1555,0,Villarzel,5830,VD,fr
+Granges-près-Marnand,1523,0,Valbroye,5831,VD,fr
+Marnand,1524,0,Valbroye,5831,VD,fr
+Seigneux,1525,2,Valbroye,5831,VD,fr
+Sassel,1534,0,Valbroye,5831,VD,fr
+Combremont-le-Grand,1535,0,Valbroye,5831,VD,fr
+Combremont-le-Petit,1536,0,Valbroye,5831,VD,fr
+Villars-Bramard,1682,4,Valbroye,5831,VD,fr
+Cerniaz VD,1682,5,Valbroye,5831,VD,fr
+Château-d’Oex,1660,0,Château-d’Oex,5841,VD,fr
+Les Moulins,1660,2,Château-d’Oex,5841,VD,fr
+L'Etivaz,1660,3,Château-d’Oex,5841,VD,fr
+La Lécherette,1660,4,Château-d’Oex,5841,VD,fr
+Rossinière,1658,0,Rossinière,5842,VD,fr
+La Tine,1658,2,Rossinière,5842,VD,fr
+Rougemont,1659,0,Rougemont,5843,VD,fr
+Flendruz,1659,2,Rougemont,5843,VD,fr
+Allaman,1165,0,Allaman,5851,VD,fr
+Bursinel,1195,3,Bursinel,5852,VD,fr
+Bursins,1183,0,Bursins,5853,VD,fr
+Burtigny,1268,2,Burtigny,5854,VD,fr
+Dully,1195,2,Dully,5855,VD,fr
+Essertines-sur-Rolle,1186,0,Essertines-sur-Rolle,5856,VD,fr
+Gilly,1182,0,Gilly,5857,VD,fr
+Luins,1184,0,Luins,5858,VD,fr
+Mont-sur-Rolle,1185,0,Mont-sur-Rolle,5859,VD,fr
+Perroy,1166,0,Perroy,5860,VD,fr
+Rolle,1180,0,Rolle,5861,VD,fr
+Tartegnin,1180,2,Tartegnin,5862,VD,fr
+Vinzel,1184,1,Vinzel,5863,VD,fr
+Le Pont,1342,0,L'Abbaye,5871,VD,fr
+L'Abbaye,1344,0,L'Abbaye,5871,VD,fr
+Les Bioux,1346,0,L'Abbaye,5871,VD,fr
+L'Orient,1341,0,Le Chenit,5872,VD,fr
+Le Sentier,1347,0,Le Chenit,5872,VD,fr
+Le Solliat,1347,1,Le Chenit,5872,VD,fr
+Le Brassus,1348,0,Le Chenit,5872,VD,fr
+Les Charbonnières,1343,0,Le Lieu,5873,VD,fr
+Le Lieu,1345,0,Le Lieu,5873,VD,fr
+Le Séchey,1345,1,Le Lieu,5873,VD,fr
+Blonay,1807,0,Blonay,5881,VD,fr
+Le Mont-Pèlerin,1801,0,Chardonne,5882,VD,fr
+Chardonne,1803,0,Chardonne,5882,VD,fr
+Corseaux,1802,0,Corseaux,5883,VD,fr
+Corsier-sur-Vevey,1804,0,Corsier-sur-Vevey,5884,VD,fr
+Les Monts-de-Corsier,1808,0,Corsier-sur-Vevey,5884,VD,fr
+Fenil-sur-Corsier,1809,0,Corsier-sur-Vevey,5884,VD,fr
+Jongny,1805,0,Jongny,5885,VD,fr
+Clarens,1815,0,Montreux,5886,VD,fr
+Chailly-Montreux,1816,0,Montreux,5886,VD,fr
+Brent,1817,0,Montreux,5886,VD,fr
+Montreux,1820,0,Montreux,5886,VD,fr
+Territet,1820,5,Montreux,5886,VD,fr
+Chernex,1822,0,Montreux,5886,VD,fr
+Glion,1823,0,Montreux,5886,VD,fr
+Caux,1824,0,Montreux,5886,VD,fr
+Chamby,1832,0,Montreux,5886,VD,fr
+Villard-sur-Chamby,1832,2,Montreux,5886,VD,fr
+Les Avants,1833,0,Montreux,5886,VD,fr
+St-Légier-La Chiésaz,1806,0,Saint-Légier-La Chiésaz,5888,VD,fr
+La Tour-de-Peilz,1814,0,La Tour-de-Peilz,5889,VD,fr
+Vevey,1800,0,Vevey,5890,VD,fr
+Veytaux,1820,6,Veytaux,5891,VD,fr
+Belmont-sur-Yverdon,1432,0,Belmont-sur-Yverdon,5902,VD,fr
+Bioley-Magnoux,1407,4,Bioley-Magnoux,5903,VD,fr
+Chamblon,1436,2,Chamblon,5904,VD,fr
+Champvent,1443,0,Champvent,5905,VD,fr
+Essert-sous-Champvent,1443,2,Champvent,5905,VD,fr
+Villars-sous-Champvent,1443,3,Champvent,5905,VD,fr
+Chavannes-le-Chêne,1464,0,Chavannes-le-Chêne,5907,VD,fr
+Chêne-Pâquier,1464,2,Chêne-Pâquier,5908,VD,fr
+Cheseaux-Noréaz,1400,5,Cheseaux-Noréaz,5909,VD,fr
+Cronay,1406,0,Cronay,5910,VD,fr
+Cuarny,1404,0,Cuarny,5911,VD,fr
+Démoret,1415,2,Démoret,5912,VD,fr
+Donneloye,1407,0,Donneloye,5913,VD,fr
+Gossens,1407,2,Donneloye,5913,VD,fr
+Mézery-près-Donneloye,1407,3,Donneloye,5913,VD,fr
+Prahins,1408,0,Donneloye,5913,VD,fr
+Ependes VD,1434,0,Ependes (VD),5914,VD,fr
+Mathod,1438,0,Mathod,5919,VD,fr
+Molondin,1415,0,Molondin,5921,VD,fr
+Montagny-près-Yverdon,1442,0,Montagny-près-Yverdon,5922,VD,fr
+Oppens,1047,0,Oppens,5923,VD,fr
+Orges,1430,0,Orges,5924,VD,fr
+Orzens,1413,0,Orzens,5925,VD,fr
+Pomy,1405,0,Pomy,5926,VD,fr
+Rovray,1463,0,Rovray,5928,VD,fr
+Suchy,1433,0,Suchy,5929,VD,fr
+Suscévaz,1437,0,Suscévaz,5930,VD,fr
+Treycovagnes,1436,0,Treycovagnes,5931,VD,fr
+Ursins,1412,2,Ursins,5932,VD,fr
+Valeyres-sous-Montagny,1441,0,Valeyres-sous-Montagny,5933,VD,fr
+Valeyres-sous-Ursins,1412,0,Valeyres-sous-Ursins,5934,VD,fr
+Villars-Epeney,1404,2,Villars-Epeney,5935,VD,fr
+Vugelles-La Mothe,1431,0,Vugelles-La Mothe,5937,VD,fr
+Yverdon-les-Bains,1400,0,Yverdon-les-Bains,5938,VD,fr
+Gressy,1432,2,Yverdon-les-Bains,5938,VD,fr
+Yvonand,1462,0,Yvonand,5939,VD,fr
+Brig,3900,0,Brig-Glis,6002,VS,de
+Gamsen,3900,2,Brig-Glis,6002,VS,de
+Brigerbad,3900,3,Brig-Glis,6002,VS,de
+Glis,3902,0,Brig-Glis,6002,VS,de
+Eggerberg,3939,0,Eggerberg,6004,VS,de
+Mund,3903,0,Naters,6007,VS,de
+Birgisch,3903,1,Naters,6007,VS,de
+Naters,3904,0,Naters,6007,VS,de
+Blatten b. Naters,3914,0,Naters,6007,VS,de
+Belalp,3914,1,Naters,6007,VS,de
+Rothwald,3901,23,Ried-Brig,6008,VS,de
+Ried-Brig,3911,0,Ried-Brig,6008,VS,de
+Simplon Dorf,3907,0,Simplon,6009,VS,de
+Simplon Hospiz,3907,2,Simplon,6009,VS,de
+Gabi (Simplon),3907,3,Simplon,6009,VS,de
+Termen,3912,0,Termen,6010,VS,de
+Rosswald,3913,0,Termen,6010,VS,de
+Gondo,3907,4,Zwischbergen,6011,VS,de
+Ardon,1957,0,Ardon,6021,VS,fr
+Mayens-de-Chamoson,1911,2,Chamoson,6022,VS,fr
+Chamoson,1955,0,Chamoson,6022,VS,fr
+Les Vérines (Chamoson),1955,2,Chamoson,6022,VS,fr
+Némiaz (Chamoson),1955,3,Chamoson,6022,VS,fr
+Grugnay (Chamoson),1955,4,Chamoson,6022,VS,fr
+St-Pierre-de-Clages,1955,5,Chamoson,6022,VS,fr
+Conthey,1964,0,Conthey,6023,VS,fr
+St-Séverin,1975,0,Conthey,6023,VS,fr
+Erde,1976,0,Conthey,6023,VS,fr
+Aven,1976,1,Conthey,6023,VS,fr
+Daillon,1976,2,Conthey,6023,VS,fr
+Clèbes (Nendaz),1993,2,Nendaz,6024,VS,fr
+Aproz (Nendaz),1994,2,Nendaz,6024,VS,fr
+Basse-Nendaz,1996,0,Nendaz,6024,VS,fr
+Fey (Nendaz),1996,1,Nendaz,6024,VS,fr
+Bieudron (Nendaz),1996,2,Nendaz,6024,VS,fr
+Condémines (Nendaz),1996,3,Nendaz,6024,VS,fr
+Saclentse,1996,4,Nendaz,6024,VS,fr
+Baar (Nendaz),1996,5,Nendaz,6024,VS,fr
+Beuson (Nendaz),1996,6,Nendaz,6024,VS,fr
+Brignon (Nendaz),1996,7,Nendaz,6024,VS,fr
+Haute-Nendaz,1997,0,Nendaz,6024,VS,fr
+Siviez (Nendaz),1997,1,Nendaz,6024,VS,fr
+Sornard (Nendaz),1997,2,Nendaz,6024,VS,fr
+Vétroz,1963,0,Vétroz,6025,VS,fr
+Le Châble VS,1934,0,Bagnes,6031,VS,fr
+Bruson,1934,1,Bagnes,6031,VS,fr
+Verbier,1936,0,Bagnes,6031,VS,fr
+Versegères,1947,0,Bagnes,6031,VS,fr
+Champsec,1947,5,Bagnes,6031,VS,fr
+Lourtier,1948,0,Bagnes,6031,VS,fr
+Fionnay,1948,1,Bagnes,6031,VS,fr
+Sarreyer,1948,2,Bagnes,6031,VS,fr
+Bourg-St-Pierre,1946,0,Bourg-Saint-Pierre,6032,VS,fr
+Liddes,1945,0,Liddes,6033,VS,fr
+Fontaine Dessus (Liddes),1945,2,Liddes,6033,VS,fr
+Fontaine Dessous (Liddes),1945,3,Liddes,6033,VS,fr
+Dranse (Liddes),1945,4,Liddes,6033,VS,fr
+Chandonne (Liddes),1945,5,Liddes,6033,VS,fr
+Rive Haute (Liddes),1945,6,Liddes,6033,VS,fr
+Fornex (Liddes),1945,7,Liddes,6033,VS,fr
+Les Moulins VS (Liddes),1945,8,Liddes,6033,VS,fr
+Vichères (Liddes),1945,9,Liddes,6033,VS,fr
+Palasuit (Liddes),1945,10,Liddes,6033,VS,fr
+Chez Petit (Liddes),1945,11,Liddes,6033,VS,fr
+Petit Vichères (Liddes),1945,12,Liddes,6033,VS,fr
+Orsières,1937,0,Orsières,6034,VS,fr
+Champex-Lac,1938,0,Orsières,6034,VS,fr
+Praz-de-Fort,1943,0,Orsières,6034,VS,fr
+La Fouly,1944,0,Orsières,6034,VS,fr
+Sembrancher,1933,0,Sembrancher,6035,VS,fr
+Chamoille (Sembrancher),1933,3,Sembrancher,6035,VS,fr
+La Garde (Sembrancher),1933,4,Sembrancher,6035,VS,fr
+Chemin-Dessus,1927,0,Vollèges,6036,VS,fr
+Vens (Sembrancher),1933,2,Vollèges,6036,VS,fr
+Vollèges,1941,0,Vollèges,6036,VS,fr
+Cries (Vollèges),1941,2,Vollèges,6036,VS,fr
+Levron,1942,0,Vollèges,6036,VS,fr
+Fiesch,3984,0,Bellwald,6052,VS,de
+Bellwald,3997,0,Bellwald,6052,VS,de
+Binn,3996,0,Binn,6054,VS,de
+Ernen,3995,0,Ernen,6056,VS,de
+Ausserbinn,3995,2,Ernen,6056,VS,de
+Mühlebach (Goms),3995,3,Ernen,6056,VS,de
+Mühlebach (Goms),3995,3,Ernen,6056,VS,de
+Steinhaus,3995,4,Ernen,6056,VS,de
+Steinhaus,3995,4,Ernen,6056,VS,de
+Fiesch,3984,0,Fiesch,6057,VS,de
+Jungfraujoch,3801,33,Fieschertal,6058,VS,de
+Fieschertal,3984,2,Fieschertal,6058,VS,de
+Lax,3994,0,Lax,6061,VS,de
+Ulrichen,3988,0,Obergoms,6076,VS,de
+Obergesteln,3988,2,Obergoms,6076,VS,de
+Oberwald,3999,0,Obergoms,6076,VS,de
+Münster VS,3985,0,Goms,6077,VS,de
+Geschinen,3985,2,Goms,6077,VS,de
+Biel VS,3989,0,Goms,6077,VS,de
+Ritzingen,3989,2,Goms,6077,VS,de
+Selkingen,3989,3,Goms,6077,VS,de
+Niederwald,3989,4,Goms,6077,VS,de
+Blitzingen,3989,5,Goms,6077,VS,de
+Reckingen VS,3998,0,Goms,6077,VS,de
+Gluringen,3998,1,Goms,6077,VS,de
+Fortunau (Ayent),1966,2,Ayent,6082,VS,fr
+Luc (Ayent),1966,3,Ayent,6082,VS,fr
+St-Romain (Ayent),1966,4,Ayent,6082,VS,fr
+Saxonne (Ayent),1966,5,Ayent,6082,VS,fr
+Villa (Ayent),1966,6,Ayent,6082,VS,fr
+La Place (Ayent),1966,7,Ayent,6082,VS,fr
+Botyre (Ayent),1966,8,Ayent,6082,VS,fr
+Blignou (Ayent),1966,9,Ayent,6082,VS,fr
+Argnou (Ayent),1966,10,Ayent,6082,VS,fr
+Signèse (Ayent),1966,11,Ayent,6082,VS,fr
+Anzère,1972,0,Ayent,6082,VS,fr
+Evolène,1983,0,Evolène,6083,VS,fr
+Lannaz,1983,2,Evolène,6083,VS,fr
+Les Haudères,1984,0,Evolène,6083,VS,fr
+La Tour VS,1984,1,Evolène,6083,VS,fr
+La Sage,1985,0,Evolène,6083,VS,fr
+La Forclaz VS,1985,1,Evolène,6083,VS,fr
+Villa (Evolène),1985,2,Evolène,6083,VS,fr
+Arolla,1986,0,Evolène,6083,VS,fr
+Euseigne,1982,0,Hérémence,6084,VS,fr
+Hérémence,1987,0,Hérémence,6084,VS,fr
+St-Martin VS,1969,0,Saint-Martin (VS),6087,VS,fr
+Liez (St-Martin),1969,2,Saint-Martin (VS),6087,VS,fr
+Trogne (St-Martin),1969,3,Saint-Martin (VS),6087,VS,fr
+Suen (St-Martin),1969,4,Saint-Martin (VS),6087,VS,fr
+Eison (St-Martin),1969,5,Saint-Martin (VS),6087,VS,fr
+Vex,1981,0,Vex,6089,VS,fr
+Thyon,1988,1,Vex,6089,VS,fr
+Les Collons,1988,2,Vex,6089,VS,fr
+Vernamiège,1961,0,Mont-Noble,6090,VS,fr
+Mase,1968,0,Mont-Noble,6090,VS,fr
+Nax,1973,0,Mont-Noble,6090,VS,fr
+Agarn,3951,0,Agarn,6101,VS,de
+Albinen,3955,0,Albinen,6102,VS,de
+Ergisch,3947,0,Ergisch,6104,VS,de
+Inden,3953,1,Inden,6109,VS,de
+Susten,3952,0,Leuk,6110,VS,de
+Leuk Stadt,3953,0,Leuk,6110,VS,de
+Erschmatt,3957,0,Leuk,6110,VS,de
+Leukerbad,3954,0,Leukerbad,6111,VS,de
+Oberems,3948,1,Oberems,6112,VS,de
+Salgesch,3970,0,Salgesch,6113,VS,de
+Varen,3953,2,Varen,6116,VS,de
+Guttet-Feschel,3956,0,Guttet-Feschel,6117,VS,de
+Gampel,3945,0,Gampel-Bratsch,6118,VS,de
+Niedergampel,3945,1,Gampel-Bratsch,6118,VS,de
+Bratsch,3957,2,Gampel-Bratsch,6118,VS,de
+Turtmann,3946,0,Turtmann-Unterems,6119,VS,de
+Gruben,3946,2,Turtmann-Unterems,6119,VS,de
+Unterems,3948,0,Turtmann-Unterems,6119,VS,de
+Bovernier,1932,0,Bovernier,6131,VS,fr
+Les Valettes (Bovernier),1932,2,Bovernier,6131,VS,fr
+Charrat,1906,0,Charrat,6132,VS,fr
+Fully,1926,0,Fully,6133,VS,fr
+Isérables,1914,0,Isérables,6134,VS,fr
+Ovronnaz,1911,0,Leytron,6135,VS,fr
+Leytron,1912,0,Leytron,6135,VS,fr
+Produit (Leytron),1912,2,Leytron,6135,VS,fr
+Montagnon (Leytron),1912,3,Leytron,6135,VS,fr
+Dugny (Leytron),1912,4,Leytron,6135,VS,fr
+Martigny,1920,0,Martigny,6136,VS,fr
+Martigny-Croix,1921,0,Martigny-Combe,6137,VS,fr
+Ravoire,1928,0,Martigny-Combe,6137,VS,fr
+Riddes,1908,0,Riddes,6139,VS,fr
+Auddes-sur-Riddes,1914,2,Riddes,6139,VS,fr
+La Tzoumaz,1918,0,Riddes,6139,VS,fr
+Saillon,1913,0,Saillon,6140,VS,fr
+Saxon,1907,0,Saxon,6141,VS,fr
+Trient,1929,0,Trient,6142,VS,fr
+Champéry,1874,0,Champéry,6151,VS,fr
+Collombey,1868,0,Collombey-Muraz,6152,VS,fr
+Collombey,1868,0,Collombey-Muraz,6152,VS,fr
+Muraz (Collombey),1893,0,Collombey-Muraz,6152,VS,fr
+Monthey,1870,0,Monthey,6153,VS,fr
+Monthey,1870,0,Monthey,6153,VS,fr
+Choëx,1871,0,Monthey,6153,VS,fr
+Les Giettes,1871,2,Monthey,6153,VS,fr
+Bouveret,1897,0,Port-Valais,6154,VS,fr
+Les Evouettes,1897,3,Port-Valais,6154,VS,fr
+St-Gingolph,1898,0,Saint-Gingolph,6155,VS,fr
+Troistorrents,1872,0,Troistorrents,6156,VS,fr
+Morgins,1875,0,Troistorrents,6156,VS,fr
+Val-d'Illiez,1873,0,Val-d'Illiez,6157,VS,fr
+Champoussin,1873,2,Val-d'Illiez,6157,VS,fr
+Les Crosets,1873,3,Val-d'Illiez,6157,VS,fr
+Vionnaz,1895,0,Vionnaz,6158,VS,fr
+Torgon,1899,0,Vionnaz,6158,VS,fr
+Vouvry,1896,0,Vouvry,6159,VS,fr
+Miex,1896,2,Vouvry,6159,VS,fr
+Bister,3983,2,Bister,6172,VS,de
+Bitsch,3982,0,Bitsch,6173,VS,de
+Grengiols,3993,0,Grengiols,6177,VS,de
+Goppisberg,3983,4,Riederalp,6181,VS,de
+Greich,3983,5,Riederalp,6181,VS,de
+Ried-Mörel,3986,0,Riederalp,6181,VS,de
+Riederalp,3987,0,Riederalp,6181,VS,de
+Ausserberg,3938,0,Ausserberg,6191,VS,de
+Blatten (Lötschen),3919,0,Blatten,6192,VS,de
+Bürchen,3935,0,Bürchen,6193,VS,de
+Eischoll,3943,0,Eischoll,6194,VS,de
+Ferden,3916,0,Ferden,6195,VS,de
+Goppenstein,3917,2,Ferden,6195,VS,de
+Kippel,3917,0,Kippel,6197,VS,de
+Niedergesteln,3942,2,Niedergesteln,6198,VS,de
+Raron,3942,0,Raron,6199,VS,de
+St. German,3942,3,Raron,6199,VS,de
+Unterbäch,3944,0,Unterbäch,6201,VS,de
+Wiler (Lötschen),3918,0,Wiler (Lötschen),6202,VS,de
+Mörel,3983,0,Mörel-Filet,6203,VS,de
+Filet,3983,3,Mörel-Filet,6203,VS,de
+Steg VS,3940,0,Steg-Hohtenn,6204,VS,de
+Hohtenn,3949,0,Steg-Hohtenn,6204,VS,de
+Betten,3991,0,Bettmeralp,6205,VS,de
+Bettmeralp,3992,0,Bettmeralp,6205,VS,de
+Martisberg,3994,2,Bettmeralp,6205,VS,de
+Collonges,1903,0,Collonges,6211,VS,fr
+Dorénaz,1905,0,Dorénaz,6212,VS,fr
+Evionnaz,1902,0,Evionnaz,6213,VS,fr
+Finhaut,1925,0,Finhaut,6214,VS,fr
+Le Châtelard VS,1925,1,Finhaut,6214,VS,fr
+Massongex,1869,0,Massongex,6215,VS,fr
+St-Maurice,1890,0,Saint-Maurice,6217,VS,fr
+Mex VS,1890,1,Saint-Maurice,6217,VS,fr
+Salvan,1922,0,Salvan,6218,VS,fr
+Les Granges (Salvan),1922,1,Salvan,6218,VS,fr
+Les Marécottes,1923,0,Salvan,6218,VS,fr
+Le Trétien,1923,2,Salvan,6218,VS,fr
+Vernayaz,1904,0,Vernayaz,6219,VS,fr
+Vérossaz,1891,11,Vérossaz,6220,VS,fr
+Chalais,3966,0,Chalais,6232,VS,fr
+Réchy,3966,1,Chalais,6232,VS,fr
+Vercorin,3967,0,Chalais,6232,VS,fr
+Chippis,3965,0,Chippis,6235,VS,fr
+Grône,3979,0,Grône,6238,VS,fr
+Icogne,1977,0,Icogne,6239,VS,fr
+Lens,1978,0,Lens,6240,VS,fr
+Flanthey,3978,0,Lens,6240,VS,fr
+Miège,3972,0,Miège,6241,VS,fr
+St-Léonard,1958,0,Saint-Léonard,6246,VS,fr
+Sierre,3960,0,Sierre,6248,VS,fr
+Muraz (Sierre),3960,5,Sierre,6248,VS,fr
+Noës,3976,0,Sierre,6248,VS,fr
+Granges VS,3977,0,Sierre,6248,VS,fr
+Venthône,3973,0,Venthône,6249,VS,fr
+Veyras,3968,0,Veyras,6250,VS,fr
+Niouc,3960,4,Anniviers,6252,VS,fr
+Vissoie,3961,21,Anniviers,6252,VS,fr
+St-Luc,3961,22,Anniviers,6252,VS,fr
+Chandolin,3961,23,Anniviers,6252,VS,fr
+Ayer,3961,24,Anniviers,6252,VS,fr
+Zinal,3961,25,Anniviers,6252,VS,fr
+Grimentz,3961,26,Anniviers,6252,VS,fr
+Mission,3961,27,Anniviers,6252,VS,fr
+St-Jean VS,3961,41,Anniviers,6252,VS,fr
+Corin-de-la-Crête,3960,2,Crans-Montana,6253,VS,fr
+Loc,3960,3,Crans-Montana,6253,VS,fr
+Crans-Montana,3963,0,Crans-Montana,6253,VS,fr
+Montana,3963,3,Crans-Montana,6253,VS,fr
+Aminona,3963,4,Crans-Montana,6253,VS,fr
+Chermignon,3971,0,Crans-Montana,6253,VS,fr
+Chermignon-d'en-Bas,3971,1,Crans-Montana,6253,VS,fr
+Ollon VS,3971,2,Crans-Montana,6253,VS,fr
+Mollens VS,3974,0,Crans-Montana,6253,VS,fr
+Randogne,3975,0,Crans-Montana,6253,VS,fr
+Champzabé,3976,2,Crans-Montana,6253,VS,fr
+Arbaz,1974,0,Arbaz,6261,VS,fr
+Grimisuat,1971,0,Grimisuat,6263,VS,fr
+Champlan (Grimisuat),1971,2,Grimisuat,6263,VS,fr
+Savièse,1965,0,Savièse,6265,VS,fr
+Sion,1950,0,Sion,6266,VS,fr
+Uvrier,1958,2,Sion,6266,VS,fr
+Pont-de-la-Morge (Sion),1962,0,Sion,6266,VS,fr
+Bramois,1967,0,Sion,6266,VS,fr
+Salins,1991,0,Sion,6266,VS,fr
+Arvillard (Salins),1991,2,Sion,6266,VS,fr
+Pravidondaz (Salins),1991,3,Sion,6266,VS,fr
+Turin (Salins),1991,4,Sion,6266,VS,fr
+Misériez (Salins),1991,5,Sion,6266,VS,fr
+Les Agettes,1992,0,Sion,6266,VS,fr
+Les Mayens-de-Sion,1992,1,Sion,6266,VS,fr
+La Vernaz (Les Agettes),1992,2,Sion,6266,VS,fr
+Crête-à-l'Oeil (Les Agettes),1992,3,Sion,6266,VS,fr
+Veysonnaz,1993,0,Veysonnaz,6267,VS,fr
+Baltschieder,3937,0,Baltschieder,6281,VS,de
+Baltschieder,3937,0,Baltschieder,6281,VS,de
+Eisten,3922,2,Eisten,6282,VS,de
+Kalpetran,3922,1,Embd,6283,VS,de
+Embd,3926,0,Embd,6283,VS,de
+Grächen,3925,0,Grächen,6285,VS,de
+Lalden,3931,1,Lalden,6286,VS,de
+Randa,3928,0,Randa,6287,VS,de
+Saas-Almagell,3905,0,Saas-Almagell,6288,VS,de
+Saas-Balen,3908,0,Saas-Balen,6289,VS,de
+Saas-Fee,3906,0,Saas-Fee,6290,VS,de
+Saas-Grund,3910,0,Saas-Grund,6291,VS,de
+St. Niklaus VS,3924,0,St. Niklaus,6292,VS,de
+Herbriggen,3927,0,St. Niklaus,6292,VS,de
+Stalden VS,3922,0,Stalden (VS),6293,VS,de
+Staldenried,3933,0,Staldenried,6294,VS,de
+Täsch,3929,0,Täsch,6295,VS,de
+Törbel,3923,0,Törbel,6296,VS,de
+Visp,3930,0,Visp,6297,VS,de
+Eyholz,3930,2,Visp,6297,VS,de
+Visperterminen,3932,0,Visperterminen,6298,VS,de
+Zeneggen,3934,0,Zeneggen,6299,VS,de
+Zermatt,3920,0,Zermatt,6300,VS,de
+Areuse,2015,0,Boudry,6404,NE,fr
+Boudry,2017,0,Boudry,6404,NE,fr
+Corcelles NE,2035,0,Corcelles-Cormondrèche,6407,NE,fr
+Cormondrèche,2036,0,Corcelles-Cormondrèche,6407,NE,fr
+Cortaillod,2016,0,Cortaillod,6408,NE,fr
+Peseux,2034,0,Peseux,6412,NE,fr
+Rochefort,2019,0,Rochefort,6413,NE,fr
+Chambrelien,2019,2,Rochefort,6413,NE,fr
+Montezillon,2037,2,Rochefort,6413,NE,fr
+Champ-du-Moulin,2149,0,Rochefort,6413,NE,fr
+Fretereules,2149,2,Rochefort,6413,NE,fr
+Brot-Dessous,2149,3,Rochefort,6413,NE,fr
+Auvernier,2012,0,Milvignes,6416,NE,fr
+Colombier NE,2013,0,Milvignes,6416,NE,fr
+Bôle,2014,0,Milvignes,6416,NE,fr
+Bevaix,2022,0,La Grande-Béroche,6417,NE,fr
+Gorgier,2023,0,La Grande-Béroche,6417,NE,fr
+St-Aubin-Sauges,2024,0,La Grande-Béroche,6417,NE,fr
+St-Aubin-Sauges,2024,0,La Grande-Béroche,6417,NE,fr
+Chez-le-Bart,2025,0,La Grande-Béroche,6417,NE,fr
+Montalchez,2027,2,La Grande-Béroche,6417,NE,fr
+Fresens,2027,3,La Grande-Béroche,6417,NE,fr
+Vaumarcus,2028,0,La Grande-Béroche,6417,NE,fr
+La Chaux-de-Fonds,2300,0,La Chaux-de-Fonds,6421,NE,fr
+La Cibourg,2300,8,La Chaux-de-Fonds,6421,NE,fr
+Le Crêt-du-Locle,2322,0,La Chaux-de-Fonds,6421,NE,fr
+La Cibourg,2333,2,La Chaux-de-Fonds,6421,NE,fr
+La Cibourg,2616,2,La Chaux-de-Fonds,6421,NE,fr
+Les Planchettes,2325,0,Les Planchettes,6422,NE,fr
+La Sagne,2314,0,La Sagne,6423,NE,fr
+Les Brenets,2416,0,Les Brenets,6431,NE,fr
+La Brévine,2406,0,La Brévine,6432,NE,fr
+Les Taillères,2406,2,La Brévine,6432,NE,fr
+La Châtagne,2406,3,La Brévine,6432,NE,fr
+Le Brouillet,2406,4,La Brévine,6432,NE,fr
+Brot-Plamboz,2318,0,Brot-Plamboz,6433,NE,fr
+Le Cerneux-Péquignot,2414,0,Le Cerneux-Péquignot,6434,NE,fr
+La Chaux-du-Milieu,2405,0,La Chaux-du-Milieu,6435,NE,fr
+Le Locle,2400,0,Le Locle,6436,NE,fr
+Le Locle,2400,0,Le Locle,6436,NE,fr
+Le Prévoux,2400,2,Le Locle,6436,NE,fr
+Les Ponts-de-Martel,2316,0,Les Ponts-de-Martel,6437,NE,fr
+Petit-Martel,2316,2,Les Ponts-de-Martel,6437,NE,fr
+Cornaux,2087,0,Cornaux,6451,NE,fr
+Cressier NE,2088,0,Cressier (NE),6452,NE,fr
+Enges,2073,0,Enges,6453,NE,fr
+Hauterive NE,2068,0,Hauterive (NE),6454,NE,fr
+Le Landeron,2525,0,Le Landeron,6455,NE,fr
+Lignières,2523,0,Lignières,6456,NE,fr
+Neuchâtel,2000,0,Neuchâtel,6458,NE,fr
+Chaumont,2067,0,Neuchâtel,6458,NE,fr
+St-Blaise,2072,0,Saint-Blaise,6459,NE,fr
+Marin-Epagnier,2074,0,La Tène,6461,NE,fr
+Thielle,2075,1,La Tène,6461,NE,fr
+Wavre,2075,2,La Tène,6461,NE,fr
+Valangin,2042,0,Valangin,6485,NE,fr
+Montmollin,2037,0,Val-de-Ruz,6487,NE,fr
+Boudevilliers,2043,0,Val-de-Ruz,6487,NE,fr
+Fontaines NE,2046,0,Val-de-Ruz,6487,NE,fr
+Fontainemelon,2052,0,Val-de-Ruz,6487,NE,fr
+La Vue-des-Alpes,2052,2,Val-de-Ruz,6487,NE,fr
+Cernier,2053,0,Val-de-Ruz,6487,NE,fr
+Chézard-St-Martin,2054,0,Val-de-Ruz,6487,NE,fr
+Les Vieux-Prés,2054,2,Val-de-Ruz,6487,NE,fr
+Dombresson,2056,0,Val-de-Ruz,6487,NE,fr
+Villiers,2057,0,Val-de-Ruz,6487,NE,fr
+Le Pâquier NE,2058,0,Val-de-Ruz,6487,NE,fr
+Vilars NE,2063,0,Val-de-Ruz,6487,NE,fr
+Engollon,2063,2,Val-de-Ruz,6487,NE,fr
+Fenin,2063,3,Val-de-Ruz,6487,NE,fr
+Saules,2063,4,Val-de-Ruz,6487,NE,fr
+Savagnier,2065,0,Val-de-Ruz,6487,NE,fr
+Les Geneveys-sur-Coffrane,2206,0,Val-de-Ruz,6487,NE,fr
+Coffrane,2207,0,Val-de-Ruz,6487,NE,fr
+Les Hauts-Geneveys,2208,0,Val-de-Ruz,6487,NE,fr
+La Côte-aux-Fées,2117,0,La Côte-aux-Fées,6504,NE,fr
+Les Verrières,2126,0,Les Verrières,6511,NE,fr
+Noiraigue,2103,0,Val-de-Travers,6512,NE,fr
+Travers,2105,0,Val-de-Travers,6512,NE,fr
+Couvet,2108,0,Val-de-Travers,6512,NE,fr
+Môtiers NE,2112,0,Val-de-Travers,6512,NE,fr
+Boveresse,2113,0,Val-de-Travers,6512,NE,fr
+Fleurier,2114,0,Val-de-Travers,6512,NE,fr
+Buttes,2115,0,Val-de-Travers,6512,NE,fr
+Mont-de-Buttes,2116,0,Val-de-Travers,6512,NE,fr
+St-Sulpice NE,2123,0,Val-de-Travers,6512,NE,fr
+Les Sagnettes,2124,0,Val-de-Travers,6512,NE,fr
+Les Bayards,2127,0,Val-de-Travers,6512,NE,fr
+Aire-la-Ville,1288,0,Aire-la-Ville,6601,GE,fr
+Anières,1247,0,Anières,6602,GE,fr
+Avully,1237,0,Avully,6603,GE,fr
+Athenaz (Avusy),1285,0,Avusy,6604,GE,fr
+La Croix-de-Rozon,1257,0,Bardonnex,6605,GE,fr
+Bellevue,1293,0,Bellevue,6606,GE,fr
+Bernex,1233,0,Bernex,6607,GE,fr
+Carouge GE,1227,0,Carouge (GE),6608,GE,fr
+Cartigny,1236,0,Cartigny,6609,GE,fr
+Céligny,1298,0,Céligny,6610,GE,fr
+Céligny,1298,0,Céligny,6610,GE,fr
+Chancy,1284,0,Chancy,6611,GE,fr
+Chêne-Bougeries,1224,0,Chêne-Bougeries,6612,GE,fr
+Conches,1231,0,Chêne-Bougeries,6612,GE,fr
+Chêne-Bourg,1225,0,Chêne-Bourg,6613,GE,fr
+Choulex,1244,0,Choulex,6614,GE,fr
+Collex,1239,0,Collex-Bossy,6615,GE,fr
+Vésenaz,1222,0,Collonge-Bellerive,6616,GE,fr
+Collonge-Bellerive,1245,0,Collonge-Bellerive,6616,GE,fr
+Cologny,1223,0,Cologny,6617,GE,fr
+Confignon,1232,0,Confignon,6618,GE,fr
+Corsier GE,1246,0,Corsier (GE),6619,GE,fr
+La Plaine,1283,0,Dardagny,6620,GE,fr
+Dardagny,1283,1,Dardagny,6620,GE,fr
+Genève,1201,0,Genève,6621,GE,fr
+Genève,1202,0,Genève,6621,GE,fr
+Genève,1203,0,Genève,6621,GE,fr
+Genève,1204,0,Genève,6621,GE,fr
+Genève,1205,0,Genève,6621,GE,fr
+Genève,1206,0,Genève,6621,GE,fr
+Genève,1207,0,Genève,6621,GE,fr
+Genève,1208,0,Genève,6621,GE,fr
+Genève,1209,0,Genève,6621,GE,fr
+Les Acacias,1227,4,Genève,6621,GE,fr
+Genthod,1294,0,Genthod,6622,GE,fr
+Genève,1215,0,Le Grand-Saconnex,6623,GE,fr
+Le Grand-Saconnex,1218,0,Le Grand-Saconnex,6623,GE,fr
+Gy,1251,0,Gy,6624,GE,fr
+Hermance,1248,0,Hermance,6625,GE,fr
+Jussy,1254,0,Jussy,6626,GE,fr
+Laconnex,1287,0,Laconnex,6627,GE,fr
+Grand-Lancy,1212,0,Lancy,6628,GE,fr
+Petit-Lancy,1213,0,Lancy,6628,GE,fr
+Meinier,1252,0,Meinier,6629,GE,fr
+Cointrin,1216,0,Meyrin,6630,GE,fr
+Meyrin,1217,0,Meyrin,6630,GE,fr
+Onex,1213,3,Onex,6631,GE,fr
+Perly,1258,0,Perly-Certoux,6632,GE,fr
+Plan-les-Ouates,1228,0,Plan-les-Ouates,6633,GE,fr
+Chambésy,1292,0,Pregny-Chambésy,6634,GE,fr
+Presinge,1243,0,Presinge,6635,GE,fr
+Puplinge,1241,0,Puplinge,6636,GE,fr
+Russin,1281,0,Russin,6637,GE,fr
+Satigny,1242,0,Satigny,6638,GE,fr
+Soral,1286,0,Soral,6639,GE,fr
+Thônex,1226,0,Thônex,6640,GE,fr
+Troinex,1256,0,Troinex,6641,GE,fr
+Vandoeuvres,1253,0,Vandoeuvres,6642,GE,fr
+Vernier,1214,0,Vernier,6643,GE,fr
+Le Lignon,1219,0,Vernier,6643,GE,fr
+Aïre,1219,10,Vernier,6643,GE,fr
+Châtelaine,1219,12,Vernier,6643,GE,fr
+Les Avanchets,1220,0,Vernier,6643,GE,fr
+Versoix,1290,0,Versoix,6644,GE,fr
+Vessy,1234,0,Veyrier,6645,GE,fr
+Veyrier,1255,0,Veyrier,6645,GE,fr
+Boécourt,2856,0,Boécourt,6702,JU,fr
+Montavon,2857,0,Boécourt,6702,JU,fr
+Bourrignon,2803,0,Bourrignon,6703,JU,fr
+Châtillon JU,2843,0,Châtillon (JU),6704,JU,fr
+Courchapoix,2825,0,Courchapoix,6706,JU,fr
+Courrendlin,2830,0,Courrendlin,6708,JU,fr
+Vellerat,2830,2,Courrendlin,6708,JU,fr
+Rebeuvelier,2832,0,Courrendlin,6708,JU,fr
+Courroux,2822,0,Courroux,6709,JU,fr
+Courcelon,2823,0,Courroux,6709,JU,fr
+Courtételle,2852,0,Courtételle,6710,JU,fr
+Delémont,2800,0,Delémont,6711,JU,fr
+Develier,2802,0,Develier,6712,JU,fr
+Ederswiler,2813,0,Ederswiler,6713,JU,de
+Mervelier,2827,0,Mervelier,6715,JU,fr
+Mettembert,2806,0,Mettembert,6716,JU,fr
+Movelier,2812,0,Movelier,6718,JU,fr
+Pleigne,2807,0,Pleigne,6719,JU,fr
+Lucelle,2807,1,Pleigne,6719,JU,fr
+Rossemaison,2842,0,Rossemaison,6721,JU,fr
+Saulcy,2873,0,Saulcy,6722,JU,fr
+Soyhières,2805,0,Soyhières,6724,JU,fr
+Courfaivre,2853,0,Haute-Sorne,6729,JU,fr
+Bassecourt,2854,0,Haute-Sorne,6729,JU,fr
+Glovelier,2855,0,Haute-Sorne,6729,JU,fr
+Undervelier,2863,0,Haute-Sorne,6729,JU,fr
+Soulce,2864,0,Haute-Sorne,6729,JU,fr
+Vicques,2824,0,Val Terbi,6730,JU,fr
+Corban,2826,0,Val Terbi,6730,JU,fr
+Montsevelier,2828,0,Val Terbi,6730,JU,fr
+Vermes,2829,0,Val Terbi,6730,JU,fr
+Le Bémont JU,2360,0,Le Bémont (JU),6741,JU,fr
+Les Bois,2336,0,Les Bois,6742,JU,fr
+Les Breuleux,2345,0,Les Breuleux,6743,JU,fr
+La Chaux-des-Breuleux,2345,3,La Chaux-des-Breuleux,6744,JU,fr
+Les Enfers,2363,0,Les Enfers,6745,JU,fr
+Les Genevez JU,2714,0,Les Genevez (JU),6748,JU,fr
+Le Prédame,2714,2,Les Genevez (JU),6748,JU,fr
+Lajoux JU,2718,0,Lajoux (JU),6750,JU,fr
+Fornet-Dessus,2718,2,Lajoux (JU),6750,JU,fr
+Montfaucon,2362,0,Montfaucon,6751,JU,fr
+Montfavergier,2362,2,Montfaucon,6751,JU,fr
+Les Emibois,2338,0,Muriaux,6753,JU,fr
+Muriaux,2338,2,Muriaux,6753,JU,fr
+Le Cerneux-Veusil,2345,2,Muriaux,6753,JU,fr
+Le Noirmont,2340,0,Le Noirmont,6754,JU,fr
+Saignelégier,2350,0,Saignelégier,6757,JU,fr
+Les Pommerats,2353,0,Saignelégier,6757,JU,fr
+Goumois,2354,0,Saignelégier,6757,JU,fr
+St-Brais,2364,0,Saint-Brais,6758,JU,fr
+St-Ursanne,2882,0,Saint-Brais,6758,JU,fr
+Soubey,2887,0,Soubey,6759,JU,fr
+Alle,2942,0,Alle,6771,JU,fr
+Beurnevésin,2935,0,Beurnevésin,6773,JU,fr
+Boncourt,2926,0,Boncourt,6774,JU,fr
+Bonfol,2944,0,Bonfol,6775,JU,fr
+Bure,2915,0,Bure,6778,JU,fr
+Coeuve,2932,0,Coeuve,6781,JU,fr
+Cornol,2952,0,Cornol,6782,JU,fr
+Courchavon,2922,0,Courchavon,6783,JU,fr
+Courgenay,2950,0,Courgenay,6784,JU,fr
+Courtemautruy,2950,2,Courgenay,6784,JU,fr
+Courtedoux,2905,0,Courtedoux,6785,JU,fr
+Damphreux,2933,2,Damphreux,6787,JU,fr
+Fahy,2916,0,Fahy,6789,JU,fr
+Fontenais,2902,0,Fontenais,6790,JU,fr
+Villars-sur-Fontenais,2903,0,Fontenais,6790,JU,fr
+Bressaucourt,2904,0,Fontenais,6790,JU,fr
+Grandfontaine,2908,0,Grandfontaine,6792,JU,fr
+Lugnez,2933,3,Lugnez,6793,JU,fr
+Porrentruy,2900,0,Porrentruy,6800,JU,fr
+Vendlincourt,2943,0,Vendlincourt,6806,JU,fr
+Courtemaîche,2923,0,Basse-Allaine,6807,JU,fr
+Montignez,2924,0,Basse-Allaine,6807,JU,fr
+Buix,2925,0,Basse-Allaine,6807,JU,fr
+St-Ursanne,2882,0,Clos du Doubs,6808,JU,fr
+Montmelon,2883,0,Clos du Doubs,6808,JU,fr
+Montenol,2884,0,Clos du Doubs,6808,JU,fr
+Epauvillers,2885,0,Clos du Doubs,6808,JU,fr
+Epiquerez,2886,0,Clos du Doubs,6808,JU,fr
+Seleute,2888,0,Clos du Doubs,6808,JU,fr
+Ocourt,2889,0,Clos du Doubs,6808,JU,fr
+Chevenez,2906,0,Haute-Ajoie,6809,JU,fr
+Rocourt,2907,0,Haute-Ajoie,6809,JU,fr
+Réclère,2912,2,Haute-Ajoie,6809,JU,fr
+Roche-d'Or,2912,3,Haute-Ajoie,6809,JU,fr
+Damvant,2914,0,Haute-Ajoie,6809,JU,fr
+Miécourt,2946,0,La Baroche,6810,JU,fr
+Charmoille,2947,0,La Baroche,6810,JU,fr
+Fregiécourt,2953,2,La Baroche,6810,JU,fr
+Pleujouse,2953,3,La Baroche,6810,JU,fr
+Asuel,2954,0,La Baroche,6810,JU,fr
+Thunersee,9999,1,Thunersee,9073,BE,de
+Brienzersee,9999,2,Brienzersee,9089,BE,de
+Bielersee,9999,0,Bielersee (BE),9149,BE,de
