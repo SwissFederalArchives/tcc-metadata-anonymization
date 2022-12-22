@@ -48,8 +48,9 @@ class BARModels(object):
             self.vectorizer = joblib.load(os.path.join(models_dir, 'vectorizer.joblib'))
             self.models_dict = self.load_models(models_dir)
         else:
-            self.vectorizer = models_dict.pop('vectorizer')
-            self.models_dict = models_dict
+            models_dict_copy = models_dict.copy()
+            self.vectorizer = models_dict_copy.pop('vectorizer')
+            self.models_dict = models_dict_copy
 
     def load_models(self, models_dir):
         logging.info('Loading models...')
