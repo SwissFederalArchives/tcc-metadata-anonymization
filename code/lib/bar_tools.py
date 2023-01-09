@@ -9,6 +9,8 @@ import sys
 import os
 import re
 
+import logging
+
 import spacy
 
 from spacy.tokens import Span
@@ -147,12 +149,12 @@ class AHVChecker(object):
         
     def _build_patterns(self):
         pattern_dict = dict()
-        pattern_dict['pattern1'] = re.compile('[0-9]{3}\.[0-9]{2}\.[0-9]{3}\.?([0-9]{3})?') # 123.12.123 or 123.12.123.123
+        pattern_dict['pattern1'] = re.compile('[0-9]{3}\.[0-9]{2}\.[0-9]{3}\.?([0-9]{3})?') # 123.12.123 or 123.12.123.123. 
+
+        # Here: add more regex to cover custom identifiers
+
         #pattern_dict['pattern2'] = re.compile('[0-9]{2,4}\-[0-9]{3,4}(\-[0-9]{1,4})') # 123-123-12 123-1234 
-        #pattern_dict['pattern3'] = re.compile('\([0-9]{2,4}((:|\.)[0-9])?\)\s?[0-9]{2,3}(\.[0-9])?\/[0-9]{2,3}')
-        #(123:0) 123/12 - (123)123.0/123 - (1234:0)123/123 - (1234:0) 12/123 - (123.0)123.1/123
-        #pattern_dict['pattern4'] = re.compile('(A|N){1}\s[0-9\s]{3,6}')
-        pattern_dict['pattern5'] = re.compile('ordipro nr.\s?([0-9]+)', re.I)
+       
         return pattern_dict
 
     def is_ahv(self, token):
@@ -306,9 +308,10 @@ class OffsetParser(object):
                     try:
                         assert ch == tag.name
                     except Exception as e:
-                        logging.debug(tag.name)
-                        logging.debug(ch)
-                        logging.debug(self.html_string)
+                        logging.error(f'{e} : error in tag detected.')
+                        logging.error(tag.name)
+                        logging.error(ch)
+                        logging.error(self.html_string)
                         raise e                    
                     
             else:
@@ -335,11 +338,11 @@ class Annotation(object):
         spanning_tokens_offsets = sorted(spanning_tokens.values())
 
         try:
-        
             setattr(self, 'token_start', spanning_tokens_offsets[0])  # start token
             setattr(self, 'token_end', spanning_tokens_offsets[-1]+1)  # end token
         except IndexError as e:
-            logging.debug('Spanning Tokens Error.')
+            logging.error('Spanning Tokens Error.')
+            logging.error(spanning_tokens_offsets)
             raise e
         
         return self
