@@ -40,8 +40,12 @@ from stopwords import stopwords
 from bar_tools import Annotation, AHVChecker, DateChecker
 
 
-def entity_spans(annotations_dict, nlp):
-    '''Generate a spacy doc with added (manual) entity annotations (in SpaCy format).'''
+def entity_spans(annotations_dict, nlp, mode='manual_annotations'):
+    '''
+    Generate a spacy doc with added (manual) entity annotations (in SpaCy format).
+    Mode decides if matches which cannot be mapped to tokens should be logged as warnings.
+    Only for 'manual_annotations' errors are logged but not for 'regex_matches' such as identification numbers. These are dropped without a warning.
+    '''
 
     text = annotations_dict['text']
     doc = nlp(text)
@@ -52,16 +56,20 @@ def entity_spans(annotations_dict, nlp):
 
     try:
         annotations = [a.set_token_offset(token_offset_dict) for a in annotations]
+
     except IndexError as e:  # match cannot be assigned to one spacy token / most likely corresponds to subtoken
         annotations = list()
+
+        if mode == 'manual_annotations':
+            logging.warning(f'A match in the following snipped cannot be assigned to full token and will therefore be skipped: {text}')
+            logging.warning(f'Annotation Dict: {annotations_dict}')
     
     annotation_spans = [Span(doc, a.token_start, a.token_end, label=a.label) for a in annotations]
     
     try:
         doc.ents = annotation_spans  # deletes spacy entities from doc
     except ValueError as ve:
-        logging.debug(f'ValueError: {text}')
-        logging.debug('Proposed solution: change regex in tokenizer to keep tokens together.')
+        logging.error(f'ValueError for entry: {text} . Possible solution: change regex in tokenizer to keep tokens together.')
         raise ve
     
     return doc
@@ -282,8 +290,6 @@ class FeatureCollector(object):
         '''
 
         text_field = anon_field
-
-        logging.debug(f'IN DF: {in_df.head()}')
         
         # apply spacy preprocessing and tokenization using the bar tokenizer
         spacy_docs = in_df[text_field].apply(lambda x: self.tokenizer.nlp(x))
@@ -348,7 +354,7 @@ class FeatureCollector(object):
         feat_df = id_df_s_expanded.copy().reset_index(drop=True)
 
         ahv_annotations = in_df[[text_field, 'ahv_match_dict']].apply(lambda x: {'text':x[0], 'ents':x[1]}, axis=1)
-        spacy_docs_ahv = ahv_annotations.apply(lambda x: entity_spans(x, self.tokenizer.nlp))
+        spacy_docs_ahv = ahv_annotations.apply(lambda x: entity_spans(x, self.tokenizer.nlp, mode='regex_matches'))
 
         id_df_ahv = pd.concat([spacy_docs_ahv.reset_index(drop=True), in_df[id_field].astype('str').reset_index(drop=True)], axis=1)
 
