@@ -80,7 +80,6 @@ class TrainPreprocessor(object):
         labels_puncts = pd.concat([bio_df['annotation'].reset_index(drop=True), feat_df['is_punct'].reset_index(drop=True)], axis=1)
         recoded_labels = labels_puncts.apply(lambda x: 'p' if str(x[1]) == 'True' and x[0] == 'O' else x[0], axis=1)
         recoded_labels = recoded_labels[~recoded_labels.apply(lambda x: str(x).lower()=='nan')]
-        logging.debug(f'recoded labels shape {recoded_labels.shape}')
 
         bio_df['annotation'] = recoded_labels.tolist()
         return bio_df       
@@ -152,14 +151,21 @@ def train_crf(doc_feat_df, doc_anno, c1=0.03436075827766486, c2=1.91355067116413
     logging.info(f'CRF model: training completed.')
     return crf
 
-def train_mlp_svm(tok_feat_df, tok_anno):
-    le = {'O': 0, 'a': 1, 'd': 2, 'j': 3, 'n': 4, 'p': 5, 'wd': 6}
+def train_mlp_svm(tok_feat_df, tok_anno, label_set={'n', 'j', 'w', 'wd', 'a', 'd', 'O', 'p'}):
+
+    le = {label:enc for enc, label in enumerate(sorted([str(i) for i in list(label_set)]))}
+    logging.debug(f'Encoding labels to the following numerical representation: {le}')
+    
     vectorizer = DictVectorizer()
     X = vectorizer.fit_transform(tok_feat_df['tok_features'])
     X = X.toarray()
     logging.debug(f'Training data shape (token level): {X.shape}')
 
-    y = tok_anno['annotation'].apply(lambda x: le[x])
+    try:
+        y = tok_anno['annotation'].apply(lambda x: le[x])
+    except KeyError as e:
+        logging.error(f'Unknown label found: {e}. Please fix training data and try again.')
+        raise e
 
     logging.info('Training MLP Classifier...')
     mlp_clf = MLPClassifier()
@@ -173,7 +179,7 @@ def train_mlp_svm(tok_feat_df, tok_anno):
     logging.info('SVM model: training completed')
     return (mlp_clf, svm_clf, vectorizer)
 
-def train_classifiers(doc_feat_df, doc_anno, tok_feat_df, tok_anno):
+def train_classifiers(doc_feat_df, doc_anno, tok_feat_df, tok_anno, label_set={'n', 'j', 'w', 'wd', 'a', 'd', 'O', 'p'}):
     crf_model = train_crf(doc_feat_df, doc_anno)  # TODO: add c1, c2 arguments
     mlp_model, svm_model, vectorizer = train_mlp_svm(tok_feat_df, tok_anno)
     logging.info('Training of ensemble subsystems completed.')
@@ -197,9 +203,10 @@ def save_classifiers(models_dir, crf_model, mlp_model, svm_model, vectorizer):
     logging.info('All models successfully saved.')
 
 def run_training(in_path, models_dir, dictionary_paths, anno_field='annotation', context_field='context', id_field='doc_id'):
+    label_set = {'n', 'j', 'w', 'wd', 'a', 'd', 'O', 'p'}
     in_df = pd.read_csv(in_path, sep='\t')
     ((tok_feat_df, tok_anno), (doc_feat_df, doc_anno)) = prepare_training(in_df, dictionary_paths, anno_field=anno_field, context_field=context_field, id_field=id_field)
-    crf_model, mlp_model, svm_model, vectorizer = train_classifiers(doc_feat_df, doc_anno, tok_feat_df, tok_anno)
+    crf_model, mlp_model, svm_model, vectorizer = train_classifiers(doc_feat_df, doc_anno, tok_feat_df, tok_anno, label_set=label_set)
     save_classifiers(models_dir, crf_model, mlp_model, svm_model, vectorizer)
 
     
